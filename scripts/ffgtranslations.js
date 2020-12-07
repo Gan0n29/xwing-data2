@@ -3,13 +3,7 @@
  */
 
 const fs = require("fs");
-const gitdiff = require("git-diff");
-const stringMath = require("string-math");
-const diffOpts = {
-  color: true,
-  noHeaders: true,
-  wordDiff: true
-};
+const stringify = require('json-stable-stringify');
 
 const languages = ['en', 'fr', 'de', 'es']
 
@@ -61,8 +55,6 @@ function sanitize(text) {
 }
 
 Object.entries(dataStrings).forEach(([language, dataString]) => {
-  console.log(language)
-
   let data = JSON.parse(dataString)
 
   data.cards.forEach(card => {
@@ -92,5 +84,5 @@ Object.entries(dataStrings).forEach(([language, dataString]) => {
 
 fs.writeFileSync(
     `${__dirname}/../data/translation.json`,
-    JSON.stringify(translations, null, 2)
+    stringify(translations, {space: 2})
 );
