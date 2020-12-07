@@ -1,6 +1,6 @@
 /**
  * Downloads card JSON data from https://squadbuilder.fantasyflightgames.com/api/cards/{id}/ and
- * stores them in ffgcards-en.json
+ * stores them in ffgcards.json
  */
 
 var https = require("https");
@@ -9,16 +9,10 @@ var fs = require("fs");
 let cards = "https://x-wing-api.fantasyflightgames.com/cards/";
 let metadata = "https://x-wing-api.fantasyflightgames.com/app-metadata/";
 
-let languages = ['en', 'fr', 'de', 'es']
-
-function getData(url, language) {
+function getData(url) {
   console.log("Retrieving " + url);
   return new Promise((resolve, reject) => {
-    const request = https.get(url, {
-      headers: {
-        'Accept-Language': language
-      }
-    }, res => {
+    const request = https.get(url, res => {
       let data = "";
       if (res.status >= 400) {
         reject(res);
@@ -36,18 +30,15 @@ function getData(url, language) {
   });
 }
 
-languages.forEach(language => {
-  getData(cards, language).then(data => {
-    console.log(`Writing to ffgcards-${language}.json`);
-    fs.writeFileSync(`${__dirname}/ffgcards-${language}.json`, JSON.stringify(data, null, 2));
-  });
-
-  getData(metadata, language).then(data => {
-    console.log(`Writing to ffgmetadata-${language}.json`);
-    fs.writeFileSync(
-        `${__dirname}/ffgmetadata-${language}.json`,
-        JSON.stringify(data, null, 2)
-    );
-  });
+getData(cards).then(data => {
+  console.log("Writing to ffgcards.json");
+  fs.writeFileSync(`${__dirname}/ffgcards.json`, JSON.stringify(data, null, 2));
 });
 
+getData(metadata).then(data => {
+  console.log("Writing to ffgmetadata.json");
+  fs.writeFileSync(
+    `${__dirname}/ffgmetadata.json`,
+    JSON.stringify(data, null, 2)
+  );
+});

@@ -1,4882 +1,2970 @@
 {
   "000": {
-    "de": "0-0-0",
-    "en": "0-0-0",
-    "es": "0-0-0",
-    "fr": "0-0-0"
+    "fr": "0-0-0",
+    "en": "0-0-0"
   },
   "066": {
-    "de": "0-66",
-    "en": "0-66",
-    "es": "0-66",
-    "fr": "0-66"
+    "fr": "O-66",
+    "en": "O-66"
   },
   "104thbattalionpilot": {
-    "de": "Pilot des 104. Bataillons",
-    "en": "104th Battalion Pilot",
-    "es": "Piloto del Batallón 104",
-    "fr": "Pilote du 104ème Bataillon"
-  },
-  "212thbattalionpilot": {
-    "de": "Pilot des 212. Angriffsbataillons",
-    "en": "212th Battalion Pilot",
-    "es": "Piloto del Batallón 212",
-    "fr": "Pilote du 212ème Bataillon"
+    "fr": "Pilote du 104ème Bataillon",
+    "en": "104th Battalion Pilot"
   },
   "4lom": {
-    "de": "4-LOM",
-    "en": "4-LOM",
-    "es": "4-LOM",
-    "fr": "4-LOM"
+    "fr": "4-LOM",
+    "en": "4-LOM"
   },
   "aaylasecura": {
-    "de": "Aayla Secura",
-    "en": "Aayla Secura",
-    "es": "Aayla Secura",
-    "fr": "Aayla Secura"
-  },
-  "aaylasecura-eta2actis": {
-    "de": "Aayla Secura",
-    "en": "Aayla Secura",
-    "es": "Aayla Secura",
-    "fr": "Aayla Secura"
+    "fr": "Aayla Secura",
+    "en": "Aayla Secura"
   },
   "ablativeplating": {
-    "de": "Ablative Panzerung",
-    "en": "Ablative Plating",
-    "es": "Blindaje ablativo",
-    "fr": "Blindage Ablatif"
+    "fr": "Blindage Ablatif",
+    "en": "Ablative Plating"
   },
   "academypilot": {
-    "de": "Pilot der Akademie",
-    "en": "Academy Pilot",
-    "es": "Piloto de la Academia",
-    "fr": "Pilote de l'Académie"
+    "fr": "Pilote de l'Académie",
+    "en": "Academy Pilot"
   },
   "adaptiveshields": {
-    "de": "Adaptive Schilde",
-    "en": "Adaptive Shields",
-    "es": "Escudos adaptativos",
-    "fr": "Boucliers Adaptables"
-  },
-  "admiralozzel": {
-    "de": "Admiral Ozzel",
-    "en": "Admiral Ozzel",
-    "es": "Almirante Ozzel",
-    "fr": "Amiral Ozzel"
+    "fr": "Boucliers Adaptables",
+    "en": "Adaptive Shields"
   },
   "admiralsloane": {
-    "de": "Admiral Sloane",
-    "en": "Admiral Sloane",
-    "es": "Almirante Sloane",
-    "fr": "Amiral Sloane"
+    "fr": "Amiral Sloane",
+    "en": "Admiral Sloane"
   },
   "advancedoptics": {
-    "de": "Verbesserte Optik",
-    "en": "Advanced Optics",
-    "es": "Sensores ópticos avanzados",
-    "fr": "Optiques Avancées"
+    "fr": "Optiques Avancées",
+    "en": "Advanced Optics"
   },
   "advancedsensors": {
-    "de": "Verbesserte Sensoren",
-    "en": "Advanced Sensors",
-    "es": "Sensores avanzados",
-    "fr": "Senseurs Avancés"
+    "fr": "Senseurs Avancés",
+    "en": "Advanced Sensors"
   },
   "advancedslam": {
-    "de": "Verbesserter SLAM",
-    "en": "Advanced SLAM",
-    "es": "Motor sublumínico avanzado",
-    "fr": "MASL Avancé"
+    "fr": "MASL Avancé",
+    "en": "Advanced SLAM"
   },
   "advprotontorpedoes": {
-    "de": "Verstärkte Protonentorpedos",
-    "en": "Adv. Proton Torpedoes",
-    "es": "Torpedos de protones avanzados",
-    "fr": "Torpilles à Protons Avancées"
+    "fr": "Torpilles à Protons Avancées",
+    "en": "Adv. Proton Torpedoes"
   },
   "afterburners": {
-    "de": "Nachbrenner",
-    "en": "Afterburners",
-    "es": "Postquemadores",
-    "fr": "Postcombustion"
+    "fr": "Postcombustion",
+    "en": "Afterburners"
   },
   "agentkallus": {
-    "de": "Agent Kallus",
-    "en": "Agent Kallus",
-    "es": "Agente Kallus",
-    "fr": "Agent Kallus"
-  },
-  "agentoftheempire": {
-    "de": "Agent des Imperiums",
-    "en": "Agent of the Empire",
-    "es": "Agente del Imperio",
-    "fr": "Agent de l'Empire"
+    "fr": "Agent Kallus",
+    "en": "Agent Kallus"
   },
   "agentterex": {
-    "de": "Agent Terex",
-    "en": "Agent Terex",
-    "es": "Agente Terex",
-    "fr": "Agent Terex"
+    "fr": "Agent Terex",
+    "en": "Agent Terex"
   },
   "aggressorassaultfighter": {
-    "en": "Aggressor Assault Fighter",
-    "fr": "Chasseur d'Assaut Aggressor"
+    "fr": "Chasseur d'Assaut Aggressor",
+    "en": "Aggressor Assault Fighter"
   },
   "agilegunner": {
-    "de": "Wendiger Schütze",
-    "en": "Agile Gunner",
-    "es": "Artillero ágil",
-    "fr": "Canonnier Adroit"
+    "fr": "Canonnier Adroit",
+    "en": "Agile Gunner"
   },
   "agility": {
-    "en": "Agility",
-    "fr": "Agilité"
+    "fr": "Agilité",
+    "en": "Agility"
   },
   "ahhav": {
-    "de": "Ahhav",
-    "en": "Ahhav",
-    "es": "Ahhav",
-    "fr": "Ahhav"
+    "fr": "Ahhav",
+    "en": "Ahhav"
   },
   "ahsokatano": {
-    "de": "Ahsoka Tano",
-    "en": "Ahsoka Tano",
-    "es": "Ahsoka Tano",
-    "fr": "Ahsoka Tano"
+    "fr": "Ahsoka Tano",
+    "en": "Ahsoka Tano"
   },
   "airencracken": {
-    "de": "Airen Cracken",
-    "en": "Airen Cracken",
-    "es": "Airen Cracken",
-    "fr": "Airen Cracken"
+    "fr": "Airen Cracken",
+    "en": "Airen Cracken"
   },
   "alexsandrkallus": {
-    "de": "Alexsandr Kallus",
-    "en": "Alexsandr Kallus",
-    "es": "Alexsandr Kallus",
-    "fr": "Alexsandr Kallus"
-  },
-  "alpha3bbesh": {
-    "de": "Alpha-3B \"Besh\"",
-    "en": "Alpha-3B \"Besh\"",
-    "es": "Alfa-3B \"Besh\"",
-    "fr": "Alpha-3B \"Besh\""
-  },
-  "alpha3eesk": {
-    "de": "Alpha-3E \"Esk\"",
-    "en": "Alpha-3E \"Esk\"",
-    "es": "Alfa-3E \"Esk\"",
-    "fr": "Alpha-3E \"Esk\""
+    "fr": "Alexsandr Kallus",
+    "en": "Alexsandr Kallus"
   },
   "alphaclassstarwing": {
-    "en": "Alpha-class Star Wing",
-    "fr": "Star Wing de Classe Alpha"
+    "fr": "Star Wing de Classe Alpha",
+    "en": "Alpha-class Star Wing"
   },
   "alphasquadronpilot": {
-    "de": "Pilot der Alpha-Staffel",
-    "en": "Alpha Squadron Pilot",
-    "es": "Piloto del Escuadrón Alfa",
-    "fr": "Pilote de l'Escadron Alpha"
+    "fr": "Pilote de l'Escadron Alpha",
+    "en": "Alpha Squadron Pilot"
   },
   "amilynholdo": {
-    "de": "Amilyn Holdo",
-    "en": "Amilyn Holdo",
-    "es": "Amilyn Holdo",
-    "fr": "Amilyn Holdo"
+    "fr": "Amilyn Holdo",
+    "en": "Amilyn Holdo"
   },
   "anakinskywalker": {
-    "de": "Anakin Skywalker",
-    "en": "Anakin Skywalker",
-    "es": "Anakin Skywalker",
-    "fr": "Anakin Skywalker"
+    "fr": "Anakin Skywalker",
+    "en": "Anakin Skywalker"
   },
   "anakinskywalker-btlbywing": {
-    "de": "Anakin Skywalker",
-    "en": "Anakin Skywalker",
-    "es": "Anakin Skywalker",
-    "fr": "Anakin Skywalker"
-  },
-  "anakinskywalker-eta2actis": {
-    "de": "Anakin Skywalker",
-    "en": "Anakin Skywalker",
-    "es": "Anakin Skywalker",
-    "fr": "Anakin Skywalker"
+    "fr": "Anakin Skywalker",
+    "en": "Anakin Skywalker"
   },
   "anakinskywalker-nabooroyaln1starfighter": {
-    "de": "Anakin Skywalker",
-    "en": "Anakin Skywalker",
-    "es": "Anakin Skywalker",
-    "fr": "Anakin Skywalker"
+    "fr": "Anakin Skywalker",
+    "en": "Anakin Skywalker"
   },
   "andrasta": {
-    "de": "Andrasta",
-    "en": "Andrasta",
-    "es": "Andrasta",
-    "fr": "Andrasta"
+    "fr": "Andrasta",
+    "en": "Andrasta"
   },
   "angleddeflectors": {
-    "de": "Ausgerichtete Deflektoren",
-    "en": "Angled Deflectors",
-    "es": "Deflectores reajustados",
-    "fr": "Déflecteurs Orientables"
+    "fr": "Déflecteurs Orientables",
+    "en": "Angled Deflectors"
   },
   "ap5": {
-    "de": "AP-5",
-    "en": "AP-5",
-    "es": "AP-5",
-    "fr": "AP-5"
+    "fr": "AP-5",
+    "en": "AP-5"
   },
   "arc170starfighter": {
-    "en": "ARC-170 Starfighter",
-    "fr": "Chasseur ARC-170"
+    "fr": "Chasseur ARC-170",
+    "en": "ARC-170 Starfighter"
   },
   "arvelcrynyd": {
-    "de": "Arvel Crynyd",
-    "en": "Arvel Crynyd",
-    "es": "Arvel Crynyd",
-    "fr": "Arvel Crynyd"
+    "fr": "Arvel Crynyd",
+    "en": "Arvel Crynyd"
   },
   "asajjventress": {
-    "de": "Asajj Ventress",
-    "en": "Asajj Ventress",
-    "es": "Asajj Ventress",
-    "fr": "Asajj Ventress"
+    "fr": "Asajj Ventress",
+    "en": "Asajj Ventress"
   },
   "asf01bwing": {
-    "en": "A/SF-01 B-wing",
-    "fr": "B-wing A/SF-01"
+    "fr": "B-wing A/SF-01",
+    "en": "A/SF-01 B-wing"
   },
   "assailer": {
-    "de": "Sturmbringer",
-    "en": "Assailer",
-    "es": "Assailer",
-    "fr": "Assailer"
+    "fr": "Assailer",
+    "en": "Assailer"
   },
   "attackshuttle": {
-    "en": "Attack Shuttle",
-    "fr": "Navette d'Attaque"
+    "fr": "Navette d'Attaque",
+    "en": "Attack Shuttle"
   },
   "autoblasters": {
-    "de": "Autoblaster",
-    "en": "Autoblasters",
-    "es": "Cañones bláster automáticos",
-    "fr": "Autoblasters"
-  },
-  "automatedtargetpriority": {
-    "de": "Automatisches Zielsystem",
-    "en": "Automated Target Priority",
-    "es": "Priorización de blancos automatizada",
-    "fr": "Ciblage Prioritaire Automatisé"
+    "fr": "Autoblasters",
+    "en": "Autoblasters"
   },
   "autopilotdrone": {
-    "de": "Autopilot-Drone",
-    "en": "Autopilot Drone",
-    "es": "Dron autopilotado",
-    "fr": "Drone Automatique"
+    "fr": "Drone Automatique",
+    "en": "Autopilot Drone"
   },
   "auzituckgunship": {
-    "en": "Auzituck Gunship",
-    "fr": "Canonnière Auzituck"
+    "fr": "Canonnière Auzituck",
+    "en": "Auzituck Gunship"
   },
   "avenger": {
-    "de": "\"Avenger\"",
-    "en": "\"Avenger\"",
-    "es": "\"Vengador\"",
-    "fr": "\"Avenger\""
+    "fr": "\"Avenger\"",
+    "en": "\"Avenger\""
   },
   "axe": {
-    "de": "\"Axe\"",
-    "en": "\"Axe\"",
-    "es": "\"Axe\"",
-    "fr": "\"Axe\""
-  },
-  "azmorigan": {
-    "de": "Azmorigan",
-    "en": "Azmorigan",
-    "es": "Azmorigan",
-    "fr": "Azmorigan"
+    "fr": "\"Axe\"",
+    "en": "\"Axe\""
   },
   "backdraft": {
-    "de": "\"Backdraft\"",
-    "en": "\"Backdraft\"",
-    "es": "\"Llamarada\"",
-    "fr": "\"Backdraft\""
-  },
-  "backwardstailslide": {
-    "de": "Rückwärts-Tailslide",
-    "en": "Backwards Tailslide",
-    "es": "Caída de cola hacia atrás",
-    "fr": "Glissade sur l'Arrière"
-  },
-  "baktoiddrone": {
-    "de": "Baktoid-Drohne",
-    "en": "Baktoid Drone",
-    "es": "Dron baktoide",
-    "fr": "Drone Baktoid"
+    "fr": "\"Backdraft\"",
+    "en": "\"Backdraft\""
   },
   "baktoidprototype": {
-    "de": "Prototyp von Baktoid",
-    "en": "Baktoid Prototype",
-    "es": "Prototipo baktoide",
-    "fr": "Prototype Baktoid"
+    "fr": "Prototype Baktoid",
+    "en": "Baktoid Prototype"
   },
   "banditsquadronpilot": {
-    "de": "Pilot der Banditen-Staffel",
-    "en": "Bandit Squadron Pilot",
-    "es": "Piloto del Escuadrón Bandido",
-    "fr": "Pilote de l'Escadron Bandit"
+    "fr": "Pilote de l'Escadron Bandit",
+    "en": "Bandit Squadron Pilot"
   },
   "baronoftheempire": {
-    "de": "Imperialer Baron",
-    "en": "Baron of the Empire",
-    "es": "Barón del Imperio",
-    "fr": "Baron de l'Empire"
+    "fr": "Baron de l'Empire",
+    "en": "Baron of the Empire"
   },
   "barragerockets": {
-    "de": "Raketensalve",
-    "en": "Barrage Rockets",
-    "es": "Cohetes de saturación",
-    "fr": "Roquettes de Barrage"
+    "fr": "Roquettes de Barrage",
+    "en": "Barrage Rockets"
   },
   "barrelroll": {
-    "en": "Barrel Roll",
-    "fr": "Tonneau"
+    "fr": "Tonneau",
+    "en": "Barrel Roll"
   },
   "barrissoffee": {
-    "de": "Barriss Offee",
-    "en": "Barriss Offee",
-    "es": "Barriss Offee",
-    "fr": "Barriss Offee"
+    "fr": "Barriss Offee",
+    "en": "Barriss Offee"
   },
   "battlemeditation": {
-    "de": "Kampfmeditation",
-    "en": "Battle Meditation",
-    "es": "Meditación de batalla",
-    "fr": "Méditation de Bataille"
+    "fr": "Méditation de Bataille",
+    "en": "Battle Meditation"
   },
   "bazemalbus": {
-    "de": "Baze Malbus",
-    "en": "Baze Malbus",
-    "es": "Baze Malbus",
-    "fr": "Baze Malbus"
+    "fr": "Baze Malbus",
+    "en": "Baze Malbus"
   },
   "bb8": {
-    "de": "BB-8",
-    "en": "BB-8",
-    "es": "BB-8",
-    "fr": "BB-8"
+    "fr": "BB-8",
+    "en": "BB-8"
   },
   "bbastromech": {
-    "de": "BB-Astromechdroide",
-    "en": "BB Astromech",
-    "es": "Droide astromecánico BB",
-    "fr": "BB Astromech"
+    "fr": "Astromech BB",
+    "en": "BB Astromech"
   },
   "belbullab22starfighter": {
-    "en": "Belbullab-22 Starfighter",
-    "fr": "Chasseur Belbullab-22"
+    "fr": "Chasseur Belbullab-22",
+    "en": "Belbullab-22 Starfighter"
   },
   "benteene": {
-    "de": "Ben Teene",
-    "en": "Ben Teene",
-    "es": "Ben Teene",
-    "fr": "Ben Teene"
+    "fr": "Ben Teene",
+    "en": "Ben Teene"
   },
   "benthictwotubes": {
-    "de": "Benthic Two Tubes",
-    "en": "Benthic Two Tubes",
-    "es": "Benthic Dos Tubos",
-    "fr": "Benthic Deux-Tubes"
+    "fr": "Benthic Deux-Tubes",
+    "en": "Benthic Two Tubes"
   },
   "berwerkret": {
-    "de": "Berwer Kret",
-    "en": "Berwer Kret",
-    "es": "Berwer Kret",
-    "fr": "Berwer Kret"
+    "fr": "Berwer Kret",
+    "en": "Berwer Kret"
   },
   "biggsdarklighter": {
-    "de": "Biggs Darklighter",
-    "en": "Biggs Darklighter",
-    "es": "Biggs Darklighter",
-    "fr": "Biggs Darklighter"
-  },
-  "binayrepirate": {
-    "de": "Binayre-Pirat",
-    "en": "Binayre Pirate",
-    "es": "Pirata Binayre",
-    "fr": "Pirate Binayre"
+    "fr": "Biggs Darklighter",
+    "en": "Biggs Darklighter"
   },
   "biohexacryptcodes": {
-    "de": "Bio-Hexakryptcode",
-    "en": "Biohexacrypt Codes",
-    "es": "Códigos biohexaencriptados",
-    "fr": "Codes bio-hexacrypt"
+    "fr": "Codes Bio-hexacrypt",
+    "en": "Biohexacrypt Codes"
   },
   "bistan": {
-    "de": "Bistan",
-    "en": "Bistan",
-    "es": "Bistan",
-    "fr": "Bistan"
+    "fr": "Bistan",
+    "en": "Bistan"
   },
   "blackone": {
-    "de": "Schwarz Eins",
-    "en": "Black One",
-    "es": "Negro Uno",
-    "fr": "Black One"
+    "fr": "Black One",
+    "en": "Black One"
   },
   "blackout": {
-    "de": "\"Blackout\"",
-    "en": "\"Blackout\"",
-    "es": "\"Apagón\"",
-    "fr": "\"Blackout\""
+    "fr": "\"Blackout\"",
+    "en": "\"Blackout\""
   },
   "blacksquadronace": {
-    "de": "Fliegerass der schwarzen Staffel",
-    "en": "Black Squadron Ace",
-    "es": "As del Escuadrón Negro",
-    "fr": "As de l'Escadron Noir"
+    "fr": "As de l'Escadron Noir",
+    "en": "Black Squadron Ace"
   },
   "blacksquadronace-t70xwing": {
-    "de": "Fliegerassder schwarzen Staffel",
-    "en": "Black Squadron Ace",
-    "es": "As del Escuadrón Negro",
-    "fr": "As de l'Escadron Noir"
+    "fr": "As de l'Escadron Noir",
+    "en": "Black Squadron Ace"
   },
   "blacksquadronscout": {
-    "de": "Aufklärer der schwarzen Staffel",
-    "en": "Black Squadron Scout",
-    "es": "Explorador del Escuadrón Negro",
-    "fr": "Éclaireur de l'Escadron Noir"
+    "fr": "Éclaireur de l'Escadron Noir",
+    "en": "Black Squadron Scout"
   },
   "blacksunace": {
-    "de": "Fliegerass der Schwarzen Sonne",
-    "en": "Black Sun Ace",
-    "es": "As del Sol negro",
-    "fr": "As du Soleil Noir"
+    "fr": "As du Soleil Noir",
+    "en": "Black Sun Ace"
   },
   "blacksunassassin": {
-    "de": "Attentäter der",
-    "en": "Black Sun Assassin",
-    "es": "Asesino del Sol Negro",
-    "fr": "Assassin du Soleil Noir"
+    "fr": "Assassin du Soleil Noir ",
+    "en": "Black Sun Assassin"
   },
   "blacksunenforcer": {
-    "de": "Vollstrecker der",
-    "en": "Black Sun Enforcer",
-    "es": "Ejecutor del Sol Negro",
-    "fr": "Homme de Main du Soleil Noir"
+    "fr": "Homme de Main du Soleil Noir",
+    "en": "Black Sun Enforcer"
   },
   "blacksunsoldier": {
-    "de": "Kampfpilot der Schwarzen Sonne",
-    "en": "Black Sun Soldier",
-    "es": "Sicario del Sol negro",
-    "fr": "Soldat du Soleil Noir"
+    "fr": "Soldat du Soleil Noir",
+    "en": "Black Sun Soldier"
   },
   "bladesquadronveteran": {
-    "de": "Veteran der Klingen-Staffel",
-    "en": "Blade Squadron Veteran",
-    "es": "Veterano del Escuadrón Cuchilla",
-    "fr": "Vétéran de l'Escadron Blade"
+    "fr": "Vétéran de l'Escadron Blade",
+    "en": "Blade Squadron Veteran"
   },
   "bloodcrow": {
-    "de": "Blood Crow",
-    "en": "Blood Crow",
-    "es": "Cuervo de Sangre",
-    "fr": "Blood Crow"
+    "fr": "Blood Crow",
+    "en": "Blood Crow"
   },
   "bluesquadronescort": {
-    "de": "Eskorte der blauen Staffel",
-    "en": "Blue Squadron Escort",
-    "es": "Escolta del Escuadrón Azul",
-    "fr": "Escorte de l'Escadron Bleu"
+    "fr": "Escorte de l'Escadron Bleu",
+    "en": "Blue Squadron Escort"
   },
   "bluesquadronpilot": {
-    "de": "Pilot der blauen Staffel",
-    "en": "Blue Squadron Pilot",
-    "es": "Piloto del Escuadrón Azul",
-    "fr": "Pilote de l'Escadron Bleu"
+    "fr": "Pilote de l'Escadron Bleu",
+    "en": "Blue Squadron Pilot"
   },
   "bluesquadronprotector": {
-    "de": "Beschützer der blauen Staffel",
-    "en": "Blue Squadron Protector",
-    "es": "Protector del Escuadrón Azul",
-    "fr": "Protecteur de l'Escadron Bleu"
+    "fr": "Protecteur de l'Escadron Bleu",
+    "en": "Blue Squadron Protector"
   },
   "bluesquadronrecruit": {
-    "de": "Rekrut der blauen Staffel",
-    "en": "Blue Squadron Recruit",
-    "es": "Recluta del Escuadrón Azul",
-    "fr": "Recrue de l'Escadron Bleu"
+    "fr": "Recrue de l'Escadron Bleu",
+    "en": "Blue Squadron Recruit"
   },
   "bluesquadronrookie": {
-    "de": "Anfängerpilot der blauen Staffel",
-    "en": "Blue Squadron Rookie",
-    "es": "Novato del Escuadrón Azul",
-    "fr": "Pilote débutant de l'Escadron Bleu"
+    "fr": "Pilote Débutant de l'Escadron Bleu",
+    "en": "Blue Squadron Rookie"
   },
   "bluesquadronscout": {
-    "de": "Aufklärer der blauen",
-    "en": "Blue Squadron Scout",
-    "es": "Explorador del Escuadrón Azul",
-    "fr": "Éclaireur de l'Escadron Bleu"
+    "fr": "Éclaireur de l'Escadron Bleu",
+    "en": "Blue Squadron Scout"
   },
   "bobafett": {
-    "de": "Boba Fett",
-    "en": "Boba Fett",
-    "es": "Boba Fett",
-    "fr": "Boba Fett"
-  },
-  "bobafett-gunner": {
-    "de": "Boba Fett",
-    "en": "Boba Fett",
-    "es": "Boba Fett",
-    "fr": "Boba Fett"
-  },
-  "bobafett-separatist": {
-    "de": "Boba Fett",
-    "en": "Boba Fett",
-    "es": "Boba Fett",
-    "fr": "Boba Fett"
+    "fr": "Boba Fett",
+    "en": "Boba Fett"
   },
   "bodhirook": {
-    "de": "Bodhi Rook",
-    "en": "Bodhi Rook",
-    "es": "Bodhi Rook",
-    "fr": "Bodhi Rook"
+    "fr": "Bodhi Rook",
+    "en": "Bodhi Rook"
   },
   "bombardmentdrone": {
-    "de": "Bombendrohne",
-    "en": "Bombardment Drone",
-    "es": "Dron de bombardeo",
-    "fr": "Drone de Bombardement"
+    "fr": "Drone de Bombardement",
+    "en": "Bombardment Drone"
   },
   "bombardmentspecialists": {
-    "de": "Beschuss-Spezialisten",
-    "en": "Bombardment Specialists",
-    "es": "Especialistas en bombardeo",
-    "fr": "Spécialistes du Bombardement"
+    "fr": "Spécialistes du Bombardement",
+    "en": "Bombardment Specialists"
   },
   "bombletgenerator": {
-    "de": "Streubombengenerator",
-    "en": "Bomblet Generator",
-    "es": "Generador de minibombas",
-    "fr": "Générateur de Sous-Munitions"
+    "fr": "Générateur de Sous-Munitions",
+    "en": "Bomblet Generator"
   },
   "boost": {
-    "en": "Boost",
-    "fr": "Accélération"
+    "fr": "Accélération",
+    "en": "Boost"
   },
   "boostedscanners": {
-    "de": "Boosted Scanners",
-    "en": "Boosted Scanners",
-    "es": "Escáneres amplificados",
-    "fr": "Scanners Amplifiés"
+    "fr": "Scanners Amplifiés",
+    "en": "Boosted Scanners"
   },
   "bossk": {
-    "de": "Bossk",
-    "en": "Bossk",
-    "es": "Bossk",
-    "fr": "Bossk"
+    "fr": "Bossk",
+    "en": "Bossk"
   },
   "bossk-z95af4headhunter": {
-    "de": "Bossk",
-    "en": "Bossk",
-    "es": "Bossk",
-    "fr": "Bossk"
+    "fr": "Bossk",
+    "en": "Bossk"
   },
   "bountyhunter": {
-    "de": "Kopfgeldjäger",
-    "en": "Bounty Hunter",
-    "es": "Cazarrecompensas",
-    "fr": "Chasseur de Primes"
+    "fr": "Chasseur de Primes",
+    "en": "Bounty Hunter"
   },
   "bravoflightofficer": {
-    "de": "Flugoffizier der Bravo-Staffel",
-    "en": "Bravo Flight Officer",
-    "es": "Oficial de la Escuadrilla Bravo",
-    "fr": "Officier de l'Escadron Bravo"
+    "fr": "Officier de l'Escadron Bravo",
+    "en": "Bravo Flight Officer"
   },
   "braylenstramm": {
-    "de": "Braylen Stramm",
-    "en": "Braylen Stramm",
-    "es": "Braylen Stramm",
-    "fr": "Braylen Stramm"
+    "fr": "Braylen Stramm",
+    "en": "Braylen Stramm"
   },
   "brighthope": {
-    "de": "Bright Hope",
-    "en": "Bright Hope",
-    "es": "Bright Hope",
-    "fr": "Bright Hope"
+    "fr": "Bright Hope",
+    "en": "Bright Hope"
   },
   "brilliantevasion": {
-    "de": "Brilliantes Ausweichmanöver",
-    "en": "Brilliant Evasion",
-    "es": "Evasión impecable",
-    "fr": "As de la Manœuvre"
+    "fr": "As de la Manœuvre",
+    "en": "Brilliant Evasion"
   },
   "broadside": {
-    "de": "\"Broadside\"",
-    "en": "\"Broadside\"",
-    "es": "\"Broadside\"",
-    "fr": "\"Broadside\""
-  },
-  "brokenhorn": {
-    "de": "Broken Horn",
-    "en": "Broken Horn",
-    "es": "Broken Horn",
-    "fr": "Broken Horn"
+    "fr": "\"Broadside\"",
+    "en": "\"Broadside\""
   },
   "bt1": {
-    "de": "BT-1",
-    "en": "BT-1",
-    "es": "BT-1",
-    "fr": "BT-1"
+    "fr": "BT-1",
+    "en": "BT-1"
   },
   "btla4ywing": {
-    "en": "BTL-A4 Y-wing",
-    "fr": "Y-wing BTL-A4"
+    "fr": "Y-wing BTL-A4",
+    "en": "BTL-A4 Y-wing"
   },
   "btlbywing": {
-    "en": "BTL-B Y-wing",
-    "fr": "Y-wing BTL-B"
+    "fr": "Y-wing BTL-B",
+    "en": "BTL-B Y-wing"
   },
   "btls8kwing": {
-    "en": "BTL-S8 K-wing",
-    "fr": "K-wing BTL-S8"
+    "fr": "K-wing BTL-S8",
+    "en": "BTL-S8 K-wing"
   },
   "c110p": {
-    "de": "C1-10P (launisch)",
-    "en": "C1-10P (Erratic)",
-    "es": "C1-10P (errático)",
-    "fr": "C1-10P (Erratique)"
+    "fr": "C1-10P",
+    "en": "C1-10P"
   },
   "c3po": {
-    "de": "C-3PO",
-    "en": "C-3PO",
-    "es": "C-3PO",
-    "fr": "C-3PO"
+    "fr": "C-3PO",
+    "en": "C-3PO"
   },
   "c3po-crew": {
-    "de": "C-3PO",
-    "en": "C-3PO",
-    "es": "C-3PO",
-    "fr": "C-3PO"
+    "fr": "C-3PO",
+    "en": "C-3PO"
   },
   "c3po-republic": {
-    "de": "C-3PO",
-    "en": "C-3PO",
-    "es": "C-3PO",
-    "fr": "C-3PO"
+    "fr": "C-3PO",
+    "en": "C-3PO"
   },
   "cadbane": {
-    "de": "Cad Bane",
-    "en": "Cad Bane",
-    "es": "Cad Bane",
-    "fr": "Cad Bane"
-  },
-  "caithrenalli": {
-    "de": "C'ai Threnali",
-    "en": "C'ai Threnalli",
-    "es": "C'ai Threnalli",
-    "fr": "C'ai Threnalli"
+    "fr": "Cad Bane",
+    "en": "Cad Bane"
   },
   "calculate": {
-    "en": "Calculate",
-    "fr": "Calcul"
+    "fr": "Calcul",
+    "en": "Calculate"
   },
   "calibratedlasertargeting": {
-    "de": "Kalibriertes Laser-Zielsystem",
-    "en": "Calibrated Laser Targeting",
-    "es": "Sistema de puntería láser calibrado",
-    "fr": "Visée Laser Calibrée"
+    "fr": "Visée Laser Calibrée",
+    "en": "Calibrated Laser Targeting"
   },
   "captaincardinal": {
-    "de": "Captain Cardinal",
-    "en": "Captain Cardinal",
-    "es": "Capitán Cardenal",
-    "fr": "Captain Cardinal"
+    "fr": "Capitaine Cardinal",
+    "en": "Captain Cardinal"
   },
   "captainferoph": {
-    "de": "Captain Feroph",
-    "en": "Captain Feroph",
-    "es": "Capitán Feroph",
-    "fr": "Capitaine Feroph"
+    "fr": "Capitaine Feroph",
+    "en": "Captain Feroph"
   },
   "captainjonus": {
-    "de": "Captain Jonus",
-    "en": "Captain Jonus",
-    "es": "Capitán Jonus",
-    "fr": "Captain Jonus"
+    "fr": "Capitaine Jonus",
+    "en": "Captain Jonus"
   },
   "captainjostero": {
-    "de": "Captain Jostero",
-    "en": "Captain Jostero",
-    "es": "Capitán Jostero",
-    "fr": "Captain Jostero"
+    "fr": "Capitaine Jostero",
+    "en": "Captain Jostero"
   },
   "captainkagi": {
-    "de": "Captain Kagi",
-    "en": "Captain Kagi",
-    "es": "Capitán Kagi",
-    "fr": "Capitaine Kagi"
-  },
-  "captainneeda": {
-    "de": "Captain Needa",
-    "en": "Captain Needa",
-    "es": "Capitán Needa",
-    "fr": "Captaine Needa"
+    "fr": "Capitaine Kagi",
+    "en": "Captain Kagi"
   },
   "captainnym": {
-    "de": "Captain Nym",
-    "en": "Captain Nym",
-    "es": "Capitán Nym",
-    "fr": "Capitaine Nym"
+    "fr": "Capitaine Nym",
+    "en": "Captain Nym"
   },
   "captainoicunn": {
-    "de": "Captain Oicunn",
-    "en": "Captain Oicunn",
-    "es": "Capitán Oicunn",
-    "fr": "Capitaine Oicunn"
+    "fr": "Capitaine Oicunn",
+    "en": "Captain Oicunn"
   },
   "captainphasma": {
-    "de": "Captain Phasma",
-    "en": "Captain Phasma",
-    "es": "Capitán Phasma",
-    "fr": "Capitaine Phasma"
+    "fr": "Capitaine Phasma",
+    "en": "Captain Phasma"
   },
   "captainrex": {
-    "de": "Captain Rex",
-    "en": "Captain Rex",
-    "es": "Capitán Rex",
-    "fr": "Capitaine Rex"
+    "fr": "Capitaine Rex",
+    "en": "Captain Rex"
   },
   "captainsear": {
-    "de": "Captain Sear",
-    "en": "Captain Sear",
-    "es": "Capitán Sear",
-    "fr": "Capitaine Sear"
+    "fr": "Capitaine Sear",
+    "en": "Captain Sear"
   },
   "captainseevor": {
-    "de": "Captain Seevor",
-    "en": "Captain Seevor",
-    "es": "Capitán Seevor",
-    "fr": "Capitaine Seevor"
-  },
-  "caridaacademycadet": {
-    "de": "Kadett der Carida-Akademie",
-    "en": "Carida Academy Cadet",
-    "es": "Cadete de la Academia de Carida",
-    "fr": "Cadet de l'Académie Carida"
-  },
-  "carlistrieekan": {
-    "de": "Carlist Rieekan",
-    "en": "Carlist Rieekan",
-    "es": "Carlist Rieekan",
-    "fr": "Carlist Rieekan"
+    "fr": "Capitaine Seevor",
+    "en": "Captain Seevor"
   },
   "cartelexecutioner": {
-    "de": "Killer des Kartells",
-    "en": "Cartel Executioner",
-    "es": "Verdugo del Cártel",
-    "fr": "Exécuteur du Cartel"
+    "fr": "Exécuteur du Cartel",
+    "en": "Cartel Executioner"
   },
   "cartelmarauder": {
-    "de": "Kartell-Marodeur",
-    "en": "Cartel Marauder",
-    "es": "Salteador del Cártel",
-    "fr": "Marauder du Cartel"
+    "fr": "Maraudeur du Cartel",
+    "en": "Cartel Marauder"
   },
   "cartelspacer": {
-    "de": "Raumfahrer des Kartells",
-    "en": "Cartel Spacer",
-    "es": "Agente del Cártel",
-    "fr": "Astropilote du Cartel"
+    "fr": "Astropilote du Cartel",
+    "en": "Cartel Spacer"
   },
   "cassianandor": {
-    "de": "Cassian Andor",
-    "en": "Cassian Andor",
-    "es": "Cassian Andor",
-    "fr": "Cassian Andor"
+    "fr": "Cassian Andor",
+    "en": "Cassian Andor"
   },
   "cat": {
-    "de": "Cat",
-    "en": "Cat",
-    "es": "Cat",
-    "fr": "Cat"
+    "fr": "Cat",
+    "en": "Cat"
   },
   "cavernangelszealot": {
-    "de": "Fanatiker der Sturmengel",
-    "en": "Cavern Angels Zealot",
-    "es": "Fanático de los Ángeles Cavernarios",
-    "fr": "Extrémiste Anges des Cavernes"
+    "fr": "Extrémiste Anges des Cavernes",
+    "en": "Cavern Angels Zealot"
   },
   "chancellorpalpatine": {
-    "de": "Kanzler Palpatine",
-    "en": "Chancellor Palpatine",
-    "es": "Canciller Palpatine",
-    "fr": "Chancellor Palpatine"
+    "fr": "Chancelier Palpatine / Dark Sidious",
+    "en": "Chancellor Palpatine / Darth Sidious"
   },
   "chertek": {
-    "de": "Chertek",
-    "en": "Chertek",
-    "es": "Chertek",
-    "fr": "Chertek"
+    "fr": "Chertek",
+    "en": "Chertek"
   },
   "chewbacca": {
-    "de": "Chewbacca",
-    "en": "Chewbacca",
-    "es": "Chewbacca",
-    "fr": "Chewbacca"
+    "fr": "Chewbacca",
+    "en": "Chewbacca"
   },
   "chewbacca-crew": {
-    "de": "Chewbacca",
-    "en": "Chewbacca",
-    "es": "Chewbacca",
-    "fr": "Chewbacca"
+    "fr": "Chewbacca",
+    "en": "Chewbacca"
   },
   "chewbacca-crew-swz19": {
-    "de": "Chewbacca",
-    "en": "Chewbacca",
-    "es": "Chewbacca",
-    "fr": "Chewbacca"
+    "fr": "Chewbacca",
+    "en": "Chewbacca"
   },
   "chewbacca-scavengedyt1300": {
-    "de": "Chewbacca",
-    "en": "Chewbacca",
-    "es": "Chewbacca",
-    "fr": "Chewbacca"
+    "fr": "Chewbacca",
+    "en": "Chewbacca"
   },
   "chopper": {
-    "de": "\"Chopper\"",
-    "en": "\"Chopper\"",
-    "es": "\"Chopper\"",
-    "fr": "\"Chopper\""
+    "fr": "Chopper",
+    "en": "Chopper"
   },
   "chopper-crew": {
-    "de": "\"Chopper\"",
-    "en": "\"Chopper\"",
-    "es": "\"Chopper\"",
-    "fr": "\"Chopper\""
+    "fr": "\"Chopper\"",
+    "en": "\"Chopper\""
   },
   "cienaree": {
-    "de": "Ciena Ree",
-    "en": "Ciena Ree",
-    "es": "Ciena Ree",
-    "fr": "Ciena Ree"
+    "fr": "Ciena Ree",
+    "en": "Ciena Ree"
   },
   "cikatrovizago": {
-    "de": "Cikatro Vizago",
-    "en": "Cikatro Vizago",
-    "es": "Cikatro Vizago",
-    "fr": "Cikatro Vizago"
+    "fr": "Cikatro Vizago",
+    "en": "Cikatro Vizago"
   },
   "cloak": {
-    "en": "Cloak",
-    "fr": "Occultation"
+    "fr": "Occultation",
+    "en": "Cloak"
   },
   "cloakingdevice": {
-    "de": "Tarngerät",
-    "en": "Cloaking Device",
-    "es": "Dispositivo de camuflaje",
-    "fr": "Appareil d'Occultation"
-  },
-  "clonecaptainrex": {
-    "de": "Klon-Captain Rex",
-    "en": "Clone Captain Rex",
-    "es": "Capitán clon Rex",
-    "fr": "Capitaine Clone Rex"
+    "fr": "Appareil d'Occultation",
+    "en": "Cloaking Device"
   },
   "clonecommandercody": {
-    "de": "Klon-Kommandant Cody",
-    "en": "Clone Commander Cody",
-    "es": "Comandante clon Cody",
-    "fr": "Commandant Clone Cody"
+    "fr": "Commandant Clone Cody",
+    "en": "Clone Commander Cody"
   },
   "clustermines": {
-    "de": "Clusterminen",
-    "en": "Cluster Mines",
-    "es": "Minas de racimo",
-    "fr": "Mines Groupées"
+    "fr": "Mines Groupées",
+    "en": "Cluster Mines"
   },
   "clustermissiles": {
-    "de": "Clusterraketen",
-    "en": "Cluster Missiles",
-    "es": "Misiles de racimo",
-    "fr": "Missiles Groupés"
+    "fr": "Missiles Groupés",
+    "en": "Cluster Missiles"
   },
   "coaxiumhyperfuel": {
-    "de": "Coaxium-Hypertreibstoff",
-    "en": "Coaxium Hyperfuel",
-    "es": "Hipercombustible coaxium",
-    "fr": "Hypercarburant Coaxium"
+    "fr": "Hypercarburant Coaxium",
+    "en": "Coaxium Hyperfuel"
   },
   "cobaltsquadronbomber": {
-    "de": "Bomber der Kobalt-Staffel",
-    "en": "Cobalt Squadron Bomber",
-    "es": "Bombardero del Escuadrón Cobalto",
-    "fr": "Bombardier de l'Escadron Cobalt"
-  },
-  "colicoidinterceptor": {
-    "de": "Abfangjäger der Colicoiden",
-    "en": "Colicoid Interceptor",
-    "es": "Interceptor colicoide",
-    "fr": "Intercepteur Colicoïde"
+    "fr": "Bombardier de l'Escadron Cobalt",
+    "en": "Cobalt Squadron Bomber"
   },
   "collisiondetector": {
-    "de": "Kollisionssensor",
-    "en": "Collision Detector",
-    "es": "Detector de colisiones",
-    "fr": "Détecteur Anti-Collision"
+    "fr": "Détecteur Anti-Collision",
+    "en": "Collision Detector"
   },
   "coloneljendon": {
-    "de": "Colonel Jendon",
-    "en": "Colonel Jendon",
-    "es": "Coronel Jendon",
-    "fr": "Colonel Jendon"
+    "fr": "Colonel Jendon",
+    "en": "Colonel Jendon"
   },
   "colonelvessery": {
-    "de": "Colonel Vessery",
-    "en": "Colonel Vessery",
-    "es": "Coronel Vessery",
-    "fr": "Colonel Vessery"
+    "fr": "Colonel Vessery",
+    "en": "Colonel Vessery"
   },
   "colossusstationmechanic": {
-    "de": "Mechaniker der Colossus-Station",
-    "en": "Colossus Station Mechanic",
-    "es": "Mecánico de la estación Coloso",
-    "fr": "Mécanicien de la Station Colossus"
+    "fr": "Mécanicien de la Station Colossus",
+    "en": "Colossus Station Mechanic"
   },
   "commandermalarus": {
-    "de": "Commander Malarus",
-    "en": "Commander Malarus",
-    "es": "Comandante Malarus",
-    "fr": "Commandant Malarus"
-  },
-  "commandermalarus-xiclasslightshuttle": {
-    "de": "Commander Malarus",
-    "en": "Commander Malarus",
-    "es": "Comandante Malarus",
-    "fr": "Commandant Malarus"
-  },
-  "commanderpyre": {
-    "de": "Commander Pyre",
-    "en": "Commander Pyre",
-    "es": "Comandante Pyre",
-    "fr": "Commandant Pyre"
+    "fr": "Commandant Malarus",
+    "en": "Commander Malarus"
   },
   "commsteam": {
-    "de": "Kommunikationsteam",
-    "en": "Comms Team",
-    "es": "Personal de comunicaciones",
-    "fr": "Équipe de Communication"
+    "fr": "Équipe de Communication",
+    "en": "Comms Team"
   },
   "composure": {
-    "de": "Gelassenheit",
-    "en": "Composure",
-    "es": "Sangre fría",
-    "fr": "Maîtrise de Soi"
+    "fr": "Maîtrise de Soi",
+    "en": "Composure"
   },
   "compromisingintel": {
-    "en": "Compromising Intel",
-    "fr": "Information Compromettante"
-  },
-  "concussionbombs": {
-    "de": "Erschütterungsbomben",
-    "en": "Concussion Bombs",
-    "es": "Bombas de impacto",
-    "fr": "Bombes à Concussion"
+    "fr": "Information Compromettante",
+    "en": "Compromising Intel"
   },
   "concussionmissiles": {
-    "de": "Erschütterungsraketen",
-    "en": "Concussion Missiles",
-    "es": "Misiles de impacto",
-    "fr": "Missiles à Concussion"
+    "fr": "Missiles à Concussion",
+    "en": "Concussion Missiles"
   },
   "connernets": {
-    "de": "Connernetz",
-    "en": "Conner Nets",
-    "es": "Redes Conner",
-    "fr": "Filet Conner"
+    "fr": "Filet Conner",
+    "en": "Conner Nets"
   },
   "constablezuvio": {
-    "de": "Constable Zuvio",
-    "en": "Constable Zuvio",
-    "es": "Alguacil Zuvio",
-    "fr": "Officier Zuvio"
+    "fr": "Officier Zuvio",
+    "en": "Constable Zuvio"
   },
   "contrabandcybernetics": {
-    "de": "Illegale Kybernetik",
-    "en": "Contraband Cybernetics",
-    "es": "Ciberimplantes ilícitos",
-    "fr": "Cybernétique de Contrebande"
+    "fr": "Cybernétique de Contrebande",
+    "en": "Contraband Cybernetics"
   },
   "contractedscout": {
-    "de": "Angeheuerter Kundschafter",
-    "en": "Contracted Scout",
-    "es": "Explorador contratado",
-    "fr": "Éclaireur Sous Contrat"
-  },
-  "contrail": {
-    "de": "\"Contrail\"",
-    "en": "\"Contrail\"",
-    "es": "\"Contrail\"",
-    "fr": "\"Contrail\""
+    "fr": "Éclaireur Sous Contrat",
+    "en": "Contracted Scout"
   },
   "coordinate": {
-    "en": "Coordinate",
-    "fr": "Coordination"
+    "fr": "Coordination",
+    "en": "Coordinate"
   },
   "corranhorn": {
-    "de": "Corran Horn",
-    "en": "Corran Horn",
-    "es": "Corran Horn",
-    "fr": "Corran Horn"
+    "fr": "Corran Horn",
+    "en": "Corran Horn"
   },
   "corsairrefit": {
-    "de": "Kaperer-Aufrüstung",
-    "en": "Corsair Refit",
-    "es": "Reequipado para la piratería",
-    "fr": "Corsair Refit"
+    "fr": "Reconversion Corsaire",
+    "en": "Corsair Refit"
   },
   "corvus": {
-    "de": "Corvus",
-    "en": "Corvus",
-    "es": "Corvus",
-    "fr": "Corvus"
+    "fr": "Corvus",
+    "en": "Corvus"
   },
   "countdooku": {
-    "de": "Count Dooku",
-    "en": "Count Dooku",
-    "es": "Conde Dooku",
-    "fr": "Comte Dooku"
+    "fr": "Comte Dooku",
+    "en": "Count Dooku"
   },
   "countdown": {
-    "de": "\"Countdown\"",
-    "en": "\"Countdown\"",
-    "es": "\"Cuenta Atrás\"",
-    "fr": "\"Countdown\""
+    "fr": "\"Countdown\"",
+    "en": "\"Countdown\""
   },
   "countessryad": {
-    "de": "Gräfin Ryad",
-    "en": "Countess Ryad",
-    "es": "Condesa Ryad",
-    "fr": "Comtesse Ryad"
+    "fr": "Comtesse Ryad",
+    "en": "Countess Ryad"
   },
   "covanell": {
-    "de": "Cova Nell",
-    "en": "Cova Nell",
-    "es": "Cova Nell",
-    "fr": "Cova Nell"
+    "fr": "Cova Nell",
+    "en": "Cova Nell"
   },
   "crackshot": {
-    "de": "Meisterhafter Schuss",
-    "en": "Crack Shot",
-    "es": "Tiro certero",
-    "fr": "Tireur Hors Pair"
+    "fr": "Tireur Hors Pair",
+    "en": "Crack Shot"
   },
   "crymorahgoon": {
-    "de": "Verbrecher der Crymorah",
-    "en": "Crymorah Goon",
-    "es": "Matón del Crymorah",
-    "fr": "Sbire du Crymorah"
+    "fr": "Sbire du Crymorah",
+    "en": "Crymorah Goon"
   },
   "customizedyt1300lightfreighter": {
-    "en": "Customized YT-1300 Light Freighter",
-    "fr": "Cargo léger YT-1300 personnalisé"
+    "fr": "Cargo léger YT-1300 personnalisé",
+    "en": "Customized YT-1300 Light Freighter"
   },
   "cutlasssquadronpilot": {
-    "de": "Pilot der Entermesser-Staffel",
-    "en": "Cutlass Squadron Pilot",
-    "es": "Piloto del Escuadrón Alfanje",
-    "fr": "Pilote de l'Escadron Cutlass"
+    "fr": "Pilote de l'Escadron Cutlass",
+    "en": "Cutlass Squadron Pilot"
   },
   "dacebonearm": {
-    "de": "Dace Bonearm",
-    "en": "Dace Bonearm",
-    "es": "Dace Bonearm",
-    "fr": "Dace Bonearm"
+    "fr": "Dace Bonearm",
+    "en": "Dace Bonearm"
   },
   "dalanoberos": {
-    "de": "Dalan Oberos",
-    "en": "Dalan Oberos",
-    "es": "Dalan Oberos",
-    "fr": "Dalan Oberos"
+    "fr": "Dalan Oberos",
+    "en": "Dalan Oberos"
   },
   "dalanoberos-starviperclassattackplatform": {
-    "de": "Dalan Oberos",
-    "en": "Dalan Oberos",
-    "es": "Dalan Oberos",
-    "fr": "Dalan Oberos"
+    "fr": "Dalan Oberos",
+    "en": "Dalan Oberos"
   },
   "damagecontrolteam": {
-    "de": "Schadensbegrenzungsteam",
-    "en": "Damage Control Team",
-    "es": "Personal de control de daños",
-    "fr": "Équipe de Contrôle des Dégâts"
+    "fr": "Équipe de Contrôle des Dégâts",
+    "en": "Damage Control Team"
   },
   "daredevil": {
-    "de": "Draufgänger",
-    "en": "Daredevil",
-    "es": "Temerario",
-    "fr": "Casse-Cou"
+    "fr": "Casse-Cou",
+    "en": "Daredevil"
   },
   "darkcourier": {
-    "de": "Dunkler Bote",
-    "en": "Dark Courier",
-    "es": "Mensajero oscuro",
-    "fr": "Messager Noir"
+    "fr": "Messager Noir",
+    "en": "Dark Courier"
   },
   "darthmaul": {
-    "de": "Darth Maul",
-    "en": "Darth Maul",
-    "es": "Darth Maul",
-    "fr": "Dark Maul"
+    "fr": "Dark Maul",
+    "en": "Darth Maul"
   },
   "darthvader": {
-    "de": "Darth Vader",
-    "en": "Darth Vader",
-    "es": "Darth Vader",
-    "fr": "Dark Vador"
+    "fr": "Dark Vador",
+    "en": "Darth Vader"
   },
   "dashrendar": {
-    "de": "Dash Rendar",
-    "en": "Dash Rendar",
-    "es": "Dash Rendar",
-    "fr": "Dash Rendar"
+    "fr": "Dash Rendar",
+    "en": "Dash Rendar"
   },
   "dauntless": {
-    "de": "Dauntless",
-    "en": "Dauntless",
-    "es": "Intrépido",
-    "fr": "Dauntless"
+    "fr": "Dauntless",
+    "en": "Dauntless"
   },
   "dbs32c": {
-    "de": "DBS-32C",
-    "en": "DBS-32C",
-    "es": "DBS-32C",
-    "fr": "DBS-32C"
+    "fr": "DBS-32C",
+    "en": "DBS-32C"
   },
   "dbs404": {
-    "de": "DBS-404",
-    "en": "DBS-404",
-    "es": "DBS-404",
-    "fr": "DBS-404"
-  },
-  "deadeyeshot": {
-    "de": "Schuss ins Schwarze",
-    "en": "Deadeye Shot",
-    "es": "Tiro preciso",
-    "fr": "Tir assuré"
+    "fr": "DBS-404",
+    "en": "DBS-404"
   },
   "deadmansswitch": {
-    "de": "Totmannschalter",
-    "en": "Deadman's Switch",
-    "es": "Dispositivo de represalia",
-    "fr": "Salve Automatique"
+    "fr": "Salve Automatique",
+    "en": "Deadman's Switch"
   },
   "deathfire": {
-    "de": "\"Todesfeuer\"",
-    "en": "\"Deathfire\"",
-    "es": "\"Muerte Ígnea\"",
-    "fr": "\"Deathfire\""
+    "fr": "\"Deathfire\"",
+    "en": "\"Deathfire\""
   },
   "deathrain": {
-    "de": "\"Todesregen\"",
-    "en": "\"Deathrain\"",
-    "es": "\"Lluvia de Muerte\"",
-    "fr": "\"Deathrain\""
+    "fr": "\"Deathrain\"",
+    "en": "\"Deathrain\""
   },
   "deathtroopers": {
-    "de": "Todestruppen",
-    "en": "Death Troopers",
-    "es": "Soldados de la muerte",
-    "fr": "Death Troopers"
+    "fr": "Death Troopers",
+    "en": "Death Troopers"
   },
   "debrisgambit": {
-    "de": "Trümmertanz",
-    "en": "Debris Gambit",
-    "es": "Treta de los desechos",
-    "fr": "Gambit des Astéroïdes"
+    "fr": "Gambit des Astéroïdes",
+    "en": "Debris Gambit"
   },
   "decoyed": {
-    "en": "Decoyed",
-    "fr": "Dupé"
+    "fr": "Dupé",
+    "en": "Decoyed"
   },
   "dedicated": {
-    "de": "Pflichtbewusst",
-    "en": "Dedicated",
-    "es": "Entrega absoluta",
-    "fr": "Dévoué"
+    "fr": "Dévoué",
+    "en": "Dedicated"
   },
   "delayedfuses": {
-    "de": "Zeitverzögerter Zünder",
-    "en": "Delayed Fuses",
-    "es": "Espoletas retardadas",
-    "fr": "Détonateur à Retardement"
+    "fr": "Détonateur à Retardement",
+    "en": "Delayed Fuses"
   },
   "delmeeko": {
-    "de": "Del Meeko",
-    "en": "Del Meeko",
-    "es": "Del Meeko",
-    "fr": "Del Meeko"
+    "fr": "Del Meeko",
+    "en": "Del Meeko"
   },
   "delta7aethersprite": {
-    "en": "Delta-7 Aethersprite",
-    "fr": "Aethersprite Delta-7"
+    "fr": "Aethersprite Delta-7",
+    "en": "Delta-7 Aethersprite"
   },
   "delta7b": {
-    "de": "Delta-7B",
-    "en": "Delta-7B",
-    "es": "Delta-7B",
-    "fr": "Delta-7B"
+    "fr": "Delta-7B",
+    "en": "Delta-7B"
   },
   "deltasquadronpilot": {
-    "de": "Pilot der Delta-Staffel",
-    "en": "Delta Squadron Pilot",
-    "es": "Piloto del Escuadrón Delta",
-    "fr": "Pilote de l'Escadron Delta"
+    "fr": "Pilote de l'Escadron Delta",
+    "en": "Delta Squadron Pilot"
   },
   "dengar": {
-    "de": "Dengar",
-    "en": "Dengar",
-    "es": "Dengar",
-    "fr": "Dengar"
+    "fr": "Dengar",
+    "en": "Dengar"
   },
   "deuteriumpowercells": {
-    "de": "Deuterium-Energiezellen",
-    "en": "Deuterium Power Cells",
-    "es": "Células energéticas de deuterio",
-    "fr": "Cellules Énergétiques au Deutérium"
+    "fr": "Cellules Énergétiques au Deutérium",
+    "en": "Deuterium Power Cells"
   },
   "dfs081": {
-    "de": "DFS-081",
-    "en": "DFS-081",
-    "es": "DFS-081",
-    "fr": "DFS-081"
+    "fr": "DFS-081",
+    "en": "DFS-081"
   },
   "dfs311": {
-    "de": "DFS-311",
-    "en": "DFS-311",
-    "es": "DFS-311",
-    "fr": "DFS-311"
-  },
-  "dgs047": {
-    "de": "DKB-047",
-    "en": "DGS-047",
-    "es": "DGS-047",
-    "fr": "DGS-047"
-  },
-  "dgs286": {
-    "de": "DKB-286",
-    "en": "DGS-286",
-    "es": "DGS-286",
-    "fr": "DGS-286"
+    "fr": "DFS-311",
+    "en": "DFS-311"
   },
   "diamondboronmissiles": {
-    "de": "Diamant-Boron-Raketen",
-    "en": "Diamond-Boron Missiles",
-    "es": "Misiles de diamante-boro",
-    "fr": "Missiles Diamant-Bore"
+    "fr": "Missiles Diamant-Bore",
+    "en": "Diamond-Boron Missiles"
   },
   "dineeellberger": {
-    "de": "Dineé Ellberger",
-    "en": "Dineé Ellberger",
-    "es": "Dineé Ellberger",
-    "fr": "Dineé Ellberger"
+    "fr": "Dineé Ellberger",
+    "en": "Dineé Ellberger"
   },
   "directorkrennic": {
-    "de": "Direktor Krennic",
-    "en": "Director Krennic",
-    "es": "Director Krennic",
-    "fr": "Directeur Krennic"
-  },
-  "dis347": {
-    "de": "DIS-347",
-    "en": "DIS-347",
-    "es": "DIS-347",
-    "fr": "DIS-347"
+    "fr": "Directeur Krennic",
+    "en": "Director Krennic"
   },
   "discordmissiles": {
-    "de": "Diskordanzraketen",
-    "en": "Discord Missiles",
-    "es": "Misiles desguazadores",
-    "fr": "Missiles Discorde"
-  },
-  "dist81": {
-    "de": "DIS-T81",
-    "en": "DIS-T81",
-    "es": "DIS-T81",
-    "fr": "DIS-T81"
+    "fr": "Missiles Discorde",
+    "en": "Discord Missiles"
   },
   "dodonnaspride": {
-    "de": "Dodonnas Stolz",
-    "en": "Dodonna's Pride",
-    "es": "Orgullo de Dodonna",
-    "fr": "Dodonna's Pride"
+    "fr": "Dodonna's Pride",
+    "en": "Dodonna's Pride"
   },
   "dorsalturret": {
-    "de": "Dorsaler Geschützturm",
-    "en": "Dorsal Turret",
-    "es": "Torreta dorsal",
-    "fr": "Tourelle Dorsale"
+    "fr": "Tourelle Dorsale",
+    "en": "Dorsal Turret"
   },
   "doubleedge": {
-    "de": "\"Doppelklinge\"",
-    "en": "\"Double Edge\"",
-    "es": "\"Doble Filo\"",
-    "fr": "\"Double Edge\""
-  },
-  "dreadnoughthunter": {
-    "de": "Dreadnought-Jäger",
-    "en": "Dreadnought Hunter",
-    "es": "Cazador de acorazados",
-    "fr": "Chasseur de Cuirassés"
+    "fr": "\"Double Edge\"",
+    "en": "\"Double Edge\""
   },
   "drearenthal": {
-    "de": "Drea Renthal",
-    "en": "Drea Renthal",
-    "es": "Drea Renthal",
-    "fr": "Drea Renthal"
+    "fr": "Drea Renthal",
+    "en": "Drea Renthal"
   },
   "drk1probedroids": {
-    "de": "DRK-1-Sondendroiden",
-    "en": "DRK-1 Probe Droids",
-    "es": "Droides sonda DRK-1",
-    "fr": "Droïdes Sondes DRK-1"
+    "fr": "Droïdes Sondes DRK-1",
+    "en": "DRK-1 Probe Droids"
   },
   "duchess": {
-    "de": "\"Herzogin\"",
-    "en": "\"Duchess\"",
-    "es": "\"Duquesa\"",
-    "fr": "\"Duchess\""
+    "fr": "\"Duchess\"",
+    "en": "\"Duchess\""
   },
   "dutchvander": {
-    "de": "\"Dutch\" Vander",
-    "en": "\"Dutch\" Vander",
-    "es": "\"Dutch\" Vander",
-    "fr": "\"Dutch\" Vander"
+    "fr": "\"Dutch\" Vander",
+    "en": "\"Dutch\" Vander"
   },
   "echo": {
-    "de": "\"Echo\"",
-    "en": "\"Echo\"",
-    "es": "\"Eco\"",
-    "fr": "\"Echo\""
+    "fr": "\"Echo\"",
+    "en": "\"Echo\""
   },
   "edonkappehl": {
-    "de": "Edon Kappehl",
-    "en": "Edon Kappehl",
-    "es": "Edon Kappehl",
-    "fr": "Edon Kappehl"
+    "fr": "Edon Kappehl",
+    "en": "Edon Kappehl"
   },
   "edriotwotubes": {
-    "de": "Edrio Two Tubes",
-    "en": "Edrio Two Tubes",
-    "es": "Edrio Dos Tubos",
-    "fr": "Edrio Deux-Tubes"
+    "fr": "Edrio Deux-Tubes",
+    "en": "Edrio Two Tubes"
   },
   "electronicbaffle": {
-    "de": "Elektronischer Dämpfer",
-    "en": "Electronic Baffle",
-    "es": "Regulador electrónico",
-    "fr": "Déflecteur Électronique"
+    "fr": "Déflecteur Électronique",
+    "en": "Electronic Baffle"
   },
   "electroprotonbomb": {
-    "de": "Elektro-Protonen-Bombe",
-    "en": "Electro-Proton Bomb",
-    "es": "Bomba de electroprotones",
-    "fr": "Bombe Électro-Protonique"
+    "fr": "Bombe Électro-Protonique",
+    "en": "Electro-Proton Bomb"
   },
   "elloasty": {
-    "de": "Ello Asty",
-    "en": "Ello Asty",
-    "es": "Ello Asty",
-    "fr": "Ello Asty"
+    "fr": "Ello Asty",
+    "en": "Ello Asty"
   },
   "elusive": {
-    "de": "Schwer zu treffen",
-    "en": "Elusive",
-    "es": "Escurridizo",
-    "fr": "Insaisissable"
+    "fr": "Insaisissable",
+    "en": "Elusive"
   },
   "ember": {
-    "de": "\"Ember\"",
-    "en": "\"Ember\"",
-    "es": "\"Ascua\"",
-    "fr": "\"Ember\""
+    "fr": "\"Ember\"",
+    "en": "\"Ember\""
   },
   "emonazzameen": {
-    "de": "Emon Azzameen",
-    "en": "Emon Azzameen",
-    "es": "Emon Azzameen",
-    "fr": "Emon Azzameen"
+    "fr": "Emon Azzameen",
+    "en": "Emon Azzameen"
   },
   "emperorpalpatine": {
-    "de": "Imperator Palpatine",
-    "en": "Emperor Palpatine",
-    "es": "Emperador Palpatine",
-    "fr": "Empereur Palpatine"
+    "fr": "Empereur Palpatine",
+    "en": "Emperor Palpatine"
   },
   "energyshellcharges": {
-    "de": "Energiegeschosse",
-    "en": "Energy-Shell Charges",
-    "es": "Cargas de energía concentrada",
-    "fr": "Obus Énergétiques"
+    "fr": "Obus Énergétiques",
+    "en": "Energy-Shell Charges"
   },
   "engineupgrade": {
-    "de": "Verbessertes Triebwerk",
-    "en": "Engine Upgrade",
-    "es": "Motor mejorado",
-    "fr": "Moteurs Améliorés"
+    "fr": "Moteurs Améliorés",
+    "en": "Engine Upgrade"
   },
   "ensnare": {
-    "de": "Einfangen",
-    "en": "Ensnare",
-    "es": "Apresamiento",
-    "fr": "Enchevêtrement"
+    "fr": "Enchevêtrement",
+    "en": "Ensnare"
   },
   "epsilonsquadroncadet": {
-    "de": "Kadett der Epsilon-Staffel",
-    "en": "Epsilon Squadron Cadet",
-    "es": "Cadete del Escuadrón Épsilon",
-    "fr": "Cadet de l'Escadron Epsilon"
+    "fr": "Cadet de l'Escadron Epsilon",
+    "en": "Epsilon Squadron Cadet"
   },
   "escapecraft": {
-    "en": "Escape Craft",
-    "fr": "Vaisseau de secours"
+    "fr": "Vaisseau de secours",
+    "en": "Escape Craft"
   },
   "esegetuketu": {
-    "de": "Esege Tuketu",
-    "en": "Esege Tuketu",
-    "es": "Esege Tuketu",
-    "fr": "Esege Tuketu"
+    "fr": "Esege Tuketu",
+    "en": "Esege Tuketu"
   },
   "evaanverlaine": {
-    "de": "Evaan Verlaine",
-    "en": "Evaan Verlaine",
-    "es": "Evaan Verlaine",
-    "fr": "Evaan Verlaine"
+    "fr": "Evaan Verlaine",
+    "en": "Evaan Verlaine"
   },
   "evade": {
-    "en": "Evade",
-    "fr": "Evasion"
+    "fr": "Evasion",
+    "en": "Evade"
   },
   "ewing": {
-    "en": "E-wing",
-    "fr": "E-wing"
+    "fr": "E-wing",
+    "en": "E-wing"
   },
   "experthandling": {
-    "de": "Flugkunst",
-    "en": "Expert Handling",
-    "es": "Pericia",
-    "fr": "As de l'Espace"
-  },
-  "extrememaneuvers": {
-    "de": "Extreme Manöver",
-    "en": "Extreme Maneuvers",
-    "es": "Maniobras extremas",
-    "fr": "Manœuvres Extrêmes"
+    "fr": "As de l'Espace",
+    "en": "Expert Handling"
   },
   "ezrabridger": {
-    "de": "Ezra Bridger",
-    "en": "Ezra Bridger",
-    "es": "Ezra Bridger",
-    "fr": "Ezra Bridger"
+    "fr": "Ezra Bridger",
+    "en": "Ezra Bridger"
   },
   "ezrabridger-sheathipedeclassshuttle": {
-    "de": "Ezra Bridger",
-    "en": "Ezra Bridger",
-    "es": "Ezra Bridger",
-    "fr": "Ezra Bridger"
+    "fr": "Ezra Bridger",
+    "en": "Ezra Bridger"
   },
   "ezrabridger-tielnfighter": {
-    "de": "Ezra Bridger",
-    "en": "Ezra Bridger",
-    "es": "Ezra Bridger",
-    "fr": "Ezra Bridger"
-  },
-  "falsetranspondercodes": {
-    "de": "False Transponder Codes",
-    "en": "False Transponder Codes",
-    "es": "False Transponder Codes",
-    "fr": "False Transponder Codes"
+    "fr": "Ezra Bridger",
+    "en": "Ezra Bridger"
   },
   "fanatical": {
-    "de": "Fanatisch",
-    "en": "Fanatical",
-    "es": "Fanático",
-    "fr": "Fanatique"
+    "fr": "Fanatique",
+    "en": "Fanatical"
   },
   "fangfighter": {
-    "en": "Fang Fighter",
-    "fr": "Chasseur Fang"
+    "fr": "Chasseur Fang",
+    "en": "Fang Fighter"
   },
   "fearless": {
-    "de": "Furchtlos",
-    "en": "Fearless",
-    "es": "Intrépido",
-    "fr": "Intrépide"
-  },
-  "fearsomepredator": {
-    "de": "Fürchterlicher Jäger",
-    "en": "Fearsome Predator",
-    "es": "Depredador temible",
-    "fr": "Prédateur Effrayant"
+    "fr": "Intrépide",
+    "en": "Fearless"
   },
   "feedbackarray": {
-    "de": "Rückkopplungsfeld",
-    "en": "Feedback Array",
-    "es": "Transmisor de sobrecargas",
-    "fr": "Dispositif de Retour"
+    "fr": "Dispositif de Retour",
+    "en": "Feedback Array"
   },
   "feethanottrawautopilot": {
-    "de": "Autopilot von Feethan Ottraw",
-    "en": "Feethan Ottraw Autopilot",
-    "es": "Piloto automático de Feethan Ottraw",
-    "fr": "Pilote Automatique Feethan Ottraw"
+    "fr": "Pilote Automatique Feethan Ottraw",
+    "en": "Feethan Ottraw Autopilot"
   },
   "fennrau": {
-    "de": "Fenn Rau",
-    "en": "Fenn Rau",
-    "es": "Fenn Rau",
-    "fr": "Fenn Rau"
+    "fr": "Fenn Rau",
+    "en": "Fenn Rau"
   },
   "fennrau-sheathipedeclassshuttle": {
-    "de": "Fenn Rau",
-    "en": "Fenn Rau",
-    "es": "Fenn Rau",
-    "fr": "Fenn Rau"
+    "fr": "Fenn Rau",
+    "en": "Fenn Rau"
   },
   "ferrospherepaint": {
-    "de": "Ferrosphärenfarbe",
-    "en": "Ferrosphere Paint",
-    "es": "Pintura ferrosférica",
-    "fr": "Peinture Ferrosphère"
+    "fr": "Peinture Ferrosphère",
+    "en": "Ferrosphere Paint"
   },
   "fifthbrother": {
-    "de": "Fünfter Bruder",
-    "en": "Fifth Brother",
-    "es": "Quinto Hermano",
-    "fr": "Le Cinquième Frère"
+    "fr": "Le Cinquième Frère",
+    "en": "Fifth Brother"
   },
   "finchdallow": {
-    "de": "Finch Dallow",
-    "en": "Finch Dallow",
-    "es": "Finch Dallow",
-    "fr": "Finch Dallow"
+    "fr": "Finch Dallow",
+    "en": "Finch Dallow"
   },
   "finn": {
-    "de": "Finn",
-    "en": "Finn",
-    "es": "Finn",
-    "fr": "Finn"
+    "fr": "Finn",
+    "en": "Finn"
   },
   "fireball": {
-    "en": "Fireball",
-    "fr": "Fireball"
+    "fr": "Fireball",
+    "en": "Fireball"
   },
   "firecontrolsystem": {
-    "de": "Feuerkontrollsystem",
-    "en": "Fire-Control System",
-    "es": "Sistema de control de disparo",
-    "fr": "Système de Commande de Tir"
+    "fr": "Système de Commande de Tir",
+    "en": "Fire-Control System"
   },
   "firesprayclasspatrolcraft": {
-    "en": "Firespray-class Patrol Craft",
-    "fr": "Patrouilleur de Classe Firespray"
+    "fr": "Patrouilleur de Classe Firespray",
+    "en": "Firespray-class Patrol Craft"
   },
   "firstorder": {
-    "en": "First Order",
-    "fr": "Premier Ordre"
-  },
-  "firstordercourier": {
-    "de": "Kurier der Ersten Ordnung",
-    "en": "First Order Courier",
-    "es": "Mensajero de la Primera Orden",
-    "fr": "Messager du Premier Ordre"
-  },
-  "firstorderelite": {
-    "de": "Elite der Ersten Ordnung",
-    "en": "First Order Elite",
-    "es": "Élite de la Primera Orden",
-    "fr": "Élite du Premier Ordre"
+    "fr": "Premier Ordre",
+    "en": "First Order"
   },
   "firstorderprovocateur": {
-    "de": "Provokateur der Ersten Ordnung",
-    "en": "First Order Provocateur",
-    "es": "Agente provocador de la Primera Orden",
-    "fr": "Provocateur du Premier Ordre"
+    "fr": "Provocateur du Premier Ordre",
+    "en": "First Order Provocateur"
   },
   "firstordertestpilot": {
-    "de": "Testpilotder Ersten Ordnung",
-    "en": "First Order Test Pilot",
-    "es": "Piloto de pruebas de la Primera Orden",
-    "fr": "Pilote d'Essai du Premier Ordre"
-  },
-  "fives": {
-    "de": "\"Fives\"",
-    "en": "\"Fives\"",
-    "es": "\"Cincos\"",
-    "fr": "\"Fives\""
+    "fr": "Pilote d'Essai du Premier Ordre",
+    "en": "First Order Test Pilot"
   },
   "focus": {
-    "en": "Focus",
-    "fr": "Concentration"
+    "fr": "Concentration",
+    "en": "Focus"
   },
   "foremanproach": {
-    "de": "Vorarbeiter Proach",
-    "en": "Foreman Proach",
-    "es": "Capataz Proach",
-    "fr": "Contremaître Proach"
+    "fr": "Contremaître Proach",
+    "en": "Foreman Proach"
   },
   "foresight": {
-    "de": "Vorausahnung",
-    "en": "Foresight",
-    "es": "Intuición premonitoria",
-    "fr": "Clairvoyance"
+    "fr": "Clairvoyance",
+    "en": "Foresight"
   },
   "freelanceslicer": {
-    "de": "Freischaffender Hacker",
-    "en": "Freelance Slicer",
-    "es": "Pirata informático independiente",
-    "fr": "Slicer Free-lance"
+    "fr": "Slicer Free-Lance",
+    "en": "Freelance Slicer"
   },
   "freightercaptain": {
-    "de": "Frachtercaptain",
-    "en": "Freighter Captain",
-    "es": "Capitán de carguero",
-    "fr": "Capitaine de Cargo"
+    "fr": "Capitaine de Cargo",
+    "en": "Freighter Captain"
   },
   "g1astarfighter": {
-    "en": "G-1A Starfighter",
-    "fr": "Chasseur G-1A"
+    "fr": "Chasseur G-1A",
+    "en": "G-1A Starfighter"
   },
   "g4rgorvm": {
-    "de": "G4R-G0R V/M",
-    "en": "G4R-G0R V/M",
-    "es": "G4R-G0R V/M",
-    "fr": "G4R-G0R V/M"
+    "fr": "G4R-G0R V/M",
+    "en": "G4R-G0R V/M"
   },
   "ga97": {
-    "de": "GA-97",
-    "en": "GA-97",
-    "es": "GA-97",
-    "fr": "GA-97"
+    "fr": "GA-97",
+    "en": "GA-97"
   },
   "galacticempire": {
-    "en": "Galactic Empire",
-    "fr": "Empire Galactique"
+    "fr": "Empire Galactique",
+    "en": "Galactic Empire"
   },
   "galacticrepublic": {
-    "en": "Galactic Republic",
-    "fr": "République"
+    "fr": "République",
+    "en": "Galactic Republic"
   },
   "gammasquadronace": {
-    "de": "Fliegerass der Gamma-Staffel",
-    "en": "Gamma Squadron Ace",
-    "es": "As del Escuadrón Gamma",
-    "fr": "As de l'Escadron Gamma"
+    "fr": "As de l'Escadron Gamma",
+    "en": "Gamma Squadron Ace"
   },
   "gandfindsman": {
-    "de": "Gand-Finder",
-    "en": "Gand Findsman",
-    "es": "Buscador gandiano",
-    "fr": "Trouveur Gand"
+    "fr": "Trouveur Gand",
+    "en": "Gand Findsman"
   },
   "garvendreis": {
-    "de": "Garven Dreis",
-    "en": "Garven Dreis",
-    "es": "Garven Dreis",
-    "fr": "Garven Dreis"
+    "fr": "Garven Dreis",
+    "en": "Garven Dreis"
   },
   "garvendreis-t65xwing": {
-    "de": "Garven Dreis",
-    "en": "Garven Dreis",
-    "es": "Garven Dreis",
-    "fr": "Garven Dreis"
+    "fr": "Garven Dreis",
+    "en": "Garven Dreis"
   },
   "gavindarklighter": {
-    "de": "Gavin Darklighter",
-    "en": "Gavin Darklighter",
-    "es": "Gavin Darklighter",
-    "fr": "Gavin Darklighter"
+    "fr": "Gavin Darklighter",
+    "en": "Gavin Darklighter"
   },
   "generalgrievous": {
-    "de": "General Grievous",
-    "en": "General Grievous",
-    "es": "General Grievous",
-    "fr": "Général Grievous"
+    "fr": "Général Grievous",
+    "en": "General Grievous"
   },
   "generalhux": {
-    "de": "General Hux",
-    "en": "General Hux",
-    "es": "General Hux",
-    "fr": "Général Hux"
+    "fr": "Général Hux",
+    "en": "General Hux"
   },
   "genesisred": {
-    "de": "Genesis Red",
-    "en": "Genesis Red",
-    "es": "Genesis Red",
-    "fr": "Genesis Red"
+    "fr": "Genesis Red",
+    "en": "Genesis Red"
   },
   "genius": {
-    "de": "\"Genie\"",
-    "en": "\"Genius\"",
-    "es": "\"Genio\"",
-    "fr": "\"Genius\""
-  },
-  "geonosianprototype": {
-    "de": "Prototyp der Geonosianer",
-    "en": "Geonosian Prototype",
-    "es": "Prototipo geonosiano",
-    "fr": "Prototype Géonosien"
+    "fr": "Genius",
+    "en": "Genius"
   },
   "ghost": {
-    "de": "Ghost",
-    "en": "Ghost",
-    "es": "Espíritu",
-    "fr": "Ghost"
-  },
-  "ghostcompany": {
-    "de": "Geisterkompanie",
-    "en": "Ghost Company",
-    "es": "Compañía Fantasma",
-    "fr": "Compagnie Fantôme"
+    "fr": "Ghost",
+    "en": "Ghost"
   },
   "gideonhask": {
-    "de": "Gideon Hask",
-    "en": "Gideon Hask",
-    "es": "Gideon Hask",
-    "fr": "Gideon Hask"
-  },
-  "gideonhask-xiclasslightshuttle": {
-    "de": "Gideon Hask",
-    "en": "Gideon Hask",
-    "es": "Gideon Hask",
-    "fr": "Gideon Hask"
+    "fr": "Gideon Hask",
+    "en": "Gideon Hask"
   },
   "ginamoonsong": {
-    "de": "Gina Moonsong",
-    "en": "Gina Moonsong",
-    "es": "Gina Moonsong",
-    "fr": "Gina Moonsong"
+    "fr": "Gina Moonsong",
+    "en": "Gina Moonsong"
   },
   "gnkgonkdroid": {
-    "de": "GNK-\"Gonk\"-Droide",
-    "en": "GNK \"Gonk\" Droid",
-    "es": "Droide GNK \"Gonk\"",
-    "fr": "Droïde \"Gonk\" GNK"
+    "fr": "Droïde \"Gonk\" GNK",
+    "en": "GNK \"Gonk\" Droid"
   },
   "goji": {
-    "de": "\"Goji\"",
-    "en": "\"Goji\"",
-    "es": "\"Goji\"",
-    "fr": "\"Goji\""
+    "fr": "\"Goji\"",
+    "en": "\"Goji\""
   },
   "goldsquadrontrooper": {
-    "de": "Truppler der Gold-Staffel",
-    "en": "Gold Squadron Trooper",
-    "es": "Soldado del Escuadrón Oro",
-    "fr": "Soldat de l'Escadron Or"
+    "fr": "Soldat de l'Escadron Or",
+    "en": "Gold Squadron Trooper"
   },
   "goldsquadronveteran": {
-    "de": "Veteran der Gold-Staffel",
-    "en": "Gold Squadron Veteran",
-    "es": "Veterano del Escuadrón Oro",
-    "fr": "Vétéran de l'Escadron Or"
+    "fr": "Vétéran de l'Escadron Or",
+    "en": "Gold Squadron Veteran"
   },
   "gorgol": {
-    "de": "Gorgol",
-    "en": "Gorgol",
-    "es": "Gorgol",
-    "fr": "Gorgol"
+    "fr": "Gorgol",
+    "en": "Gorgol"
   },
   "grandinquisitor": {
-    "de": "Großinquisitor",
-    "en": "Grand Inquisitor",
-    "es": "Gran Inquisidor",
-    "fr": "Grand Inquisiteur"
+    "fr": "Grand Inquisiteur",
+    "en": "Grand Inquisitor"
   },
   "grandmofftarkin": {
-    "de": "Großmoff Tarkin",
-    "en": "Grand Moff Tarkin",
-    "es": "Gran Moff Tarkin",
-    "fr": "Grand Moff Tarkin"
+    "fr": "Grand Moff Tarkin",
+    "en": "Grand Moff Tarkin"
   },
   "grapplingstruts": {
-    "de": "Laufkrallen (geschlossen)",
-    "en": "Grappling Struts (Closed)",
-    "es": "Puntales de agarre (posición cerrada)",
-    "fr": "Supports d'Ancrage (Repliés)"
+    "fr": "Supports d'Ancrage",
+    "en": "Grappling Struts"
   },
   "graviticdeflection": {
-    "de": "Gravitationsdeflektor",
-    "en": "Gravitic Deflection",
-    "es": "Desvío gravítico",
-    "fr": "Déflexion Gravitationnelle"
+    "fr": "Déflexion Gravitationnelle",
+    "en": "Gravitic Deflection"
   },
   "graysquadronbomber": {
-    "de": "Bomber der grauen Staffel",
-    "en": "Gray Squadron Bomber",
-    "es": "Bombardero del Escuadrón Gris",
-    "fr": "Bombardier de l'Escadron Gris"
+    "fr": "Bombardier de l'Escadron Gris",
+    "en": "Gray Squadron Bomber"
   },
   "graz": {
-    "de": "Graz",
-    "en": "Graz",
-    "es": "Graz",
-    "fr": "Graz"
+    "fr": "Graz",
+    "en": "Graz"
   },
   "greedo": {
-    "de": "Greedo",
-    "en": "Greedo",
-    "es": "Greedo",
-    "fr": "Greedo"
+    "fr": "Greedo",
+    "en": "Greedo"
   },
   "greensquadronexpert": {
-    "de": "Elitepilot der grünen Staffel",
-    "en": "Green Squadron Expert",
-    "es": "Experto del Escuadrón Verde",
-    "fr": "Green Squadron Expert"
+    "fr": "Expert de l'Escadron Vert",
+    "en": "Green Squadron Expert"
   },
   "greensquadronpilot": {
-    "de": "Pilot der grünen Staffel",
-    "en": "Green Squadron Pilot",
-    "es": "Piloto del Escuadrón Verde",
-    "fr": "Pilote de l'Escadron Vert"
+    "fr": "Pilote de l'Escadron Vert",
+    "en": "Green Squadron Pilot"
   },
   "greersonnel": {
-    "de": "Greer Sonnel",
-    "en": "Greer Sonnel",
-    "es": "Greer Sonnel",
-    "fr": "Greer Sonnel"
+    "fr": "Greer Sonnel",
+    "en": "Greer Sonnel"
   },
   "gunneryspecialists": {
-    "de": "Artillerie-Spezialisten",
-    "en": "Gunnery Specialists",
-    "es": "Especialistas en artillería",
-    "fr": "Spécialistes en Artillerie"
+    "fr": "Spécialistes en Artillerie",
+    "en": "Gunnery Specialists"
   },
   "guri": {
-    "de": "Guri",
-    "en": "Guri",
-    "es": "Guri",
-    "fr": "Guri"
+    "fr": "Guri",
+    "en": "Guri"
   },
   "hansolo": {
-    "de": "Han Solo",
-    "en": "Han Solo",
-    "es": "Han Solo",
-    "fr": "Han Solo"
+    "fr": "Han Solo",
+    "en": "Han Solo"
   },
   "hansolo-crew": {
-    "de": "Han Solo",
-    "en": "Han Solo",
-    "es": "Han Solo",
-    "fr": "Han Solo"
+    "fr": "Han Solo",
+    "en": "Han Solo"
   },
   "hansolo-gunner": {
-    "de": "Han Solo",
-    "en": "Han Solo",
-    "es": "Han Solo",
-    "fr": "Han Solo"
+    "fr": "Han Solo",
+    "en": "Han Solo"
   },
   "hansolo-modifiedyt1300lightfreighter": {
-    "de": "Han Solo",
-    "en": "Han Solo",
-    "es": "Han Solo",
-    "fr": "Han Solo"
+    "fr": "Han Solo",
+    "en": "Han Solo"
   },
   "hansolo-scavengedyt1300": {
-    "de": "Han Solo",
-    "en": "Han Solo",
-    "es": "Han Solo",
-    "fr": "Han Solo"
+    "fr": "Han Solo",
+    "en": "Han Solo"
   },
   "haorchallprototype": {
-    "de": "Prototyp von Haor Chall",
-    "en": "Haor Chall Prototype",
-    "es": "Prototipo de Haor Chall",
-    "fr": "Prototype Haor Chall"
+    "fr": "Prototype Haor Chall",
+    "en": "Haor Chall Prototype"
   },
   "hate": {
-    "de": "Hass",
-    "en": "Hate",
-    "es": "Odio",
-    "fr": "Haine"
+    "fr": "Haine",
+    "en": "Hate"
   },
   "havoc": {
-    "de": "Havoc",
-    "en": "Havoc",
-    "es": "Estrago",
-    "fr": "Havoc"
-  },
-  "hawk": {
-    "de": "\"Hawk\"",
-    "en": "\"Hawk\"",
-    "es": "\"Hawk\"",
-    "fr": "\"Hawk\""
+    "fr": "Havoc",
+    "en": "Havoc"
   },
   "heavylasercannon": {
-    "de": "Schwere Laserkanone",
-    "en": "Heavy Laser Cannon",
-    "es": "Cañón láser pesado",
-    "fr": "Canon Laser Lourd"
+    "fr": "Canon Laser Lourd",
+    "en": "Heavy Laser Cannon"
   },
   "hefftobber": {
-    "de": "Heff Tobber",
-    "en": "Heff Tobber",
-    "es": "Heff Tobber",
-    "fr": "Heff Tobber"
+    "fr": "Heff Tobber",
+    "en": "Heff Tobber"
   },
   "heightenedperception": {
-    "de": "Geschärfte Sinne",
-    "en": "Heightened Perception",
-    "es": "Percepción agudizada",
-    "fr": "Perception Renforcée"
+    "fr": "Perception Renforcée",
+    "en": "Heightened Perception"
   },
   "herasyndulla": {
-    "de": "Hera Syndulla",
-    "en": "Hera Syndulla",
-    "es": "Hera Syndulla",
-    "fr": "Hera Syndulla"
+    "fr": "Hera Syndulla",
+    "en": "Hera Syndulla"
   },
   "herasyndulla-vcx100lightfreighter": {
-    "de": "Hera Syndulla",
-    "en": "Hera Syndulla",
-    "es": "Hera Syndulla",
-    "fr": "Hera Syndulla"
+    "fr": "Hera Syndulla",
+    "en": "Hera Syndulla"
   },
   "heroic": {
-    "de": "Heroisch",
-    "en": "Heroic",
-    "es": "Audaz",
-    "fr": "Héroïque"
+    "fr": "Héroïque",
+    "en": "Heroic"
   },
   "hiredgun": {
-    "de": "Söldner",
-    "en": "Hired Gun",
-    "es": "Piloto de fortuna",
-    "fr": "Soudard"
+    "fr": "Soudard",
+    "en": "Hired Gun"
   },
   "holo": {
-    "de": "\"Holo\"",
-    "en": "\"Holo\"",
-    "es": "\"Holo\"",
-    "fr": "\"Holo\""
+    "fr": "\"Holo\"",
+    "en": "\"Holo\""
   },
   "homingmissiles": {
-    "de": "Lenkraketen",
-    "en": "Homing Missiles",
-    "es": "Misiles rastreadores",
-    "fr": "Missiles à Tête Chercheuse"
-  },
-  "hondoohnaka": {
-    "de": "Hondo Ohnaka",
-    "en": "Hondo Ohnaka",
-    "es": "Hondo Ohnaka",
-    "fr": "Hondo Ohnaka"
+    "fr": "Missiles à Tête Chercheuse",
+    "en": "Homing Missiles"
   },
   "hortonsalm": {
-    "de": "Horton Salm",
-    "en": "Horton Salm",
-    "es": "Horton Salm",
-    "fr": "Horton Salm"
+    "fr": "Horton Salm",
+    "en": "Horton Salm"
   },
   "hotshotgunner": {
-    "de": "Erstklassiger Bordschütze",
-    "en": "Hotshot Gunner",
-    "es": "Artillero habilidoso",
-    "fr": "Artilleur Hors Pair"
-  },
-  "hound": {
-    "de": "\"Hound\"",
-    "en": "\"Hound\"",
-    "es": "\"Hound\"",
-    "fr": "\"Hound\""
+    "fr": "Artilleur Hors Pair",
+    "en": "Hotshot Gunner"
   },
   "houndstooth": {
-    "de": "Reißzahn",
-    "en": "Hound's Tooth",
-    "es": "Diente de Perro",
-    "fr": "Hound's Tooth"
+    "fr": "Hound's Tooth",
+    "en": "Hound's Tooth"
   },
   "howlrunner": {
-    "de": "\"Howlrunner\"",
-    "en": "\"Howlrunner\"",
-    "es": "\"Aullador Veloz\"",
-    "fr": "\"Howlrunner\""
+    "fr": "\"Howlrunner\"",
+    "en": "\"Howlrunner\""
   },
   "hullupgrade": {
-    "de": "Verstärkte Hülle",
-    "en": "Hull Upgrade",
-    "es": "Blindaje mejorado",
-    "fr": "Coque Améliorée"
+    "fr": "Coque Améliorée",
+    "en": "Hull Upgrade"
   },
   "hunted": {
-    "en": "Hunted",
-    "fr": "Traqué"
+    "fr": "Traqué",
+    "en": "Hunted"
   },
   "hwk290lightfreighter": {
-    "en": "HWK-290 Light Freighter",
-    "fr": "Cargo léger HWK-290"
+    "fr": "Cargo léger HWK-290",
+    "en": "HWK-290 Light Freighter"
   },
   "hyenaclassdroidbomber": {
-    "en": "Hyena-class Droid Bomber",
-    "fr": "Bombardier Droïde de classe Hyena"
+    "fr": "Bombardier Droïde de classe Hyena",
+    "en": "Hyena-class Droid Bomber"
   },
   "hyperspacetrackingdata": {
-    "de": "Hyperraum-Ortungsdaten",
-    "en": "Hyperspace Tracking Data",
-    "es": "Datos de rastreo hiperespacial",
-    "fr": "Données de Pistage Hyperspatial"
+    "fr": "Données de Pistage Hyperspatial",
+    "en": "Hyperspace Tracking Data"
   },
   "ibtisam": {
-    "de": "Ibtisam",
-    "en": "Ibtisam",
-    "es": "Ibtisam",
-    "fr": "Ibtisam"
+    "fr": "Ibtisam",
+    "en": "Ibtisam"
   },
   "idenversio": {
-    "de": "Iden Versio",
-    "en": "Iden Versio",
-    "es": "Iden Versio",
-    "fr": "Iden Versio"
+    "fr": "Iden Versio",
+    "en": "Iden Versio"
   },
   "ig2000": {
-    "de": "IG-2000",
-    "en": "IG-2000",
-    "es": "IG-2000",
-    "fr": "IG-2000"
+    "fr": "IG-2000",
+    "en": "IG-2000"
   },
   "ig88a": {
-    "de": "IG-88A",
-    "en": "IG-88A",
-    "es": "IG-88A",
-    "fr": "IG-88A"
+    "fr": "IG-88A",
+    "en": "IG-88A"
   },
   "ig88b": {
-    "de": "IG-88B",
-    "en": "IG-88B",
-    "es": "IG-88B",
-    "fr": "IG-88B"
+    "fr": "IG-88B",
+    "en": "IG-88B"
   },
   "ig88c": {
-    "de": "IG-88C",
-    "en": "IG-88C",
-    "es": "IG-88C",
-    "fr": "IG-88C"
+    "fr": "IG-88C",
+    "en": "IG-88C"
   },
   "ig88d": {
-    "de": "IG-88D",
-    "en": "IG-88D",
-    "es": "IG-88D",
-    "fr": "IG-88D"
+    "fr": "IG-88D",
+    "en": "IG-88D"
   },
   "igrmdroids": {
-    "de": "IG-RM Droids",
-    "en": "IG-RM Droids",
-    "es": "Droides IG-RM",
-    "fr": "Droïdes IG-RM"
+    "fr": "Droïdes IG-RM",
+    "en": "IG-RM Droids"
   },
   "illshowyouthedarkside": {
-    "en": "I'll Show You the Dark Side",
-    "fr": "Je Vous Montrerai le Côté Obscur"
+    "fr": "Je Vous Montrerai le Côté Obscur",
+    "en": "I'll Show You the Dark Side"
   },
   "imdaartestpilot": {
-    "de": "Testpilot von Imdaar",
-    "en": "Imdaar Test Pilot",
-    "es": "Piloto de pruebas de Imdaar",
-    "fr": "Pilote d'Essai Imdaar"
+    "fr": "Pilote d'Essai Imdaar",
+    "en": "Imdaar Test Pilot"
   },
   "imperviumplating": {
-    "de": "Impervium-Panzerung",
-    "en": "Impervium Plating",
-    "es": "Blindaje de impenetranio",
-    "fr": "Blindage en Impervium"
+    "fr": "Blindage en Impervium",
+    "en": "Impervium Plating"
   },
   "impetuous": {
-    "de": "Ungestüm",
-    "en": "Impetuous",
-    "es": "Impetuoso",
-    "fr": "Impetuous"
+    "fr": "Impetuous",
+    "en": "Impetuous"
   },
   "inaldra": {
-    "de": "Inaldra",
-    "en": "Inaldra",
-    "es": "Inaldra",
-    "fr": "Inaldra"
-  },
-  "independentcalculations": {
-    "de": "Autonome Berechnungssysteme",
-    "en": "Independent Calculations",
-    "es": "Cálculos independientes",
-    "fr": "Calculs Indépendants"
+    "fr": "Inaldra",
+    "en": "Inaldra"
   },
   "inertialdampeners": {
-    "de": "Trägheitsdämpfer",
-    "en": "Inertial Dampeners",
-    "es": "Amortiguadores de inercia",
-    "fr": "Amortisseurs Inertiels"
+    "fr": "Amortisseurs Inertiels",
+    "en": "Inertial Dampeners"
   },
   "informant": {
-    "de": "Informant",
-    "en": "Informant",
-    "es": "Confidente",
-    "fr": "Informateur"
+    "fr": "Informateur",
+    "en": "Informant"
   },
   "initiative": {
-    "en": "Initiative",
-    "fr": "Initiative"
+    "fr": "Initiative",
+    "en": "Initiative"
   },
   "inquisitor": {
-    "de": "Inquisitor",
-    "en": "Inquisitor",
-    "es": "Inquisidor",
-    "fr": "Inquisiteur"
+    "fr": "Inquisiteur",
+    "en": "Inquisitor"
   },
   "insatiableworrt": {
-    "de": "Gefräßiger Worrt",
-    "en": "Insatiable Worrt",
-    "es": "Worrt Insaciable",
-    "fr": "Insatiable Worrt"
+    "fr": "Insatiable Worrt",
+    "en": "Insatiable Worrt"
   },
   "instigator": {
-    "de": "Instigator",
-    "en": "Instigator",
-    "es": "Instigador",
-    "fr": "Instigator"
+    "fr": "Instigator",
+    "en": "Instigator"
   },
   "instinctiveaim": {
-    "de": "Instinktives Zielen",
-    "en": "Instinctive Aim",
-    "es": "Puntería instintiva",
-    "fr": "Visée Instinctive"
+    "fr": "Visée Instinctive",
+    "en": "Instinctive Aim"
   },
   "integratedsfoils": {
-    "de": "Integrierte S-Flügel (geschlossen)",
-    "en": "Integrated S-foils (Closed)",
-    "es": "Alas móviles integradas (posición cerrada)",
-    "fr": "S-foils Intégrés (repliés)"
-  },
-  "interceptbooster": {
-    "de": "Abfang-Booster (Eingeklinkt)",
-    "en": "Intercept Booster (Attached)",
-    "es": "Aceleradores de intercepción (conectados)",
-    "fr": "Propulseur d'Interception (Accroché)"
+    "fr": "S-Foils Intégrés",
+    "en": "Integrated S-foils"
   },
   "intimidation": {
-    "de": "Furchteinflößend",
-    "en": "Intimidation",
-    "es": "Intimidación",
-    "fr": "Intimidation"
+    "fr": "Intimidation",
+    "en": "Intimidation"
   },
   "ionbombs": {
-    "de": "Ionenbomben",
-    "en": "Ion Bombs",
-    "es": "Bombas de iones",
-    "fr": "Bombe Ionique"
+    "fr": "Bombe Ionique",
+    "en": "Ion Bombs"
   },
   "ioncannon": {
-    "de": "Ionenkanone",
-    "en": "Ion Cannon",
-    "es": "Cañón de iones",
-    "fr": "Canon Ionique"
+    "fr": "Canon Ionique",
+    "en": "Ion Cannon"
   },
   "ioncannonbattery": {
-    "de": "Ionengeschütz-Batterie (Offline)",
-    "en": "Ion Cannon Battery (Offline)",
-    "es": "Batería iónica (inoperativa)",
-    "fr": "Batterie à Canons ioniques (Hors-ligne)"
+    "fr": "Batterie à Canons Ioniques",
+    "en": "Ion Cannon Battery"
   },
   "ioncannonturret": {
-    "de": "Ionengeschütz",
-    "en": "Ion Cannon Turret",
-    "es": "Torreta de cañones de iones",
-    "fr": "Tourelle à Canons Ioniques"
-  },
-  "ionlimiteroverride": {
-    "de": "Aufgehobene Ionenbegrenzung",
-    "en": "Ion Limiter Override",
-    "es": "Anulación del limitador iónico",
-    "fr": "Surcharge du Limitateur Ionique"
+    "fr": "Tourelle à Canons Ioniques",
+    "en": "Ion Cannon Turret"
   },
   "ionmissiles": {
-    "de": "Ionenraketen",
-    "en": "Ion Missiles",
-    "es": "Misiles de iones",
-    "fr": "Missiles Ioniques"
+    "fr": "Missiles Ioniques",
+    "en": "Ion Missiles"
   },
   "iontorpedoes": {
-    "de": "Ionentorpedos",
-    "en": "Ion Torpedoes",
-    "es": "Torpedos de iones",
-    "fr": "Torpilles Ioniques"
+    "fr": "Torpilles Ioniques",
+    "en": "Ion Torpedoes"
   },
   "isbslicer": {
-    "de": "ISB-Hacker",
-    "en": "ISB Slicer",
-    "es": "Técnico en guerra electrónica de la OSI",
-    "fr": "Slicer du BSI"
+    "fr": "Slicer du BSI",
+    "en": "ISB Slicer"
   },
   "jabbathehutt": {
-    "de": "Jabba der Hutt",
-    "en": "Jabba the Hutt",
-    "es": "Jabba el hutt",
-    "fr": "Jabba Le Hutt"
+    "fr": "Jabba le Hutt",
+    "en": "Jabba the Hutt"
   },
   "jag": {
-    "de": "\"Jag\"",
-    "en": "\"Jag\"",
-    "es": "\"Jag\"",
-    "fr": "\"Jag\""
+    "fr": "\"Jag\"",
+    "en": "\"Jag\""
   },
   "jainaslight": {
-    "de": "Jainas Licht",
-    "en": "Jaina's Light",
-    "es": "Luz de Jaina",
-    "fr": "Jaina's Light"
+    "fr": "Jaina's Light",
+    "en": "Jaina's Light"
   },
   "jakefarrell": {
-    "de": "Jake Farrell",
-    "en": "Jake Farrell",
-    "es": "Jake Farrell",
-    "fr": "Jake Farrell"
+    "fr": "Jake Farrell",
+    "en": "Jake Farrell"
   },
   "jakkugunrunner": {
-    "de": "Waffenschmuggler von Jakku",
-    "en": "Jakku Gunrunner",
-    "es": "Traficante de armas de Jakku",
-    "fr": "Trafiquant d'Armes de Jakku"
+    "fr": "Trafiquant d'Armes de Jakku",
+    "en": "Jakku Gunrunner"
   },
   "jam": {
-    "en": "Jam",
-    "fr": "Brouillage"
+    "fr": "Brouillage",
+    "en": "Jam"
   },
   "jammingbeam": {
-    "de": "Störstrahl",
-    "en": "Jamming Beam",
-    "es": "Haz de interferencias",
-    "fr": "Rayon de Brouillage"
-  },
-  "jandodonna": {
-    "de": "Jan Dodonna",
-    "en": "Jan Dodonna",
-    "es": "Jan Dodonna",
-    "fr": "Jan Dodonna"
-  },
-  "jangofett": {
-    "de": "Jango Fett",
-    "en": "Jango Fett",
-    "es": "Jango Fett",
-    "fr": "Jango Fett"
+    "fr": "Rayon de Brouillage",
+    "en": "Jamming Beam"
   },
   "janors": {
-    "de": "Jan Ors",
-    "en": "Jan Ors",
-    "es": "Jan Ors",
-    "fr": "Jan Ors"
+    "fr": "Jan Ors",
+    "en": "Jan Ors"
   },
   "jarekyeager": {
-    "de": "Jarek Yeager",
-    "en": "Jarek Yeager",
-    "es": "Jarek Yeager",
-    "fr": "Jarek Yeager"
+    "fr": "Jarek Yeager",
+    "en": "Jarek Yeager"
   },
   "jaycristubbs": {
-    "de": "Jaycris Tubbs",
-    "en": "Jaycris Tubbs",
-    "es": "Jaycris Tubbs",
-    "fr": "Jaycris Tubbs"
-  },
-  "jedicommander": {
-    "de": "Jedi-Kommandant",
-    "en": "Jedi Commander",
-    "es": "Comandante jedi",
-    "fr": "Commandant Jedi"
-  },
-  "jedigeneral": {
-    "de": "Jedi-General",
-    "en": "Jedi General",
-    "es": "General jedi",
-    "fr": "Général Jedi"
+    "fr": "Jaycris Tubbs",
+    "en": "Jaycris Tubbs"
   },
   "jediknight": {
-    "de": "Jedi-Ritter",
-    "en": "Jedi Knight",
-    "es": "Caballero jedi",
-    "fr": "Chevalier Jedi"
+    "fr": "Chevalier Jedi",
+    "en": "Jedi Knight"
   },
   "jekporkins": {
-    "de": "Jek Porkins",
-    "en": "Jek Porkins",
-    "es": "Jek Porkins",
-    "fr": "Jek Porkins"
+    "fr": "Jek Porkins",
+    "en": "Jek Porkins"
   },
   "jessikapava": {
-    "de": "Jessika Pava",
-    "en": "Jessika Pava",
-    "es": "Jessika Pava",
-    "fr": "Jessika Pava"
+    "fr": "Jessika Pava",
+    "en": "Jessika Pava"
   },
   "jophseastriker": {
-    "de": "Joph Seastriker",
-    "en": "Joph Seastriker",
-    "es": "Joph Seastriker",
-    "fr": "Joph Seastriker"
+    "fr": "Joph Seastriker",
+    "en": "Joph Seastriker"
   },
   "joyrekkoff": {
-    "de": "Joy Rekkoff",
-    "en": "Joy Rekkoff",
-    "es": "Joy Rekkoff",
-    "fr": "Joy Rekkoff"
+    "fr": "Joy Rekkoff",
+    "en": "Joy Rekkoff"
   },
   "juke": {
-    "de": "Finte",
-    "en": "Juke",
-    "es": "Finta",
-    "fr": "Feinte"
+    "fr": "Feinte",
+    "en": "Juke"
   },
   "jumpmaster5000": {
-    "en": "JumpMaster 5000",
-    "fr": "JumpMaster 5000"
+    "fr": "JumpMaster 5000",
+    "en": "JumpMaster 5000"
   },
   "jynerso": {
-    "de": "Jyn Erso",
-    "en": "Jyn Erso",
-    "es": "Jyn Erso",
-    "fr": "Jyn Erso"
+    "fr": "Jyn Erso",
+    "en": "Jyn Erso"
   },
   "k2b4": {
-    "de": "K2-B4",
-    "en": "K2-B4",
-    "es": "K2-B4",
-    "fr": "K2-B4"
+    "fr": "K2-B4",
+    "en": "K2-B4"
   },
   "k2so": {
-    "de": "K-2SO",
-    "en": "K-2SO",
-    "es": "K-2SO",
-    "fr": "K-2SO"
+    "fr": "K-2SO",
+    "en": "K-2SO"
   },
   "kaatoleeachos": {
-    "de": "Kaa'to Leeachos",
-    "en": "Kaa'to Leeachos",
-    "es": "Kaa'to Leeachos",
-    "fr": "Kaa'to Leeachos"
+    "fr": "Kaa'to Leeachos",
+    "en": "Kaa'to Leeachos"
   },
   "kadsolus": {
-    "de": "Kad Solus",
-    "en": "Kad Solus",
-    "es": "Kad Solus",
-    "fr": "Kad Solus"
-  },
-  "kalani": {
-    "de": "Kalani",
-    "en": "Kalani",
-    "es": "Kalani",
-    "fr": "Kalani"
+    "fr": "Kad Solus",
+    "en": "Kad Solus"
   },
   "kananjarrus": {
-    "de": "Kanan Jarrus",
-    "en": "Kanan Jarrus",
-    "es": "Kanan Jarrus",
-    "fr": "Kanan Jarrus"
+    "fr": "Kanan Jarrus",
+    "en": "Kanan Jarrus"
   },
   "karekun": {
-    "de": "Kare Kun",
-    "en": "Kare Kun",
-    "es": "Kare Kun",
-    "fr": "Kare Kun"
+    "fr": "Kare Kun",
+    "en": "Kare Kun"
   },
   "kashyyykdefender": {
-    "de": "Verteidiger von Kashyyyk",
-    "en": "Kashyyyk Defender",
-    "es": "Defensor de Kashyyyk",
-    "fr": "Défenseur de Kashyyyk"
+    "fr": "Défenseur de Kashyyyk",
+    "en": "Kashyyyk Defender"
   },
   "kathscarlet": {
-    "de": "Kath Scarlet",
-    "en": "Kath Scarlet",
-    "es": "Kath Scarlet",
-    "fr": "Kath Scarlet"
+    "fr": "Kath Scarlet",
+    "en": "Kath Scarlet"
   },
   "kavil": {
-    "de": "Kavil",
-    "en": "Kavil",
-    "es": "Kavil",
-    "fr": "Kavil"
+    "fr": "Kavil",
+    "en": "Kavil"
   },
   "kaydelconnix": {
-    "de": "Kaydel Connix",
-    "en": "Kaydel Connix",
-    "es": "Kaydel Connix",
-    "fr": "Kaydel Connix"
+    "fr": "Kaydel Connix",
+    "en": "Kaydel Connix"
   },
   "kazsfireball": {
-    "de": "Kaz' Fireball",
-    "en": "Kaz's Fireball",
-    "es": "Bola de Fuego de Kaz",
-    "fr": "Fireball de Kaz"
+    "fr": "Fireball de Kaz",
+    "en": "Kaz's Fireball"
   },
   "kazudaxiono": {
-    "de": "Kazuda Xiono",
-    "en": "Kazuda Xiono",
-    "es": "Kazuda Xiono",
-    "fr": "Kazuda Xiono"
+    "fr": "Kazuda Xiono",
+    "en": "Kazuda Xiono"
   },
   "ketsuonyo": {
-    "de": "Ketsu Onyo",
-    "en": "Ketsu Onyo",
-    "es": "Ketsu Onyo",
-    "fr": "Ketsu Onyo"
+    "fr": "Ketsu Onyo",
+    "en": "Ketsu Onyo"
   },
   "kickback": {
-    "de": "\"Kickback\"",
-    "en": "\"Kickback\"",
-    "es": "\"Kickback\"",
-    "fr": "\"Kickback\""
+    "fr": "\"Kickback\"",
+    "en": "\"Kickback\""
   },
   "kihraxzfighter": {
-    "en": "Kihraxz Fighter",
-    "fr": "Chasseur Kihraxz"
-  },
-  "kitfisto": {
-    "de": "Kit Fisto",
-    "en": "Kit Fisto",
-    "es": "Kit Fisto",
-    "fr": "Kit Fisto"
-  },
-  "klick": {
-    "de": "\"Klick\"",
-    "en": "\"Klick\"",
-    "es": "\"Klick\"",
-    "fr": "\"Klick\""
+    "fr": "Chasseur Kihraxz",
+    "en": "Kihraxz Fighter"
   },
   "knavesquadronescort": {
-    "de": "Eskorte der Schurken-Staffel",
-    "en": "Knave Squadron Escort",
-    "es": "Escolta del Escuadrón Canalla",
-    "fr": "Escorte de l'Escadron Knave"
+    "fr": "Escorte de l'Escadron Knave",
+    "en": "Knave Squadron Escort"
   },
   "korrsella": {
-    "de": "Korr Sella",
-    "en": "Korr Sella",
-    "es": "Korr Sella",
-    "fr": "Korr Sella"
+    "fr": "Korr Sella",
+    "en": "Korr Sella"
   },
   "koshkafrost": {
-    "de": "Koshka Frost",
-    "en": "Koshka Frost",
-    "es": "Koshka Frost",
-    "fr": "Koshka Frost"
+    "fr": "Koshka Frost",
+    "en": "Koshka Frost"
   },
   "kraken": {
-    "de": "Kraken",
-    "en": "Kraken",
-    "es": "Kraken",
-    "fr": "Kraken"
+    "fr": "Kraken",
+    "en": "Kraken"
   },
   "krassistrelix": {
-    "de": "Krassis Trelix",
-    "en": "Krassis Trelix",
-    "es": "Krassis Trelix",
-    "fr": "Krassis Trelix"
+    "fr": "Krassis Trelix",
+    "en": "Krassis Trelix"
   },
   "kullbeesperado": {
-    "de": "Kullbee Sperado",
-    "en": "Kullbee Sperado",
-    "es": "Kullbee Sperado",
-    "fr": "Kullbee Sperado"
+    "fr": "Kullbee Sperado",
+    "en": "Kullbee Sperado"
   },
   "kylekatarn": {
-    "de": "Kyle Katarn",
-    "en": "Kyle Katarn",
-    "es": "Kyle Katarn",
-    "fr": "Kyle Katarn"
+    "fr": "Kyle Katarn",
+    "en": "Kyle Katarn"
   },
   "kyloren": {
-    "de": "Kylo Ren",
-    "en": "Kylo Ren",
-    "es": "Kylo Ren",
-    "fr": "Kylo Ren"
+    "fr": "Kylo Ren",
+    "en": "Kylo Ren"
   },
   "l337": {
-    "de": "Programmierung von L3-37",
-    "en": "L3-37's Programming",
-    "es": "Programación de L3-37",
-    "fr": "Programmation par L3-37"
+    "fr": "L3-37",
+    "en": "L3-37"
   },
   "l337-escapecraft": {
-    "de": "L3-37",
-    "en": "L3-37",
-    "es": "L3-37",
-    "fr": "L3-37"
+    "fr": "L3-37",
+    "en": "L3-37"
   },
   "laetinashera": {
-    "de": "Laetin A'shera",
-    "en": "Laetin A'shera",
-    "es": "Laetin A'shera",
-    "fr": "Laetin A'shera"
+    "fr": "Laetin A'shera",
+    "en": "Laetin A'shera"
   },
   "lambdaclasst4ashuttle": {
-    "en": "Lambda-class T-4a Shuttle",
-    "fr": "Navette T-4a de Classe Lambda"
+    "fr": "Navette T-4a de Classe Lambda",
+    "en": "Lambda-class T-4a Shuttle"
   },
   "lancerclasspursuitcraft": {
-    "en": "Lancer-class Pursuit Craft",
-    "fr": "Appareil de Poursuite de Classe Lancer"
+    "fr": "Appareil de Poursuite de Classe Lancer",
+    "en": "Lancer-class Pursuit Craft"
   },
   "landingstruts": {
-    "de": "Landungskrallen (geöffnet)",
-    "en": "Landing Struts (Open)",
-    "es": "Puntales de aterrizaje (posición abierta)",
-    "fr": "Supports d'Atterrissage (Dépliés)"
+    "fr": "Supports d'Atterrissage",
+    "en": "Landing Struts"
   },
   "landocalrissian": {
-    "de": "Lando Calrissian",
-    "en": "Lando Calrissian",
-    "es": "Lando Calrissian",
-    "fr": "Lando Calrissian"
+    "fr": "Lando Calrissian",
+    "en": "Lando Calrissian"
   },
   "landocalrissian-crew": {
-    "de": "Lando Calrissian",
-    "en": "Lando Calrissian",
-    "es": "Lando Calrissian",
-    "fr": "Lando Calrissian"
+    "fr": "Lando Calrissian",
+    "en": "Lando Calrissian"
   },
   "landocalrissian-escapecraft": {
-    "de": "Lando Calrissian",
-    "en": "Lando Calrissian",
-    "es": "Lando Calrissian",
-    "fr": "Lando Calrissian"
+    "fr": "Lando Calrissian",
+    "en": "Lando Calrissian"
   },
   "landocalrissian-modifiedyt1300lightfreighter": {
-    "de": "Lando Calrissian",
-    "en": "Lando Calrissian",
-    "es": "Lando Calrissian",
-    "fr": "Lando Calrissian"
+    "fr": "Lando Calrissian",
+    "en": "Lando Calrissian"
   },
   "landosmillenniumfalcon": {
-    "de": "Landos Millennium Falke",
-    "en": "Lando's Millennium Falcon",
-    "es": "Halcón Milenario de Lando",
-    "fr": "Faucon Millenium de Lando"
+    "fr": "Faucon Millenium de Lando",
+    "en": "Lando's Millennium Falcon"
   },
   "larmadacy": {
-    "de": "Larma D'Acy",
-    "en": "Larma D'Acy",
-    "es": "Larma D'Acy",
-    "fr": "Larma D'Acy"
+    "fr": "Larma D'Acy",
+    "en": "Larma D'Acy"
   },
   "lattsrazzi": {
-    "de": "Latts Razzi",
-    "en": "Latts Razzi",
-    "es": "Latts Razzi",
-    "fr": "Latts Razzi"
+    "fr": "Latts Razzi",
+    "en": "Latts Razzi"
   },
   "leebo": {
-    "de": "\"Leebo\"",
-    "en": "\"Leebo\"",
-    "es": "\"Leebo\"",
-    "fr": "\"Leebo\""
+    "fr": "\"Leebo\"",
+    "en": "\"Leebo\""
   },
   "leevantenza": {
-    "de": "Leevan Tenza",
-    "en": "Leevan Tenza",
-    "es": "Leevan Tenza",
-    "fr": "Leevan Tenza"
+    "fr": "Leevan Tenza",
+    "en": "Leevan Tenza"
   },
   "leiaorgana": {
-    "de": "Leia Organa",
-    "en": "Leia Organa",
-    "es": "Leia Organa",
-    "fr": "Leia Organa"
+    "fr": "Leia Organa",
+    "en": "Leia Organa"
   },
   "leiaorgana-resistance": {
-    "de": "Leia Organa",
-    "en": "Leia Organa",
-    "es": "Leia Organa",
-    "fr": "Leia Organa"
+    "fr": "Leia Organa",
+    "en": "Leia Organa"
   },
   "liberator": {
-    "de": "Liberator",
-    "en": "Liberator",
-    "es": "Libertador",
-    "fr": "Liberator"
+    "fr": "Liberator",
+    "en": "Liberator"
   },
   "lieutenantbastian": {
-    "de": "Lieutenant Bastian",
-    "en": "Lieutenant Bastian",
-    "es": "Teniente Bastian",
-    "fr": "Lieutenant Bastian"
+    "fr": "Lieutenant Bastian",
+    "en": "Lieutenant Bastian"
   },
   "lieutenantblount": {
-    "de": "Lieutenant Blount",
-    "en": "Lieutenant Blount",
-    "es": "Teniente Blount",
-    "fr": "Lieutenant Blount"
+    "fr": "Lieutenant Blount",
+    "en": "Lieutenant Blount"
   },
   "lieutenantdormitz": {
-    "de": "Lieutenant Dormitz",
-    "en": "Lieutenant Dormitz",
-    "es": "Teniente Dormitz",
-    "fr": "Lieutenant Dormitz"
+    "fr": "Lieutenant Dormitz",
+    "en": "Lieutenant Dormitz"
   },
   "lieutenantkarsabi": {
-    "de": "Lieutenant Karsabi",
-    "en": "Lieutenant Karsabi",
-    "es": "Teniente Karsabi",
-    "fr": "Lieutenant Karsabi"
+    "fr": "Lieutenant Karsabi ",
+    "en": "Lieutenant Karsabi "
   },
   "lieutenantkestal": {
-    "de": "Lieutenant Kestal",
-    "en": "Lieutenant Kestal",
-    "es": "Teniente Kestal",
-    "fr": "Lieutenant Kestal"
+    "fr": "Lieutenant Kestal",
+    "en": "Lieutenant Kestal"
   },
   "lieutenantlehuse": {
-    "de": "Lieutenant LeHuse",
-    "en": "Lieutenant LeHuse",
-    "es": "Teniente LeHuse",
-    "fr": "Lieutenant LeHuse"
+    "fr": "Lieutenant LeHuse",
+    "en": "Lieutenant LeHuse"
   },
   "lieutenantrivas": {
-    "de": "Lieutenant Rivas",
-    "en": "Lieutenant Rivas",
-    "es": "Teniente Rivas",
-    "fr": "Lieutenant Rivas"
+    "fr": "Lieutenant Rivas",
+    "en": "Lieutenant Rivas"
   },
   "lieutenantsai": {
-    "de": "Lieutenant Sai",
-    "en": "Lieutenant Sai",
-    "es": "Teniente Sai",
-    "fr": "Lieutenant Sai"
+    "fr": "Lieutenant Sai",
+    "en": "Lieutenant Sai"
   },
   "lieutenanttavson": {
-    "de": "Lieutenant Tavson",
-    "en": "Lieutenant Tavson",
-    "es": "Teniente Tavson",
-    "fr": "Lieutenant Tavson"
+    "fr": "Lieutenant Tavson",
+    "en": "Lieutenant Tavson"
   },
   "listeningdevice": {
-    "en": "Listening Device",
-    "fr": "Dispositif d'Écoute"
+    "fr": "Dispositif d'Écoute",
+    "en": "Listening Device"
   },
   "lock": {
-    "en": "Lock",
-    "fr": "Verrouillage"
+    "fr": "Verrouillage",
+    "en": "Lock"
   },
   "logisticsdivisionpilot": {
-    "de": "Pilot der Logistikdivision",
-    "en": "Logistics Division Pilot",
-    "es": "Piloto de la división de logística",
-    "fr": "Pilote de la Division Logistique"
+    "fr": "Pilote de la Division Logistique",
+    "en": "Logistics Division Pilot"
   },
   "lokrevenant": {
-    "de": "Lok-Pirat",
-    "en": "Lok Revenant",
-    "es": "Aparecido de Lok",
-    "fr": "Revenant de Lok"
+    "fr": "Revenant de Lok",
+    "en": "Lok Revenant"
   },
   "lonewolf": {
-    "de": "Einsamer Wolf",
-    "en": "Lone Wolf",
-    "es": "Lobo solitario",
-    "fr": "Loup Solitaire"
+    "fr": "Loup Solitaire",
+    "en": "Lone Wolf"
   },
   "longshot": {
-    "de": "\"Longshot\"",
-    "en": "\"Longshot\"",
-    "es": "\"Tiro Aventurado\"",
-    "fr": "\"Longshot\""
+    "fr": "\"Longshot\"",
+    "en": "\"Longshot\""
   },
   "lothalrebel": {
-    "de": "Rebell von Lothal",
-    "en": "Lothal Rebel",
-    "es": "Rebelde de Lothal",
-    "fr": "Rebelle de Lothal"
+    "fr": "Rebelle de Lothal",
+    "en": "Lothal Rebel"
   },
   "lowhhrick": {
-    "de": "Lowhhrick",
-    "en": "Lowhhrick",
-    "es": "Lowhhrick",
-    "fr": "Lowhhrick"
-  },
-  "loyalistvolunteer": {
-    "de": "Freiwilliger der Loyalisten",
-    "en": "Loyalist Volunteer",
-    "es": "Voluntario lealista",
-    "fr": "Volontaire Loyaliste"
+    "fr": "Lowhhrick",
+    "en": "Lowhhrick"
   },
   "lukeskywalker": {
-    "de": "Luke Skywalker",
-    "en": "Luke Skywalker",
-    "es": "Luke Skywalker",
-    "fr": "Luke Skywalker"
+    "fr": "Luke Skywalker",
+    "en": "Luke Skywalker"
   },
   "lulolampar": {
-    "de": "L'ulo L'ampar",
-    "en": "L'ulo L'ampar",
-    "es": "L'ulo L'ampar",
-    "fr": "L'ulo L'ampar"
+    "fr": "L'ulo L'ampar",
+    "en": "L'ulo L'ampar"
   },
   "luminaraunduli": {
-    "de": "Luminara Unduli",
-    "en": "Luminara Unduli",
-    "es": "Luminara Unduli",
-    "fr": "Luminara Unduli"
+    "fr": "Luminara Unduli",
+    "en": "Luminara Unduli"
   },
   "luminous": {
-    "de": "Luminous",
-    "en": "Luminous",
-    "es": "Luminoso",
-    "fr": "Luminous"
-  },
-  "lyttandree": {
-    "de": "Lyttan Dree",
-    "en": "Lyttan Dree",
-    "es": "Lyttan Dree",
-    "fr": "Lyttan Dree"
+    "fr": "Luminous",
+    "en": "Luminous"
   },
   "m12lkimogilafighter": {
-    "en": "M12-L Kimogila Fighter",
-    "fr": "Chasseur M12-L Kimogila"
+    "fr": "Chasseur M12-L Kimogila",
+    "en": "M12-L Kimogila Fighter"
   },
   "m3ainterceptor": {
-    "en": "M3-A Interceptor",
-    "fr": "Intercepteur M3-A"
+    "fr": "Intercepteur M3-A",
+    "en": "M3-A Interceptor"
   },
   "m9g8": {
-    "de": "M9-G8",
-    "en": "M9-G8",
-    "es": "M9-G8",
-    "fr": "M9-G8"
+    "fr": "M9-G8",
+    "en": "M9-G8"
   },
   "maarekstele": {
-    "de": "Maarek Stele",
-    "en": "Maarek Stele",
-    "es": "Maarek Stele",
-    "fr": "Maarek Stele"
+    "fr": "Maarek Stele",
+    "en": "Maarek Stele"
   },
   "macewindu": {
-    "de": "Mace Windu",
-    "en": "Mace Windu",
-    "es": "Mace Windu",
-    "fr": "Mace Windu"
+    "fr": "Mace Windu",
+    "en": "Mace Windu"
   },
   "magpulsewarheads": {
-    "de": "Magnetimpuls-Sprengköpfe",
-    "en": "Mag-Pulse Warheads",
-    "es": "Ojivas de pulso magnético",
-    "fr": "Ogives à Impulsion Magnétique"
+    "fr": "Ogives à Impulsion Magnétique",
+    "en": "Mag-Pulse Warheads"
   },
   "magvayarro": {
-    "de": "Magva Yarro",
-    "en": "Magva Yarro",
-    "es": "Magva Yarro",
-    "fr": "Magva Yarro"
+    "fr": "Magva Yarro",
+    "en": "Magva Yarro"
   },
   "majorrhymer": {
-    "de": "Major Rhymer",
-    "en": "Major Rhymer",
-    "es": "Mayor Rhymer",
-    "fr": "Major Rhymer"
+    "fr": "Major Rhymer",
+    "en": "Major Rhymer"
   },
   "majorstridan": {
-    "de": "Major Stridan",
-    "en": "Major Stridan",
-    "es": "Mayor Stridan",
-    "fr": "Major Stridan"
+    "fr": "Major Stridan",
+    "en": "Major Stridan"
   },
   "majorvermeil": {
-    "de": "Major Vermeil",
-    "en": "Major Vermeil",
-    "es": "Major Vermeil",
-    "fr": "Major Vermeil"
+    "fr": "Major Vermeil",
+    "en": "Major Vermeil"
   },
   "majorvonreg": {
-    "de": "Major Vonreg",
-    "en": "Major Vonreg",
-    "es": "Major Vonreg",
-    "fr": "Major Vonreg"
+    "fr": "Major Vonreg",
+    "en": "Major Vonreg"
   },
   "majorvynder": {
-    "de": "Major Vynder",
-    "en": "Major Vynder",
-    "es": "Mayor Vynder",
-    "fr": "Major Vynder"
+    "fr": "Major Vynder",
+    "en": "Major Vynder"
   },
   "manaroo": {
-    "de": "Manaroo",
-    "en": "Manaroo",
-    "es": "Manaroo",
-    "fr": "Manaroo"
-  },
-  "maneuverassistmgk300": {
-    "de": "MGK-300-Manöverassistent",
-    "en": "Maneuver-Assist MGK-300",
-    "es": "MGK-300 de ayuda de vuelo",
-    "fr": "Aide à la Manœuvre MGK-300"
+    "fr": "Manaroo",
+    "en": "Manaroo"
   },
   "marauder": {
-    "de": "Marodeur",
-    "en": "Marauder",
-    "es": "Merodeador",
-    "fr": "Marauder"
-  },
-  "margsablclosure": {
-    "de": "Marg-Sabl-Einkesselung",
-    "en": "Marg Sabl Closure",
-    "es": "Envoltura Marg Sabl",
-    "fr": "Encerclement Marg Sabl"
+    "fr": "Marauder",
+    "en": "Marauder"
   },
   "marksmanship": {
-    "de": "Treffsicherheit",
-    "en": "Marksmanship",
-    "es": "Puntería",
-    "fr": "Adresse au Tir"
+    "fr": "Adresse au Tir",
+    "en": "Marksmanship"
   },
   "matchstick": {
-    "de": "\"Matchstick\"",
-    "en": "\"Matchstick\"",
-    "es": "\"Matchstick\"",
-    "fr": "\"Matchstick\""
+    "fr": "\"Matchstick\"",
+    "en": "\"Matchstick\""
   },
   "maul": {
-    "de": "Maul",
-    "en": "Maul",
-    "es": "Maul",
-    "fr": "Maul"
+    "fr": "Maul",
+    "en": "Maul"
   },
   "maulermithel": {
-    "de": "\"Mauler\" Mithel",
-    "en": "\"Mauler\" Mithel",
-    "es": "\"Mutilador\" Mithel",
-    "fr": "\"Mauler\" Mithel"
+    "fr": "\"Mauler\" Mithel",
+    "en": "\"Mauler\" Mithel"
   },
   "merchantone": {
-    "de": "Händler Eins",
-    "en": "Merchant One",
-    "es": "Mercader Uno",
-    "fr": "Merchant One"
-  },
-  "merlcobben": {
-    "de": "Merl Cobben",
-    "en": "Merl Cobben",
-    "es": "Merl Cobben",
-    "fr": "Merl Cobben"
+    "fr": "Merchant One",
+    "en": "Merchant One"
   },
   "mg100starfortress": {
-    "en": "MG-100 StarFortress",
-    "fr": "Forteresse Stellaire MG-100"
+    "fr": "Forteresse Stellaire MG-100",
+    "en": "MG-100 StarFortress"
   },
   "midnight": {
-    "de": "\"Midnight\"",
-    "en": "\"Midnight\"",
-    "es": "\"Medianoche\"",
-    "fr": "\"Midnight\""
+    "fr": "\"Midnight\"",
+    "en": "\"Midnight\""
   },
   "millenniumfalcon": {
-    "de": "Millennium Falke",
-    "en": "Millennium Falcon",
-    "es": "Halcón Milenario",
-    "fr": "Faucon Millenium"
+    "fr": "Faucon Millenium",
+    "en": "Millennium Falcon"
   },
   "miningguildsentry": {
-    "de": "Wachposten der Minengilde",
-    "en": "Mining Guild Sentry",
-    "es": "Centinela del Gremio Minero",
-    "fr": "Guetteur de la Guilde Minière"
+    "fr": "Guetteur de la Guilde Minière",
+    "en": "Mining Guild Sentry"
   },
   "miningguildsurveyor": {
-    "de": "Rohstoffsucher der Minengilde",
-    "en": "Mining Guild Surveyor",
-    "es": "Inspector del Gremio Minero",
-    "fr": "Prospecteur de la Guilde Minière"
+    "fr": "Prospecteur de la Guilde Minière",
+    "en": "Mining Guild Surveyor"
   },
   "ministertua": {
-    "de": "Ministerin Tua",
-    "en": "Minister Tua",
-    "es": "Ministra Tua",
-    "fr": "Ministre Tua"
+    "fr": "Ministre Tua",
+    "en": "Minister Tua"
   },
   "mirandadoni": {
-    "de": "Miranda Doni",
-    "en": "Miranda Doni",
-    "es": "Miranda Doni",
-    "fr": "Miranda Doni"
+    "fr": "Miranda Doni",
+    "en": "Miranda Doni"
   },
   "misthunter": {
-    "de": "Nebeljäger",
-    "en": "Mist Hunter",
-    "es": "Cazador de la Niebla",
-    "fr": "Mist Hunter"
+    "fr": "Mist Hunter",
+    "en": "Mist Hunter"
   },
   "modifiedtielnfighter": {
-    "en": "Modified TIE/ln Fighter",
-    "fr": "Chasseur TIE/ln modifié"
+    "fr": "Chasseur TIE/ln modifié",
+    "en": "Modified TIE/ln Fighter"
   },
   "modifiedyt1300lightfreighter": {
-    "en": "Modified YT-1300 Light Freighter",
-    "fr": "Cargo léger YT-1300 modifié"
+    "fr": "Cargo léger YT-1300 modifié",
+    "en": "Modified YT-1300 Light Freighter"
   },
   "moffjerjerrod": {
-    "de": "Moff Jerjerrod",
-    "en": "Moff Jerjerrod",
-    "es": "Moff Jerjerrod",
-    "fr": "Moff Jerjerrod"
+    "fr": "Moff Jerjerrod",
+    "en": "Moff Jerjerrod"
   },
   "moldycrow": {
-    "de": "Moldy Crow",
-    "en": "Moldy Crow",
-    "es": "Cuervo Oxidado",
-    "fr": "Moldy Crow"
+    "fr": "Moldy Crow",
+    "en": "Moldy Crow"
   },
   "moraloeval": {
-    "de": "Moralo Eval",
-    "en": "Moralo Eval",
-    "es": "Moralo Eval",
-    "fr": "Moralo Eval"
+    "fr": "Moralo Eval",
+    "en": "Moralo Eval"
   },
   "mornakee": {
-    "de": "Morna Kee",
-    "en": "Morna Kee",
-    "es": "Morna Kee",
-    "fr": "Morna Kee"
+    "fr": "Morna Kee",
+    "en": "Morna Kee"
   },
   "multimissilepods": {
-    "de": "Mehrfachraketenwerfer",
-    "en": "Multi-Missile Pods",
-    "es": "Cápsulas de misiles múltiples",
-    "fr": "Nacelles Multi-Missile"
+    "fr": "Multi-Missile Pods",
+    "en": "Multi-Missile Pods"
   },
   "munitionsfailsafe": {
-    "de": "Ausfallsichere Munition",
-    "en": "Munitions Failsafe",
-    "es": "Munición a prueba de fallos",
-    "fr": "Munitions à Sûreté Intégrée"
+    "fr": "Munitions à Sûreté Intégrée",
+    "en": "Munitions Failsafe"
   },
   "muse": {
-    "de": "\"Muse\"",
-    "en": "\"Muse\"",
-    "es": "\"Musa\"",
-    "fr": "\"Muse\""
+    "fr": "\"Muse\"",
+    "en": "\"Muse\""
   },
   "naboohandmaiden": {
-    "de": "Zofe von Naboo",
-    "en": "Naboo Handmaiden",
-    "es": "Doncella de Naboo",
-    "fr": "Servante de Naboo"
+    "fr": "Servante de Naboo",
+    "en": "Naboo Handmaiden"
   },
   "nabooroyaln1starfighter": {
-    "en": "Naboo Royal N-1 Starfighter",
-    "fr": "Chasseur Royal Naboo N-1"
+    "fr": "Chasseur Royal Naboo N-1",
+    "en": "Naboo Royal N-1 Starfighter"
   },
   "nantexclassstarfighter": {
-    "en": "Nantex-class Starfighter",
-    "fr": "Chasseur de Classe Nantex"
+    "fr": "Chasseur de Classe Nantex",
+    "en": "Nantex-class Starfighter"
   },
   "nashtahpup": {
-    "de": "Nashtahwelpe",
-    "en": "Nashtah Pup",
-    "es": "Cachorro de Nashtah",
-    "fr": "Nashtah Pup"
+    "fr": "Nashtah Pup",
+    "en": "Nashtah Pup"
   },
   "ndrusuhlak": {
-    "de": "N'dru Suhlak",
-    "en": "N'dru Suhlak",
-    "es": "N'dru Suhlak",
-    "fr": "N'dru Suhlak"
+    "fr": "N'dru Suhlak",
+    "en": "N'dru Suhlak"
   },
   "niennunb": {
-    "de": "Nien Nunb",
-    "en": "Nien Nunb",
-    "es": "Nien Nunb",
-    "fr": "Nien Nunb"
+    "fr": "Nien Nunb",
+    "en": "Nien Nunb"
   },
   "nightbeast": {
-    "de": "\"Nachtbestie\"",
-    "en": "\"Night Beast\"",
-    "es": "\"Bestia Nocturna\"",
-    "fr": "\"Night Beast\""
-  },
-  "nimichireen": {
-    "de": "Nimi Chireen",
-    "en": "Nimi Chereen",
-    "es": "Nimi Chereen",
-    "fr": "Nimi Chereen"
+    "fr": "\"Night Beast\"",
+    "en": "\"Night Beast\""
   },
   "nodinchavdri": {
-    "de": "Nodin Chavdri",
-    "en": "Nodin Chavdri",
-    "es": "Nodin Chavdri",
-    "fr": "Nodin Chavdri"
+    "fr": "Nodin Chavdri",
+    "en": "Nodin Chavdri"
   },
   "nomlumb": {
-    "de": "Nom Lumb",
-    "en": "Nom Lumb",
-    "es": "Nom Lumb",
-    "fr": "Nom Lumb"
+    "fr": "Nom Lumb",
+    "en": "Nom Lumb"
   },
   "norrawexley": {
-    "de": "Norra Wexley",
-    "en": "Norra Wexley",
-    "es": "Norra Wexley",
-    "fr": "Norra Wexley"
+    "fr": "Norra Wexley",
+    "en": "Norra Wexley"
   },
   "norrawexley-btla4ywing": {
-    "de": "Norra Wexley",
-    "en": "Norra Wexley",
-    "es": "Norra Wexley",
-    "fr": "Norra Wexley"
+    "fr": "Norra Wexley",
+    "en": "Norra Wexley"
   },
   "novicetechnician": {
-    "de": "Unerfahrener Techniker",
-    "en": "Novice Technician",
-    "es": "Técnico novato",
-    "fr": "Apprenti Technicien"
+    "fr": "Apprenti Technicien",
+    "en": "Novice Technician"
   },
   "null": {
-    "de": "\"Null\"",
-    "en": "\"Null\"",
-    "es": "\"Nulo\"",
-    "fr": "\"Null\""
+    "fr": "\"Null\"",
+    "en": "\"Null\""
   },
   "nusquadronpilot": {
-    "de": "Pilot der Nu-Staffel",
-    "en": "Nu Squadron Pilot",
-    "es": "Piloto del Escuadrón Nu",
-    "fr": "Pilote de l'Escadron Nu"
+    "fr": "Pilote de l'Escadron Nu",
+    "en": "Nu Squadron Pilot"
   },
   "obiwankenobi": {
-    "de": "Obi-Wan Kenobi",
-    "en": "Obi-Wan Kenobi",
-    "es": "Obi-Wan Kenobi",
-    "fr": "Obi-Wan Kenobi"
-  },
-  "obiwankenobi-eta2actis": {
-    "de": "Obi-Wan Kenobi",
-    "en": "Obi-Wan Kenobi",
-    "es": "Obi-Wan Kenobi",
-    "fr": "Obi-Wan Kenobi"
+    "fr": "Obi-Wan Kenobi",
+    "en": "Obi-Wan Kenobi"
   },
   "obsidiansquadronpilot": {
-    "de": "Pilot der Obsidian-Staffel",
-    "en": "Obsidian Squadron Pilot",
-    "es": "Piloto del Escuadrón Obsidiana",
-    "fr": "Pilote de l'Escadron Obsidian"
+    "fr": "Pilote de l'Escadron Obsidian",
+    "en": "Obsidian Squadron Pilot"
   },
   "oddball": {
-    "de": "\"Odd Ball\"",
-    "en": "\"Odd Ball\"",
-    "es": "\"Odd Ball\"",
-    "fr": "\"Odd Ball\""
+    "fr": "\"Odd Ball\"",
+    "en": "\"Odd Ball\""
   },
   "oddball-arc170starfighter": {
-    "de": "\"Odd Ball\"",
-    "en": "\"Odd Ball\"",
-    "es": "\"Odd Ball\"",
-    "fr": "\"Odd Ball\""
+    "fr": "\"Odd Ball\"",
+    "en": "\"Odd Ball\""
   },
   "oddball-btlbywing": {
-    "de": "\"Oddball\"",
-    "en": "\"Odd Ball\"",
-    "es": "\"Oddball\"",
-    "fr": "\"Oddball\""
-  },
-  "oddball-nimbusclassvwing": {
-    "de": "\"Odd Ball\"",
-    "en": "\"Odd Ball\"",
-    "es": "\"Odd Ball\"",
-    "fr": "\"Odd Ball\""
+    "fr": "\"Odd Ball\"",
+    "en": "\"Odd Ball\""
   },
   "oldteroch": {
-    "de": "Der alte Teroch",
-    "en": "Old Teroch",
-    "es": "Viejo Teroch",
-    "fr": "Vieux Teroch"
+    "fr": "Vieux Teroch",
+    "en": "Old Teroch"
   },
   "omegasquadronace": {
-    "de": "Fliegerassder Omega-Staffel",
-    "en": "Omega Squadron Ace",
-    "es": "As del Escuadrón Omega",
-    "fr": "As de l'Escadron Omega"
+    "fr": "As de l'Escadron Omega",
+    "en": "Omega Squadron Ace"
   },
   "omegasquadronexpert": {
-    "de": "Elitepilot der Omega-Staffel",
-    "en": "Omega Squadron Expert",
-    "es": "Experto del Escuadrón Omega",
-    "fr": "Expert de l'Escadron Omega"
+    "fr": "Expert de l'Escadron Omega",
+    "en": "Omega Squadron Expert"
   },
   "omicrongrouppilot": {
-    "de": "Pilot der Omicron-Gruppe",
-    "en": "Omicron Group Pilot",
-    "es": "Piloto del grupo Ómicron",
-    "fr": "Pilote du Groupe Omicron"
-  },
-  "onderonoppressor": {
-    "de": "Unterdrücker von Onderon",
-    "en": "Onderon Oppressor",
-    "es": "Opresor de Onderon",
-    "fr": "Oppresseur d'Onderon"
+    "fr": "Pilote du Groupe Omicron",
+    "en": "Omicron Group Pilot"
   },
   "onyxsquadronace": {
-    "de": "Fliegerass der Onyx-Staffel",
-    "en": "Onyx Squadron Ace",
-    "es": "As del Escuadrón Ónice",
-    "fr": "As de l'Escadron Onyx"
+    "fr": "As de l'Escadron Onyx",
+    "en": "Onyx Squadron Ace"
   },
   "onyxsquadronscout": {
-    "de": "Aufklärer der Onyx-Staffel",
-    "en": "Onyx Squadron Scout",
-    "es": "Explorador del Escuadrón Ónice",
-    "fr": "Éclaireur de l'Escadron Onyx"
-  },
-  "onyxsquadronsentry": {
-    "de": "Wache der Onyx-Staffel",
-    "en": "Onyx Squadron Sentry",
-    "es": "Centinela del Escuadrón Ónice",
-    "fr": "Sentinelle de l'Escadron Onyx"
+    "fr": "Éclaireur de l'Escadron Onyx",
+    "en": "Onyx Squadron Scout"
   },
   "optimizedpowercore": {
-    "de": "Optimierter Energiekern",
-    "en": "Optimized Power Core",
-    "es": "Núcleo de energía optimizado",
-    "fr": "Noyau d'Énergie Optimisé"
+    "fr": "Noyau d'Énergie Optimisé",
+    "en": "Optimized Power Core"
   },
   "optimizedprototype": {
-    "en": "Optimized Prototype",
-    "fr": "Prototype Optimisé"
+    "fr": "Prototype Optimisé",
+    "en": "Optimized Prototype"
   },
   "ordnanceteam": {
-    "de": "Munitionsteam",
-    "en": "Ordnance Team",
-    "es": "Personal de municiones",
-    "fr": "Équipe d'Artificiers"
+    "fr": "Équipe d'Artificiers",
+    "en": "Ordnance Team"
   },
   "ordnancetubes": {
-    "de": "Abschussrohre",
-    "en": "Ordnance Tubes",
-    "es": "Tubos de municiones",
-    "fr": "Tubes d'Artillerie"
+    "fr": "Tubes d'Artillerie",
+    "en": "Ordnance Tubes"
   },
   "os1arsenalloadout": {
-    "de": "Os-1-Waffenarsenal",
-    "en": "Os-1 Arsenal Loadout",
-    "es": "Configuración de arsenal Os-1",
-    "fr": "Arsenal Os-1 Embarqué"
+    "fr": "Arsenal Os-1 Embarqué",
+    "en": "Os-1 Arsenal Loadout"
   },
   "outerrimpioneer": {
-    "de": "Pionier aus dem Outer Rim",
-    "en": "Outer Rim Pioneer",
-    "es": "Pionero del Borde Exterior",
-    "fr": "Colon de la Bordure Extérieure"
+    "fr": "Colon de la Bordure Extérieure",
+    "en": "Outer Rim Pioneer"
   },
   "outerrimsmuggler": {
-    "de": "Schmuggler aus dem",
-    "en": "Outer Rim Smuggler",
-    "es": "Contrabandista del Borde Exterior",
-    "fr": "Contrebandier de la Bordure Extérieure"
+    "fr": "Contrebandier de la Bordure Extérieure",
+    "en": "Outer Rim Smuggler"
   },
   "outmaneuver": {
-    "de": "Ausmanövrieren",
-    "en": "Outmaneuver",
-    "es": "Superioridad táctica",
-    "fr": "Manœuvre Improbable"
+    "fr": "Manœuvre Improbable",
+    "en": "Outmaneuver"
   },
   "outrider": {
-    "de": "Outrider",
-    "en": "Outrider",
-    "es": "Jinete del Espacio",
-    "fr": "Outrider"
-  },
-  "overdrivethruster": {
-    "de": "Übersteuerte Schubdüsen",
-    "en": "Overdrive Thruster",
-    "es": "Propulsor de refuerzo",
-    "fr": "Surcharge des Propulseurs"
+    "fr": "Outrider",
+    "en": "Outrider"
   },
   "overseeryushyn": {
-    "de": "Raffineriebetreiber Yushyn",
-    "en": "Overseer Yushyn",
-    "es": "Supervisor Yushyn",
-    "fr": "Superviseur Yushyn"
+    "fr": "Superviseur Yushyn",
+    "en": "Overseer Yushyn"
   },
   "padmeamidala": {
-    "de": "Padmé Amidala",
-    "en": "Padmé Amidala",
-    "es": "Padmé Amidala",
-    "fr": "Padmé Amidala"
+    "fr": "Padmé Amidala",
+    "en": "Padmé Amidala"
   },
   "paigetico": {
-    "de": "Paige Tico",
-    "en": "Paige Tico",
-    "es": "Paige Tico",
-    "fr": "Paige Tico"
+    "fr": "Paige Tico",
+    "en": "Paige Tico"
   },
   "palobgodalhi": {
-    "de": "Palob Godalhi",
-    "en": "Palob Godalhi",
-    "es": "Palob Godalhi",
-    "fr": "Palob Godalhi"
+    "fr": "Palob Godalhi",
+    "en": "Palob Godalhi"
   },
   "pammichnerrogoode": {
-    "de": "Pammich Nerro Goode",
-    "en": "Pammich Nerro Goode",
-    "es": "Pammich Nerro Goode",
-    "fr": "Pammich Nerro Goode"
+    "fr": "Pammich Nerro Goode",
+    "en": "Pammich Nerro Goode"
   },
   "partisanrenegade": {
-    "de": "Überzeugter Partisan",
-    "en": "Partisan Renegade",
-    "es": "Insurgente de los Partisanos",
-    "fr": "Renégat Partisan"
+    "fr": "Renégat Partisan",
+    "en": "Partisan Renegade"
   },
   "passivesensors": {
-    "de": "Passive Sensoren",
-    "en": "Passive Sensors",
-    "es": "Sensores pasivos",
-    "fr": "Senseurs Passifs"
-  },
-  "patience": {
-    "de": "Geduld",
-    "en": "Patience",
-    "es": "Paciencia",
-    "fr": "Patience"
+    "fr": "Senseurs Passifs",
+    "en": "Passive Sensors"
   },
   "patrolleader": {
-    "de": "Patrouillenführer",
-    "en": "Patrol Leader",
-    "es": "Jefe de Patrulla",
-    "fr": "Chef de Patrouille"
+    "fr": "Chef de Patrouille",
+    "en": "Patrol Leader"
   },
   "patternanalyzer": {
-    "de": "Mustererkennung",
-    "en": "Pattern Analyzer",
-    "es": "Analizador de patrones",
-    "fr": "Analyseur de Modèles"
+    "fr": "Analyseur de Modèles",
+    "en": "Pattern Analyzer"
   },
   "perceptivecopilot": {
-    "de": "Aufmerksamer Co-Pilot",
-    "en": "Perceptive Copilot",
-    "es": "Copiloto perceptivo",
-    "fr": "Copilote Perspicace"
+    "fr": "Copilote Perspicace",
+    "en": "Perceptive Copilot"
   },
   "petranakiarenaace": {
-    "de": "Ass der Petranaki-Arena",
-    "en": "Petranaki Arena Ace",
-    "es": "As del coliseo Petranaki",
-    "fr": "As de l'Arène Petranaki"
+    "fr": "As de l'Arène Petranaki",
+    "en": "Petranaki Arena Ace"
   },
   "pettyofficerthanisson": {
-    "de": "Unteroffizier Thanisson",
-    "en": "Petty Officer Thanisson",
-    "es": "Suboficial Thanisson",
-    "fr": "Sergent Thanisson"
+    "fr": "Sergent Thanisson",
+    "en": "Petty Officer Thanisson"
   },
   "phantom": {
-    "de": "Phantom",
-    "en": "Phantom",
-    "es": "Fantasma",
-    "fr": "Phantom"
-  },
-  "phlacarphoccprototype": {
-    "de": "Prototyp von Phlac-Arphocc",
-    "en": "Phlac-Arphocc Prototype",
-    "es": "Prototipo de Phlac-Arphocc",
-    "fr": "Prototype Phlac-Arphocc"
+    "fr": "Phantom",
+    "en": "Phantom"
   },
   "phoenixsquadronpilot": {
-    "de": "Pilot der Phönix-Staffel",
-    "en": "Phoenix Squadron Pilot",
-    "es": "Piloto del Escuadrón Fénix",
-    "fr": "Pilote de l'Escadron Phœnix"
+    "fr": "Pilote de l'Escadron Phoenix",
+    "en": "Phoenix Squadron Pilot"
   },
   "pivotwing": {
-    "de": "Schwenkflügel (geschlossen)",
-    "en": "Pivot Wing (Closed)",
-    "es": "Ala pivotante (posición cerrada)",
-    "fr": "Aile Pivot (repliée)"
+    "fr": "Aile Pivot",
+    "en": "Pivot Wing"
   },
   "planetarysentinel": {
-    "de": "Planetarer Wachposten",
-    "en": "Planetary Sentinel",
-    "es": "Centinela Planetario",
-    "fr": "Sentinelle Planétaire"
+    "fr": "Sentinelle Planétaire",
+    "en": "Planetary Sentinel"
   },
   "plasmatorpedoes": {
-    "de": "Plasmatorpedos",
-    "en": "Plasma Torpedoes",
-    "es": "Torpedos de plasma",
-    "fr": "Torpilles à Plasma"
+    "fr": "Torpilles à Plasma",
+    "en": "Plasma Torpedoes"
   },
   "plokoon": {
-    "de": "Plo Koon",
-    "en": "Plo Koon",
-    "es": "Plo Koon",
-    "fr": "Plo Koon"
+    "fr": "Plo Koon",
+    "en": "Plo Koon"
   },
   "poedameron": {
-    "de": "Poe Dameron",
-    "en": "Poe Dameron",
-    "es": "Poe Dameron",
-    "fr": "Poe Dameron"
-  },
-  "poedameron-swz68": {
-    "de": "Poe Dameron",
-    "en": "Poe Dameron",
-    "es": "Poe Dameron",
-    "fr": "Poe Dameron"
+    "fr": "Poe Dameron",
+    "en": "Poe Dameron"
   },
   "pointdefensebattery": {
-    "de": "Punktverteidigungs-Batterie",
-    "en": "Point-Defense Battery",
-    "es": "Batería defensiva",
-    "fr": "Point-Defense Battery"
+    "fr": "Batterie Défensive",
+    "en": "Point-Defense Battery"
   },
   "precisehunter": {
-    "de": "Präzisionsjäger",
-    "en": "Precise Hunter",
-    "es": "Cazador preciso",
-    "fr": "Chasseur Méticuleux"
-  },
-  "precisionionengines": {
-    "de": "Präzisions-Ionenantrieb",
-    "en": "Precision Ion Engines",
-    "es": "Motores iónicos de precisión",
-    "fr": "Moteurs Ioniques de Précision"
+    "fr": "Chasseur Méticuleux",
+    "en": "Precise Hunter"
   },
   "precognitivereflexes": {
-    "de": "Hellseherische Reflexe",
-    "en": "Precognitive Reflexes",
-    "es": "Reflejos precognitivos",
-    "fr": "Réflexes Prémonitoires"
+    "fr": "Réflexes Prémonitoires",
+    "en": "Precognitive Reflexes"
   },
   "predator": {
-    "de": "Jagdinstinkt",
-    "en": "Predator",
-    "es": "Depredador",
-    "fr": "Prédateur"
+    "fr": "Prédateur",
+    "en": "Predator"
   },
   "predictiveshot": {
-    "de": "Vorausschauender Schuss",
-    "en": "Predictive Shot",
-    "es": "Tiro predictivo",
-    "fr": "Tir Prophétique"
+    "fr": "Tir Prophétique",
+    "en": "Predictive Shot"
   },
   "primedthrusters": {
-    "de": "Verbesserte Schubdüsen",
-    "en": "Primed Thrusters",
-    "es": "Propulsores sobrealimentados",
-    "fr": "Propulseurs Survitaminés"
+    "fr": "Propulseurs Survitaminés",
+    "en": "Primed Thrusters"
   },
   "princexizor": {
-    "de": "Prinz Xizor",
-    "en": "Prince Xizor",
-    "es": "Príncipe Xizor",
-    "fr": "Prince Xizor"
+    "fr": "Prince Xizor",
+    "en": "Prince Xizor"
   },
   "protonbombs": {
-    "de": "Protonenbomben",
-    "en": "Proton Bombs",
-    "es": "Bombas de protones",
-    "fr": "Bombe à Protons"
+    "fr": "Bombe à Protons",
+    "en": "Proton Bombs"
   },
   "protonrockets": {
-    "de": "Protonenraketen",
-    "en": "Proton Rockets",
-    "es": "Cohetes de protones",
-    "fr": "Roquettes à Protons"
+    "fr": "Roquettes à Protons",
+    "en": "Proton Rockets"
   },
   "protontorpedoes": {
-    "de": "Protonentorpedos",
-    "en": "Proton Torpedoes",
-    "es": "Torpedos de protones",
-    "fr": "Torpilles à Protons"
+    "fr": "Torpilles à Protons",
+    "en": "Proton Torpedoes"
   },
   "proudtradition": {
-    "de": "Falsche Tradition",
-    "en": "False Tradition",
-    "es": "Tradición fraudulenta",
-    "fr": "Tradition Falsifiée"
+    "fr": "Noble Tradition",
+    "en": "Proud Tradition"
   },
   "proximitymines": {
-    "de": "Annäherungsminen",
-    "en": "Proximity Mines",
-    "es": "Minas de proximidad",
-    "fr": "Mine de Proximité"
+    "fr": "Mine de Proximité",
+    "en": "Proximity Mines"
   },
   "punishingone": {
-    "de": "Vollstrecker Eins",
-    "en": "Punishing One",
-    "es": "Castigadora",
-    "fr": "Punishing One"
+    "fr": "Punishing One",
+    "en": "Punishing One"
   },
   "puresabacc": {
-    "de": "\"Voller Sabacc\"",
-    "en": "\"Pure Sabacc\"",
-    "es": "\"Sabacc Puro\"",
-    "fr": "\"Pure Sabacc\""
+    "fr": "\"Pure Sabacc\"",
+    "en": "\"Pure Sabacc\""
   },
   "pz4co": {
-    "de": "PZ-4CO",
-    "en": "PZ-4CO",
-    "es": "PZ-4CO",
-    "fr": "PZ-4CO"
-  },
-  "q7astromech": {
-    "de": "Q7-Astromechdroide",
-    "en": "Q7 Astromech",
-    "es": "Droide astromecánico Q7",
-    "fr": "Astromech Q7"
+    "fr": "PZ-4CO",
+    "en": "PZ-4CO"
   },
   "qira": {
-    "de": "Qi'ra",
-    "en": "Qi'ra",
-    "es": "Qi'ra",
-    "fr": "Qi'ra"
+    "fr": "Qi'ra",
+    "en": "Qi'ra"
   },
   "quadrijettransferspacetug": {
-    "en": "Quadrijet Transfer Spacetug",
-    "fr": "Remorqueur Spatial de Transfert Quadrimoteur"
+    "fr": "Remorqueur Spatial de Transfert Quadrimoteur",
+    "en": "Quadrijet Transfer Spacetug"
   },
   "quantumstorm": {
-    "de": "Quantum Storm",
-    "en": "Quantum Storm",
-    "es": "Tormenta Cuántica",
-    "fr": "Quantum Storm"
+    "fr": "Quantum Storm",
+    "en": "Quantum Storm"
   },
   "quickdraw": {
-    "de": "\"Quickdraw\"",
-    "en": "\"Quickdraw\"",
-    "es": "\"Centella\"",
-    "fr": "\"Quickdraw\""
+    "fr": "\"Quickdraw\"",
+    "en": "\"Quickdraw\""
   },
   "quickreleaselocks": {
-    "de": "Schnellspannverschluss",
-    "en": "Quick-Release Locks",
-    "es": "Enganches de apertura rápida",
-    "fr": "Verrous à Libération Rapide"
+    "fr": "Verrous à Libération Rapide",
+    "en": "Quick-Release Locks"
   },
   "quinnjast": {
-    "de": "Quinn Jast",
-    "en": "Quinn Jast",
-    "es": "Quinn Jast",
-    "fr": "Quinn Jast"
+    "fr": "Quinn Jast",
+    "en": "Quinn Jast"
   },
   "r1j5": {
-    "de": "R1-J5",
-    "en": "R1-J5",
-    "es": "R1-J5",
-    "fr": "R1-J5"
+    "fr": "R1-J5",
+    "en": "R1-J5"
   },
   "r2a6": {
-    "de": "R2-A6",
-    "en": "R2-A6",
-    "es": "R2-A6",
-    "fr": "R2-A6"
+    "fr": "R2-A6",
+    "en": "R2-A6"
   },
   "r2astromech": {
-    "de": "R2-Astromechdroide",
-    "en": "R2 Astromech",
-    "es": "Droide astromecánico R2",
-    "fr": "Astromech R2"
+    "fr": "Astromech R2",
+    "en": "R2 Astromech"
   },
   "r2c4": {
-    "de": "R2-C4",
-    "en": "R2-C4",
-    "es": "R2-C4",
-    "fr": "R2-C4"
+    "fr": "R2-C4",
+    "en": "R2-C4"
   },
   "r2d2": {
-    "de": "R2-D2",
-    "en": "R2-D2",
-    "es": "R2-D2",
-    "fr": "R2-D2"
+    "fr": "R2-D2",
+    "en": "R2-D2"
   },
   "r2d2-crew": {
-    "de": "R2-D2",
-    "en": "R2-D2",
-    "es": "R2-D2",
-    "fr": "R2-D2"
-  },
-  "r2d2-republic": {
-    "de": "R2-D2",
-    "en": "R2-D2",
-    "es": "R2-D2",
-    "fr": "R2-D2"
-  },
-  "r2d2-resistance": {
-    "de": "R2-D2",
-    "en": "R2-D2",
-    "es": "R2-D2",
-    "fr": "R2-D2"
+    "fr": "R2-D2",
+    "en": "R2-D2"
   },
   "r2ha": {
-    "de": "R2-HA",
-    "en": "R2-HA",
-    "es": "R2-HA",
-    "fr": "R2-HA"
+    "fr": "R2-HA",
+    "en": "R2-HA"
   },
   "r3astromech": {
-    "de": "R3-Astromechdroide",
-    "en": "R3 Astromech",
-    "es": "Droide astromecánico R3",
-    "fr": "Astromech R3"
+    "fr": "Astromech R3",
+    "en": "R3 Astromech"
   },
   "r4astromech": {
-    "de": "R4-Astromechdroide",
-    "en": "R4 Astromech",
-    "es": "Droide astromecánico R4",
-    "fr": "Astromech R4"
+    "fr": "Astromech R4",
+    "en": "R4 Astromech"
   },
   "r4p17": {
-    "de": "R4-P17",
-    "en": "R4-P17",
-    "es": "R4-P17",
-    "fr": "R4-P17"
+    "fr": "R4-P17",
+    "en": "R4-P17"
   },
   "r4p44": {
-    "de": "R4-P44",
-    "en": "R4-P44",
-    "es": "R4-P44",
-    "fr": "R4-P44"
+    "fr": "R4-P44",
+    "en": "R4-P44"
   },
   "r4pastromech": {
-    "de": "R4-P-Astromechdroide",
-    "en": "R4-P Astromech",
-    "es": "Droide astromecánico R4-P",
-    "fr": "Astromech R4-P"
+    "fr": "Astromech R4-P",
+    "en": "R4-P Astromech"
   },
   "r5astromech": {
-    "de": "R5-Astromechdroide",
-    "en": "R5 Astromech",
-    "es": "Droide astromecánico R5",
-    "fr": "Astromech R5"
+    "fr": "Astromech R5",
+    "en": "R5 Astromech"
   },
   "r5d8": {
-    "de": "R5-D8",
-    "en": "R5-D8",
-    "es": "R5-D8",
-    "fr": "R5-D8"
+    "fr": "R5-D8",
+    "en": "R5-D8"
   },
   "r5p8": {
-    "de": "R5-P8",
-    "en": "R5-P8",
-    "es": "R5-P8",
-    "fr": "R5-P8"
+    "fr": "R5-P8",
+    "en": "R5-P8"
   },
   "r5tk": {
-    "de": "R5-TK",
-    "en": "R5-TK",
-    "es": "R5-TK",
-    "fr": "R5-TK"
+    "fr": "R5-TK",
+    "en": "R5-TK"
   },
   "r5x3": {
-    "de": "R5-X3",
-    "en": "R5-X3",
-    "es": "R5-X3",
-    "fr": "R5-X3"
-  },
-  "r6d8": {
-    "de": "R6-D8",
-    "en": "R6-D8",
-    "es": "R6-D8",
-    "fr": "R6-D8"
-  },
-  "r7a7": {
-    "de": "R7-A7",
-    "en": "R7-A7",
-    "es": "R7-A7",
-    "fr": "R7-A7"
-  },
-  "rampage": {
-    "de": "\"Rampage\"",
-    "en": "\"Rampage\"",
-    "es": "\"Desbocado\"",
-    "fr": "\"Rampage\""
+    "fr": "R5-X3",
+    "en": "R5-X3"
   },
   "rattled": {
-    "en": "Rattled",
-    "fr": "Ébranlé"
-  },
-  "raymusantilles": {
-    "de": "Raymus Antilles",
-    "en": "Raymus Antilles",
-    "es": "Raymus Antilles",
-    "fr": "Raymus Antilles"
+    "fr": "Ébranlé",
+    "en": "Rattled"
   },
   "rearadmiralchiraneau": {
-    "de": "Konteradmiral Chiraneau",
-    "en": "Rear Admiral Chiraneau",
-    "es": "Contralmirante Chiraneau",
-    "fr": "Vice-Amiral Chiraneau"
+    "fr": "Vice-Amiral Chiraneau",
+    "en": "Rear Admiral Chiraneau"
   },
   "rebelalliance": {
-    "en": "Rebel Alliance",
-    "fr": "Alliance Rebelle"
+    "fr": "Alliance Rebelle",
+    "en": "Rebel Alliance"
   },
   "rebelscout": {
-    "de": "Rebellen-Aufklärer",
-    "en": "Rebel Scout",
-    "es": "Explorador rebelde",
-    "fr": "Éclaireur Rebelle"
+    "fr": "Éclaireur Rebelle",
+    "en": "Rebel Scout"
   },
   "recoil": {
-    "de": "\"Recoil\"",
-    "en": "\"Recoil\"",
-    "es": "\"Retroceso\"",
-    "fr": "\"Recoil\""
+    "fr": "\"Recoil\"",
+    "en": "\"Recoil\""
   },
   "redline": {
-    "de": "\"Rote Linie\"",
-    "en": "\"Redline\"",
-    "es": "\"Velocidad Terminal\"",
-    "fr": "\"Redline\""
+    "fr": "\"Redline\"",
+    "en": "\"Redline\""
   },
   "redsquadronbomber": {
-    "de": "Bomber der Roten Staffel",
-    "en": "Red Squadron Bomber",
-    "es": "Bombardero del Escuadrón Rojo",
-    "fr": "Bombardier de l'Escadron Rouge"
+    "fr": "Bombardier de l'Escadron Rouge",
+    "en": "Bombardier de l'Escadron Rouge"
   },
   "redsquadronexpert": {
-    "de": "Elitepilot der roten Staffel",
-    "en": "Red Squadron Expert",
-    "es": "Experto del Escuadrón Rojo",
-    "fr": "Expert de l'Escadron Rouge"
+    "fr": "Expert de l'Escadron Rouge",
+    "en": "Red Squadron Expert"
   },
   "redsquadronveteran": {
-    "de": "Veteran der roten Staffel",
-    "en": "Red Squadron Veteran",
-    "es": "Veterano del Escuadrón Rojo",
-    "fr": "Vétéran de l'Escadron Rouge"
+    "fr": "Vétéran de l'Escadron Rouge",
+    "en": "Red Squadron Veteran"
   },
   "reinforce": {
-    "en": "Reinforce",
-    "fr": "Renforcement"
+    "fr": "Renforcement",
+    "en": "Reinforce"
   },
   "reload": {
-    "en": "Reload",
-    "fr": "Rechargement"
-  },
-  "repulsorliftstabilizers": {
-    "de": "Repulsorlift-Stabilisatoren (Inaktiv)",
-    "en": "Repulsorlift Stabilizers (Inactive)",
-    "es": "Repulsores de estabilización (inactivos)",
-    "fr": "Stabilisateurs de Répulseurs (Inactifs)"
+    "fr": "Rechargement",
+    "en": "Reload"
   },
   "requiem": {
-    "de": "Requiem",
-    "en": "Requiem",
-    "es": "Réquiem",
-    "fr": "Requiem"
+    "fr": "Requiem",
+    "en": "Requiem"
   },
   "resistance": {
-    "en": "Resistance",
-    "fr": "Résistance"
+    "fr": "Résistance",
+    "en": "Resistance"
   },
   "resistancesympathizer": {
-    "de": "Sympathisant des Widerstands",
-    "en": "Resistance Sympathizer",
-    "es": "Simpatizante de la Resistencia",
-    "fr": "Sympathisant de la Résistance"
+    "fr": "Sympathisant de la Résistance",
+    "en": "Resistance Sympathizer"
   },
   "resistancetransport": {
-    "en": "Resistance Transport",
-    "fr": "Transport de la Résistance"
+    "fr": "Transport de la Résistance",
+    "en": "Resistance Transport"
   },
   "resistancetransportpod": {
-    "en": "Resistance Transport Pod",
-    "fr": "Module de Transport de la Résistance"
+    "fr": "Module de Transport de la Résistance",
+    "en": "Resistance Transport Pod"
   },
   "rexlerbrath": {
-    "de": "Rexler Brath",
-    "en": "Rexler Brath",
-    "es": "Rexler Brath",
-    "fr": "Rexler Brath"
+    "fr": "Rexler Brath",
+    "en": "Rexler Brath"
   },
   "rey": {
-    "de": "Rey",
-    "en": "Rey",
-    "es": "Rey",
-    "fr": "Rey"
+    "fr": "Rey",
+    "en": "Rey"
   },
   "rey-gunner": {
-    "de": "Rey",
-    "en": "Rey",
-    "es": "Rey",
-    "fr": "Rey"
+    "fr": "Rey",
+    "en": "Rey"
   },
   "reysmillenniumfalcon": {
-    "de": "Reys Millennium Falke",
-    "en": "Rey's Millennium Falcon",
-    "es": "Halcón Milenario de Rey",
-    "fr": "Rey's Millennium Falcon"
+    "fr": "Faucon Millenium de Rey",
+    "en": "Rey's Millennium Falcon"
   },
   "rhosquadronpilot": {
-    "de": "Pilot der Rho-Staffel",
-    "en": "Rho Squadron Pilot",
-    "es": "Piloto del Escuadrón Rho",
-    "fr": "Pilote de l'Escadron Rho"
+    "fr": "Pilote de l'Escadron Rho",
+    "en": "Rho Squadron Pilot"
   },
   "ricolie": {
-    "de": "Ric Olié",
-    "en": "Ric Olié",
-    "es": "Ric Olié",
-    "fr": "Ric Olié"
+    "fr": "Ric Olié",
+    "en": "Ric Olié"
   },
   "riggedcargochute": {
-    "de": "Manipulierte Frachtrampe",
-    "en": "Rigged Cargo Chute",
-    "es": "Tolva de evacuación de carga",
-    "fr": "Largage de Cargaison"
+    "fr": "Largage de Cargaison",
+    "en": "Rigged Cargo Chute"
   },
   "roarkgarnet": {
-    "de": "Roark Garnet",
-    "en": "Roark Garnet",
-    "es": "Roark Garnet",
-    "fr": "Roark Garnet"
+    "fr": "Roark Garnet",
+    "en": "Roark Garnet"
   },
   "roguesquadronescort": {
-    "de": "Eskorte der Renegaten-Staffel",
-    "en": "Rogue Squadron Escort",
-    "es": "Escolta del Escuadrón Pícaro",
-    "fr": "Escorte de l'Escadron Rogue"
+    "fr": "Escorte de l'Escadron Rogue",
+    "en": "Rogue Squadron Escort"
   },
   "ronithblario": {
-    "de": "Ronith Blario",
-    "en": "Ronith Blario",
-    "es": "Ronith Blario",
-    "fr": "Ronith Blario"
+    "fr": "Ronith Blario",
+    "en": "Ronith Blario"
   },
   "rosetico": {
-    "de": "Rose Tico",
-    "en": "Rose Tico",
-    "es": "Rose Tico",
-    "fr": "Rose Tico"
+    "fr": "Rose Tico",
+    "en": "Rose Tico"
   },
   "rotatearc": {
-    "en": "Rotate Arc",
-    "fr": "Rotation"
+    "fr": "Rotation",
+    "en": "Rotate Arc"
   },
   "rush": {
-    "de": "\"Rush\"",
-    "en": "\"Rush\"",
-    "es": "\"Subidón\"",
-    "fr": "\"Rush\""
+    "fr": "\"Rush\"",
+    "en": "\"Rush\""
   },
   "ruthless": {
-    "de": "Skrupellos",
-    "en": "Ruthless",
-    "es": "Cruel",
-    "fr": "Impitoyable"
+    "fr": "Impitoyable",
+    "en": "Ruthless"
   },
   "rz1awing": {
-    "en": "RZ-1 A-wing",
-    "fr": "A-wing RZ-1"
+    "fr": "A-wing RZ-1",
+    "en": "RZ-1 A-wing"
   },
   "rz2awing": {
-    "en": "RZ-2 A-wing",
-    "fr": "A-wing RZ-2"
+    "fr": "A-wing RZ-2",
+    "en": "RZ-2 A-wing"
   },
   "sabersquadronace": {
-    "de": "Fliegerass der Saber-Staffel",
-    "en": "Saber Squadron Ace",
-    "es": "As del Escuadrón Sable",
-    "fr": "As de l'Escadron Sabre"
+    "fr": "As de l'Escadron Sabre",
+    "en": "Saber Squadron Ace"
   },
   "sabinewren": {
-    "de": "Sabine Wren",
-    "en": "Sabine Wren",
-    "es": "Sabine Wren",
-    "fr": "Sabine Wren"
+    "fr": "Sabine Wren",
+    "en": "Sabine Wren"
   },
   "sabinewren-lancerclasspursuitcraft": {
-    "de": "Sabine Wren",
-    "en": "Sabine Wren",
-    "es": "Sabine Wren",
-    "fr": "Sabine Wren"
+    "fr": "Sabine Wren",
+    "en": "Sabine Wren"
   },
   "sabinewren-tielnfighter": {
-    "de": "Sabine Wren",
-    "en": "Sabine Wren",
-    "es": "Sabine Wren",
-    "fr": "Sabine Wren"
+    "fr": "Sabine Wren",
+    "en": "Sabine Wren"
   },
   "saboteursmap": {
-    "de": "Karte des Saboteurs",
-    "en": "Saboteur's Map",
-    "es": "Mapa de saboteador",
-    "fr": "Carte du Saboteur"
+    "fr": "Carte du Saboteur",
+    "en": "Saboteur's Map"
   },
   "saeseetiin": {
-    "de": "Saesee Tiin",
-    "en": "Saesee Tiin",
-    "es": "Saesee Tiin",
-    "fr": "Saesee Tiin"
+    "fr": "Saesee Tiin",
+    "en": "Saesee Tiin"
   },
   "sarcoplank": {
-    "de": "Sarco Plank",
-    "en": "Sarco Plank",
-    "es": "Sarco Plank",
-    "fr": "Sarco Plank"
+    "fr": "Sarco Plank",
+    "en": "Sarco Plank"
   },
   "saturationsalvo": {
-    "de": "Flächenangriff",
-    "en": "Saturation Salvo",
-    "es": "Andanada de saturación",
-    "fr": "Salve de Saturation"
+    "fr": "Salve de Saturation",
+    "en": "Saturation Salvo"
   },
   "sawgerrera": {
-    "de": "Saw Gerrera",
-    "en": "Saw Gerrera",
-    "es": "Saw Gerrera",
-    "fr": "Saw Gerrera"
+    "fr": "Saw Gerrera",
+    "en": "Saw Gerrera"
   },
   "scannerbaffler": {
-    "de": "Scanner-Manipulator",
-    "en": "Scanner Baffler",
-    "es": "Interferidor de sensores",
-    "fr": "Scanner Cloisonné"
+    "fr": "Scanner Cloisonné",
+    "en": "Scanner Baffler"
   },
   "scarifbasepilot": {
-    "de": "Pilot der Scarif-Basis",
-    "en": "Scarif Base Pilot",
-    "es": "Piloto de la base de Scarif",
-    "fr": "Pilote de la Base de Scarif"
+    "fr": "Pilote de la Base de Scarif",
+    "en": "Scarif Base Pilot"
   },
   "scavengedyt1300": {
-    "en": "Scavenged YT-1300",
-    "fr": "Cargo léger YT-1300 Récupéré"
+    "fr": "Cargo léger YT-1300 Récupéré",
+    "en": "Scavenged YT-1300"
   },
   "scimitar": {
-    "de": "Scimitar",
-    "en": "Scimitar",
-    "es": "Cimitarra",
-    "fr": "Scimitar"
+    "fr": "Scimitar",
+    "en": "Scimitar"
   },
   "scimitarsquadronpilot": {
-    "de": "Pilot der Scimitar-Staffel",
-    "en": "Scimitar Squadron Pilot",
-    "es": "Piloto del Escuadrón Cimitarra",
-    "fr": "Scimitar Squadron Pilot"
+    "fr": "Pilote de l'Escadron Cimeterre",
+    "en": "Scimitar Squadron Pilot"
   },
   "scorch": {
-    "de": "\"Scorch\"",
-    "en": "\"Scorch\"",
-    "es": "\"Quemadura\"",
-    "fr": "\"Scorch\""
+    "fr": "\"Scorch\"",
+    "en": "\"Scorch\""
   },
   "scourgeskutu": {
-    "de": "\"Geißel\" Skutu",
-    "en": "\"Scourge\" Skutu",
-    "es": "\"Azote\" Skutu",
-    "fr": "\"Scourge\" Skutu"
+    "fr": "\"Scourge\" Skutu",
+    "en": "\"Scourge\" Skutu"
   },
   "scumandvillainy": {
-    "en": "Scum and Villainy",
-    "fr": "Racailles et Scélérats"
+    "fr": "Racailles et Scélérats",
+    "en": "Scum and Villainy"
   },
   "scurrgh6bomber": {
-    "en": "Scurrg H-6 bomber",
-    "fr": "Bombardier Scurrg H-6"
+    "fr": "Bombardier Scurrg H-6",
+    "en": "Scurrg H-6 bomber"
   },
   "seasonednavigator": {
-    "de": "Erfahrener Navigator",
-    "en": "Seasoned Navigator",
-    "es": "Navegante experimentado",
-    "fr": "Navigateur Chevronné"
-  },
-  "seftinvanik": {
-    "de": "Seftin Vanik",
-    "en": "Seftin Vanik",
-    "es": "Vanik Septin",
-    "fr": "Vanik Septin"
+    "fr": "Navigateur Chevronné",
+    "en": "Seasoned Navigator"
   },
   "seismiccharges": {
-    "de": "Seismische Bomben",
-    "en": "Seismic Charges",
-    "es": "Cargas sísmicas",
-    "fr": "Charges Sismiques"
+    "fr": "Charges Sismiques",
+    "en": "Seismic Charges"
   },
   "selfless": {
-    "de": "Selbstlos",
-    "en": "Selfless",
-    "es": "Autosacrificio",
-    "fr": "Altruisme"
+    "fr": "Altruisme",
+    "en": "Selfless"
   },
   "sense": {
-    "de": "Gespür",
-    "en": "Sense",
-    "es": "Sentir",
-    "fr": "Sens"
-  },
-  "sensorbuoysuite": {
-    "de": "Sensorbojen",
-    "en": "Sensor Buoy Suite",
-    "es": "Conjunto de boyas de sensores",
-    "fr": "Balises Dérivantes de Détection"
+    "fr": "Sens",
+    "en": "Sense"
   },
   "sensorexperts": {
-    "de": "Sensor-Experten",
-    "en": "Sensor Experts",
-    "es": "Expertos en sensores",
-    "fr": "Experts des Senseurs"
+    "fr": "Experts des Senseurs",
+    "en": "Sensor Experts"
   },
   "separatistalliance": {
-    "en": "Separatist Alliance",
-    "fr": "Séparatiste"
+    "fr": "Séparatiste",
+    "en": "Separatist Alliance"
   },
   "separatistbomber": {
-    "de": "Separatistenbomber",
-    "en": "Separatist Bomber",
-    "es": "Bombardero separatista",
-    "fr": "Bombardier Séparatiste"
+    "fr": "Bombardier Séparatiste",
+    "en": "Separatist Bomber"
   },
   "separatistdrone": {
-    "de": "Separatistendrohne",
-    "en": "Separatist Drone",
-    "es": "Dron separatista",
-    "fr": "Drone Séparatiste"
-  },
-  "separatistinterceptor": {
-    "de": "Abfangjäger der Separatisten",
-    "en": "Separatist Interceptor",
-    "es": "Interceptor separatista",
-    "fr": "Intercepteur Séparatiste"
-  },
-  "separatistpredator": {
-    "de": "Jäger der Separatisten",
-    "en": "Separatist Predator",
-    "es": "Depredador separatista",
-    "fr": "Prédateur Séparatiste"
-  },
-  "separatistracketeer": {
-    "de": "Erpresser der Separatisten",
-    "en": "Separatist Racketeer",
-    "es": "Extorsionador separatista",
-    "fr": "Maître-Chanteur Séparatiste"
+    "fr": "Drone Séparatiste",
+    "en": "Separatist Drone"
   },
   "serissu": {
-    "de": "Serissu",
-    "en": "Serissu",
-    "es": "Serissu",
-    "fr": "Serissu"
+    "fr": "Serissu",
+    "en": "Serissu"
   },
   "servomotorsfoils": {
-    "de": "Servomotorische S-Flügel (geschlossen)",
-    "en": "Servomotor S-foils (Closed)",
-    "es": "Alas móviles (posición cerrada)",
-    "fr": "Servomoteur S-foils (replié)"
+    "fr": "Servomoteur S-foils",
+    "en": "Servomotor S-foils"
   },
   "seventhfleetgunner": {
-    "de": "Kanonier der siebten Flotte",
-    "en": "Seventh Fleet Gunner",
-    "es": "Artillero de la Séptima Flota",
-    "fr": "Artilleur de la Septième Flotte"
+    "fr": "Artilleur de la Septième Flotte",
+    "en": "Seventh Fleet Gunner"
   },
   "seventhsister": {
-    "de": "Siebte Schwester",
-    "en": "Seventh Sister",
-    "es": "Séptima Hermana",
-    "fr": "La Septième Sœur"
+    "fr": "La Septième Sœur",
+    "en": "Seventh Sister"
   },
   "seynmarana": {
-    "de": "Seyn Marana",
-    "en": "Seyn Marana",
-    "es": "Seyn Marana",
-    "fr": "Seyn Marana"
-  },
-  "shaakti": {
-    "de": "Shaak Ti",
-    "en": "Shaak Ti",
-    "es": "Shaak Ti",
-    "fr": "Shaak Ti"
+    "fr": "Seyn Marana",
+    "en": "Seyn Marana"
   },
   "shadowcaster": {
-    "de": "Shadow Caster",
-    "en": "Shadow Caster",
-    "es": "Sombra Alargada",
-    "fr": "Shadow Caster"
+    "fr": "Shadow Caster",
+    "en": "Shadow Caster"
   },
   "shadowporthunter": {
-    "de": "Schattenhafen-Jäger",
-    "en": "Shadowport Hunter",
-    "es": "Cazador de puerto clandestino",
-    "fr": "Chasseur des Ports Fantômes"
-  },
-  "shadowsquadronescort": {
-    "de": "Eskorte der Schatten-Staffel",
-    "en": "Shadow Squadron Escort",
-    "es": "Escolta del Escuadrón Sombra",
-    "fr": "Escorte de l'Escadron Shadow"
+    "fr": "Chasseur des Ports Fantômes",
+    "en": "Shadowport Hunter"
   },
   "shadowsquadronveteran": {
-    "de": "Veteran der Schatten-Staffel",
-    "en": "Shadow Squadron Veteran",
-    "es": "Veterano del Escuadrón Sombra",
-    "fr": "Vétéran de l'Escadron Shadow"
+    "fr": "Vétéran de l'Escadron Shadow",
+    "en": "Shadow Squadron Veteran"
   },
   "sharabey": {
-    "de": "Shara Bey",
-    "en": "Shara Bey",
-    "es": "Shara Bey",
-    "fr": "Shara Bey"
+    "fr": "Shara Bey",
+    "en": "Shara Bey"
   },
   "sheathipedeclassshuttle": {
-    "en": "Sheathipede-class Shuttle",
-    "fr": "Navette de Classe Sheathipede"
+    "fr": "Navette de Classe Sheathipede",
+    "en": "Sheathipede-class Shuttle"
   },
   "shieldupgrade": {
-    "de": "Verbesserte Schilde",
-    "en": "Shield Upgrade",
-    "es": "Escudos mejorados",
-    "fr": "Boucliers Améliorés"
+    "fr": "Boucliers Améliorés",
+    "en": "Shield Upgrade"
   },
   "sienarjaemusengineer": {
-    "de": "Ingenieur von Sienar-Jaemus",
-    "en": "Sienar-Jaemus Engineer",
-    "es": "Ingeniero de Sienar-Jaemus",
-    "fr": "Ingénieur Sienar-Jaemus"
+    "fr": "Ingénieur Sienar-Jaemus",
+    "en": "Sienar-Jaemus Engineer"
   },
   "sienarspecialist": {
-    "de": "Experte von Sienar",
-    "en": "Sienar Specialist",
-    "es": "Especialista de Sienar",
-    "fr": "Spécialiste Sienar"
+    "fr": "Spécialiste Sienar",
+    "en": "Sienar Specialist"
   },
   "sigmasquadronace": {
-    "de": "Fliegerass der Sigma-Staffel",
-    "en": "Sigma Squadron Ace",
-    "es": "As del Escuadrón Sigma",
-    "fr": "As de l'Escadron Sigma"
+    "fr": "As de l'Escadron Sigma",
+    "en": "Sigma Squadron Ace"
   },
   "sinker": {
-    "de": "\"Sinker\"",
-    "en": "\"Sinker\"",
-    "es": "\"Sinker\"",
-    "fr": "\"Sinker\""
+    "fr": "\"Sinker\"",
+    "en": "\"Sinker\""
   },
   "sithinfiltrator": {
-    "en": "Sith Infiltrator",
-    "fr": "Infiltrateur Sith"
+    "fr": "Infiltrateur Sith",
+    "en": "Sith Infiltrator"
   },
   "size": {
-    "en": "Size",
-    "fr": "Taille"
+    "fr": "Taille",
+    "en": "Size"
   },
   "skakoanace": {
-    "de": "Skakoanisches Fliegerass",
-    "en": "Skakoan Ace",
-    "es": "As skakoano",
-    "fr": "As Skakoan"
+    "fr": "As Skakoan",
+    "en": "Skakoan Ace"
   },
   "skilledbombardier": {
-    "de": "Versierte Bombenschützin",
-    "en": "Skilled Bombardier",
-    "es": "Oficial de bombardeo experimentado",
-    "fr": "Bombardier Compétent"
+    "fr": "Bombardier Compétent",
+    "en": "Skilled Bombardier"
   },
   "skullsquadronpilot": {
-    "de": "Pilot der Skull-Staffel",
-    "en": "Skull Squadron Pilot",
-    "es": "Piloto del Escuadrón Calavera",
-    "fr": "Pilote de l'Escadron Skull"
+    "fr": "Pilote de l'Escadron Skull",
+    "en": "Skull Squadron Pilot"
   },
   "slam": {
-    "en": "Slam",
-    "fr": "MASL"
+    "fr": "MASL",
+    "en": "Slam"
   },
   "slavei": {
-    "de": "Sklave I",
-    "en": "Slave I",
-    "es": "Esclavo I",
-    "fr": "Slave I"
-  },
-  "slavei-swz82": {
-    "de": "Sklave I",
-    "en": "Slave I",
-    "es": "Esclavo I",
-    "fr": "Slave I"
+    "fr": "Slave I",
+    "en": "Slave I"
   },
   "snapshot": {
-    "de": "Schnellfeuer",
-    "en": "Snap Shot",
-    "es": "Tiro reactivo",
-    "fr": "Tir Instantané"
+    "fr": "Tir Instantané",
+    "en": "Snap Shot"
   },
   "solsixxa": {
-    "de": "Sol Sixxa",
-    "en": "Sol Sixxa",
-    "es": "Sol Sixxa",
-    "fr": "Sol Sixxa"
+    "fr": "Sol Sixxa",
+    "en": "Sol Sixxa"
   },
   "soontirfel": {
-    "de": "Soontir Fel",
-    "en": "Soontir Fel",
-    "es": "Soontir Fel",
-    "fr": "Soontir Fel"
+    "fr": "Soontir Fel",
+    "en": "Soontir Fel"
   },
   "soullessone": {
-    "de": "Seelenlose",
-    "en": "Soulless One",
-    "es": "Desalmado",
-    "fr": "Soulless One"
+    "fr": "Soulless One",
+    "en": "Soulless One"
   },
   "sparepartscanisters": {
-    "de": "Ersatzteilkanister",
-    "en": "Spare Parts Canisters",
-    "es": "Contenedores de recambios",
-    "fr": "Caisses de Pièces Détachées"
+    "fr": "Caisses de Pièces Détachées",
+    "en": "Spare Parts Canisters"
   },
   "specialforcesgunner": {
-    "de": "Bordschütze der Spezialeinheiten",
-    "en": "Special Forces Gunner",
-    "es": "Artillero de las Fuerzas Especiales",
-    "fr": "Artilleur des Forces Spéciales"
+    "fr": "Artilleur des Forces Spéciales",
+    "en": "Special Forces Gunner"
   },
   "spicerunner": {
-    "de": "Spiceschmuggler",
-    "en": "Spice Runner",
-    "es": "Traficante de especia",
-    "fr": "Trafiquant d'Épice"
+    "fr": "Trafiquant d'Épices",
+    "en": "Spice Runner"
   },
   "squadleader": {
-    "de": "Staffelführer",
-    "en": "Squad Leader",
-    "es": "Jefe de escuadrón",
-    "fr": "Chef d'Escouade"
+    "fr": "Chef d'Escouade",
+    "en": "Squad Leader"
   },
   "squadsevenveteran": {
-    "de": "Veteran von Trupp Sieben",
-    "en": "Squad Seven Veteran",
-    "es": "Veterano del Escuadrón Siete",
-    "fr": "Vétéran de l'Escadron Sept"
+    "fr": "Vétéran de l'Escadron Sept",
+    "en": "Squad Seven Veteran"
   },
   "st321": {
-    "de": "ST-321",
-    "en": "ST-321",
-    "es": "ST-321",
-    "fr": "ST-321"
+    "fr": "ST-321",
+    "en": "ST-321"
   },
   "stabilizedsfoils": {
-    "de": "Stabilisierte S-Flügel (geschlossen)",
-    "en": "Stabilized S-foils (Closed)",
-    "es": "Alas móviles estabilizadas (posición cerrada)",
-    "fr": "S-foils Stabilisés (Repliés)"
+    "fr": "S-foils Stabilisés",
+    "en": "Stabilized S-foils"
   },
   "stalgasinhiveguard": {
-    "de": "Schwarmgarde der Stalgasin-Kolonie",
-    "en": "Stalgasin Hive Guard",
-    "es": "Guardia de la Colmena Stalgasin",
-    "fr": "Garde de la Ruche Stalgasin"
-  },
-  "stalwartcaptain": {
-    "de": "Standhafter Captain",
-    "en": "Stalwart Captain",
-    "es": "Capitán tenaz",
-    "fr": "Capitaine Exemplaire"
-  },
-  "starbirdslash": {
-    "de": "Sternenvogel-Streich",
-    "en": "Starbird Slash",
-    "es": "Acometida de ave estelar",
-    "fr": "Balafre du Phénix"
+    "fr": "Garde de la Ruche Stalgasin",
+    "en": "Stalgasin Hive Guard"
   },
   "starkillerbasepilot": {
-    "de": "Pilot der Starkiller-Basis",
-    "en": "Starkiller Base Pilot",
-    "es": "Piloto de la base Starkiller",
-    "fr": "Pilote de la Base Starkiller"
+    "fr": "Pilote de la Base Starkiller",
+    "en": "Starkiller Base Pilot"
   },
   "starviperclassattackplatform": {
-    "en": "StarViper-class Attack Platform",
-    "fr": "Plateforme d'Attaque de Classe StarViper"
+    "fr": "Plateforme d'Attaque de Classe StarViper",
+    "en": "StarViper-class Attack Platform"
   },
   "static": {
-    "de": "\"Static\"",
-    "en": "\"Static\"",
-    "es": "\"Estática\"",
-    "fr": "\"Static\""
+    "fr": "\"Static\"",
+    "en": "\"Static\""
   },
   "staticdischargevanes": {
-    "de": "Elektrostatischer Entlader",
-    "en": "Static Discharge Vanes",
-    "es": "Aparejos de descarga electrostática",
-    "fr": "Ailettes Statiques de Décharge"
+    "fr": "Ailettes Statiques de Décharge",
+    "en": "Static Discharge Vanes"
   },
   "stealthdevice": {
-    "de": "Tarnvorrichtung",
-    "en": "Stealth Device",
-    "es": "Dispositivo de sigilo",
-    "fr": "Système d'Occultation"
+    "fr": "Système d'Occultation",
+    "en": "Stealth Device"
   },
   "stormsquadronace": {
-    "de": "Fliegerass der Storm-Staffel",
-    "en": "Storm Squadron Ace",
-    "es": "As del Escuadrón Tormenta",
-    "fr": "As de l'Escadron Storm"
-  },
-  "strategiccommander": {
-    "de": "Strategischer Commander",
-    "en": "Strategic Commander",
-    "es": "Comandante estratégico",
-    "fr": "Commandant Stratégique"
+    "fr": "As de l'Escadron Storm",
+    "en": "Storm Squadron Ace"
   },
   "sunfac": {
-    "de": "Sun Fac",
-    "en": "Sun Fac",
-    "es": "Sun Fac",
-    "fr": "Sun Fac"
+    "fr": "Sun Fac",
+    "en": "Sun Fac"
   },
   "sunnybounder": {
-    "de": "Sunny Bounder",
-    "en": "Sunny Bounder",
-    "es": "Sunny Bounder",
-    "fr": "Sunny Bounder"
+    "fr": "Sunny Bounder",
+    "en": "Sunny Bounder"
   },
   "supernaturalreflexes": {
-    "de": "Übernatürliche Reflexe",
-    "en": "Supernatural Reflexes",
-    "es": "Reflejos sobrenaturales",
-    "fr": "Réflexes Surnaturels"
+    "fr": "Réflexes Surnaturels",
+    "en": "Supernatural Reflexes"
   },
   "suppressivefire": {
-    "en": "Suppressive Fire",
-    "fr": "Tir de Suppression"
-  },
-  "suppressivegunner": {
-    "de": "Unterstützungsschütze",
-    "en": "Suppressive Gunner",
-    "es": "Artillerio disuasorio",
-    "fr": "Artilleur Répressif"
+    "fr": "Tir de Suppression",
+    "en": "Suppressive Fire"
   },
   "suppressor": {
-    "de": "Suppressor",
-    "en": "Suppressor",
-    "es": "Supresor",
-    "fr": "Suppressor"
+    "fr": "Suppressor",
+    "en": "Suppressor"
   },
   "supremeleadersnoke": {
-    "de": "Oberster Anführer Snoke",
-    "en": "Supreme Leader Snoke",
-    "es": "Líder Supremo Snoke",
-    "fr": "Suprême Leader Snoke"
-  },
-  "suralindajavos": {
-    "de": "Suralinda Javos",
-    "en": "Suralinda Javos",
-    "es": "Suralinda Javos",
-    "fr": "Suralinda Javos"
+    "fr": "Suprême Leader Snoke",
+    "en": "Supreme Leader Snoke"
   },
   "swarmtactics": {
-    "de": "Schwarmtaktik",
-    "en": "Swarm Tactics",
-    "es": "Tácticas de enjambre",
-    "fr": "Tactique de Nuée"
+    "fr": "Tactique de Nuée",
+    "en": "Swarm Tactics"
   },
   "swoop": {
-    "de": "\"Swoop\"",
-    "en": "\"Swoop\"",
-    "es": "\"Swoop\"",
-    "fr": "\"Swoop\""
-  },
-  "syncedlasercannons": {
-    "de": "Synchronisierte Laserkanonen",
-    "en": "Synced Laser Cannons",
-    "es": "Cañones láser sincronizados",
-    "fr": "Canons Laser Synchronisés"
+    "fr": "\"Swoop\"",
+    "en": "\"Swoop\""
   },
   "synchronizedconsole": {
-    "de": "Synchronisierte Steuerkonsole",
-    "en": "Synchronized Console",
-    "es": "Panel de mandos sincronizado",
-    "fr": "Console Synchronisée"
+    "fr": "Console Synchronisée",
+    "en": "Synchronized Console"
   },
   "t65xwing": {
-    "en": "T-65 X-wing",
-    "fr": "X-wing T-65"
+    "fr": "X-wing T-65",
+    "en": "T-65 X-wing"
   },
   "t70xwing": {
-    "en": "T-70 X-wing",
-    "fr": "X-wing T-70"
+    "fr": "X-wing T-70",
+    "en": "T-70 X-wing"
   },
   "ta175": {
-    "de": "TA-175",
-    "en": "TA-175",
-    "es": "TA-175",
-    "fr": "TA-175"
+    "fr": "TA-175",
+    "en": "TA-175"
   },
   "tacticalofficer": {
-    "de": "Taktikoffizier",
-    "en": "Tactical Officer",
-    "es": "Oficial táctico",
-    "fr": "Officier Tactique"
+    "fr": "Officier Tactique",
+    "en": "Tactical Officer"
   },
   "tacticalscrambler": {
-    "de": "Taktischer Scrambler",
-    "en": "Tactical Scrambler",
-    "es": "Inhibidor táctico",
-    "fr": "Brouilleur Tactique"
+    "fr": "Brouilleur Tactique",
+    "en": "Tactical Scrambler"
   },
   "talasquadronpilot": {
-    "de": "Pilot der Tala-Staffel",
-    "en": "Tala Squadron Pilot",
-    "es": "Piloto del Escuadrón Tala",
-    "fr": "Pilote de l'Escadron Tala"
+    "fr": "Pilote de l'Escadron Tala",
+    "en": "Tala Squadron Pilot"
   },
   "tallissanlintra": {
-    "de": "Tallissan Lintra",
-    "en": "Tallissan Lintra",
-    "es": "Tallissan Lintra",
-    "fr": "Tallissan Lintra"
+    "fr": "Tallissan Lintra",
+    "en": "Tallissan Lintra"
   },
   "talonbanecobra": {
-    "de": "Talonbane Cobra",
-    "en": "Talonbane Cobra",
-    "es": "Talonbane Cobra",
-    "fr": "Talonbane Cobra"
+    "fr": "Talonbane Cobra",
+    "en": "Talonbane Cobra"
   },
   "tansariipointveteran": {
-    "de": "Veteran von Tansarii",
-    "en": "Tansarii Point Veteran",
-    "es": "Veterano de Punto Tansarii",
-    "fr": "Vétéran de Tansarii Point"
+    "fr": "Vétéran de Tansarii Point",
+    "en": "Tansarii Point Veteran"
   },
   "tantiveiv": {
-    "de": "Tantive IV",
-    "en": "Tantive IV",
-    "es": "Tantive IV",
-    "fr": "Tantive IV"
-  },
-  "targetassistmgk300": {
-    "de": "MGK-300-Zielassistent",
-    "en": "Target-Assist MGK-300",
-    "es": "MGK-300 de cálculo de tiro",
-    "fr": "Aide à la Visée MGK-300"
+    "fr": "Tantive IV",
+    "en": "Tantive IV"
   },
   "targetingbattery": {
-    "de": "Zielbatterie (Offline)",
-    "en": "Targeting Battery (Offline)",
-    "es": "Batería de rastreo de blancos (inoperativa)",
-    "fr": "Batterie de CiBlage (Hors-ligne)"
+    "fr": "Batterie de Ciblage",
+    "en": "Targeting Battery"
   },
   "targetingcomputer": {
-    "de": "Zielcomputer",
-    "en": "Targeting Computer",
-    "es": "Computadora de selección de blancos",
-    "fr": "Ordinateur de Visée"
+    "fr": "Ordinateur de Visée",
+    "en": "Targeting Computer"
   },
   "targetingsynchronizer": {
-    "de": "Zielsynchronisiersystem",
-    "en": "Targeting Synchronizer",
-    "es": "Sincronizador de disparos",
-    "fr": "Synchroniseur Télémétrique"
+    "fr": "Synchroniseur Télémétrique",
+    "en": "Targeting Synchronizer"
   },
   "technounionbomber": {
-    "de": "Bomber der Techno-Union",
-    "en": "Techno Union Bomber",
-    "es": "Bombardero de la Tecno Unión",
-    "fr": "Bombardier du Techno-Syndicat"
+    "fr": "Bombardier du Techno-Syndicat",
+    "en": "Techno Union Bomber"
   },
   "teltrevura": {
-    "de": "Tel Trevura",
-    "en": "Tel Trevura",
-    "es": "Tel Trevura",
-    "fr": "Tel Trevura"
+    "fr": "Tel Trevura",
+    "en": "Tel Trevura"
   },
   "temminwexley": {
-    "de": "Temmin Wexley",
-    "en": "Temmin Wexley",
-    "es": "Temmin Wexley",
-    "fr": "Temmin Wexley"
-  },
-  "temminwexley-swz68": {
-    "de": "Temmin Wexley",
-    "en": "Temmin Wexley",
-    "es": "Temmin Wexley",
-    "fr": "Temmin Wexley"
+    "fr": "Temmin Wexley",
+    "en": "Temmin Wexley"
   },
   "tempestsquadronpilot": {
-    "de": "Pilot der Tornado-Staffel",
-    "en": "Tempest Squadron Pilot",
-    "es": "Piloto del Escuadrón Tempestad",
-    "fr": "Pilote de l'Escadron Tempest"
+    "fr": "Pilote de l'Escadron Tempest",
+    "en": "Tempest Squadron Pilot"
   },
   "tennumb": {
-    "de": "Ten Numb",
-    "en": "Ten Numb",
-    "es": "Ten Numb",
-    "fr": "Ten Numb"
+    "fr": "Ten Numb",
+    "en": "Ten Numb"
   },
   "thanekyrell": {
-    "de": "Thane Kyrell",
-    "en": "Thane Kyrell",
-    "es": "Thane Kyrell",
-    "fr": "Thane Kyrell"
-  },
-  "thermaldetonators": {
-    "de": "Thermaldetonatoren",
-    "en": "Thermal Detonators",
-    "es": "Detonadores térmicos",
-    "fr": "Détonateurs Thermiques"
+    "fr": "Thane Kyrell",
+    "en": "Thane Kyrell"
   },
   "thunderstrike": {
-    "de": "Donnerschlag",
-    "en": "Thunderstrike",
-    "es": "Trueno",
-    "fr": "Thunderstrike"
+    "fr": "Thunderstrike",
+    "en": "Thunderstrike"
   },
   "tibannareserves": {
-    "de": "Tibanna-Vorräte",
-    "en": "Tibanna Reserves",
-    "es": "Reservas de gas tibanna",
-    "fr": "Réserves de Tibanna"
+    "fr": "Réserves de Tibanna",
+    "en": "Tibanna Reserves"
   },
   "tieadvancedv1": {
-    "en": "TIE Advanced v1",
-    "fr": "TIE Advanced v1"
+    "fr": "TIE Advanced v1",
+    "en": "TIE Advanced v1"
   },
   "tieadvancedx1": {
-    "en": "TIE Advanced x1",
-    "fr": "TIE Advanced x1"
+    "fr": "TIE Advanced x1",
+    "en": "TIE Advanced x1"
   },
   "tieagaggressor": {
-    "en": "TIE/ag Aggressor",
-    "fr": "TIE/ag Aggressor"
+    "fr": "TIE/ag Aggressor",
+    "en": "TIE/ag Aggressor"
   },
   "tiebainterceptor": {
-    "en": "TIE/ba Interceptor",
-    "fr": "Intercepteur TIE/ba"
+    "fr": "Intercepteur TIE/ba",
+    "en": "TIE/ba Interceptor"
   },
   "tiecapunisher": {
-    "en": "TIE/ca Punisher",
-    "fr": "TIE/ca Punisher"
+    "fr": "TIE/ca Punisher",
+    "en": "TIE/ca Punisher"
   },
   "tieddefender": {
-    "en": "TIE/D Defender",
-    "fr": "Défenseur TIE/d"
+    "fr": "Défenseur TIE/d",
+    "en": "TIE/D Defender"
   },
   "tiefofighter": {
-    "en": "TIE/fo Fighter",
-    "fr": "Chasseur TIE/fo"
+    "fr": "Chasseur TIE/fo",
+    "en": "TIE/fo Fighter"
   },
   "tieininterceptor": {
-    "en": "TIE/in Interceptor",
-    "fr": "Intercepteur TIE/in"
+    "fr": "Intercepteur TIE/in",
+    "en": "TIE/in Interceptor"
   },
   "tielnfighter": {
-    "en": "TIE/ln Fighter",
-    "fr": "Chasseur TIE/ln"
+    "fr": "Chasseur TIE/ln",
+    "en": "TIE/ln Fighter"
   },
   "tiephphantom": {
-    "en": "TIE/ph Phantom",
-    "fr": "TIE/ph Fantôme"
+    "fr": "TIE/ph Fantôme",
+    "en": "TIE/ph Phantom"
   },
   "tiereaper": {
-    "en": "TIE Reaper",
-    "fr": "TIE Reaper"
+    "fr": "TIE Reaper",
+    "en": "TIE Reaper"
   },
   "tiesabomber": {
-    "en": "TIE/sa Bomber",
-    "fr": "Bombardier TIE/sa"
+    "fr": "Bombardier TIE/sa",
+    "en": "TIE/sa Bomber"
   },
   "tiesffighter": {
-    "en": "TIE/sf Fighter",
-    "fr": "Chasseur TIE/fs"
+    "fr": "Chasseur TIE/fs",
+    "en": "TIE/sf Fighter"
   },
   "tieskstriker": {
-    "en": "TIE/sk Striker",
-    "fr": "TIE/sk Striker"
+    "fr": "TIE/sk Striker",
+    "en": "TIE/sk Striker"
   },
   "tievnsilencer": {
-    "en": "TIE/vn Silencer",
-    "fr": "TIE/vn Silencer"
+    "fr": "TIE/vn Silencer",
+    "en": "TIE/vn Silencer"
   },
   "tn3465": {
-    "de": "TN-3465",
-    "en": "TN-3465",
-    "es": "TN-3465",
-    "fr": "TN-3465"
+    "fr": "TN-3465",
+    "en": "TN-3465"
   },
   "tobiasbeckett": {
-    "de": "Tobias Beckett",
-    "en": "Tobias Beckett",
-    "es": "Tobias Beckett",
-    "fr": "Tobias Beckett"
+    "fr": "Tobias Beckett",
+    "en": "Tobias Beckett"
   },
   "tomaxbren": {
-    "de": "Tomax Bren",
-    "en": "Tomax Bren",
-    "es": "Tomax Bren",
-    "fr": "Tomax Bren"
+    "fr": "Tomax Bren",
+    "en": "Tomax Bren"
   },
   "toranikulda": {
-    "de": "Torani Kulda",
-    "en": "Torani Kulda",
-    "es": "Torani Kulda",
-    "fr": "Torani Kulda"
+    "fr": "Torani Kulda",
+    "en": "Torani Kulda"
   },
   "torkilmux": {
-    "de": "Torkil Mux",
-    "en": "Torkil Mux",
-    "es": "Torkil Mux",
-    "fr": "Torkil Mux"
+    "fr": "Torkil Mux",
+    "en": "Torkil Mux"
   },
   "torynfarr": {
-    "de": "Toryn Farr",
-    "en": "Toryn Farr",
-    "es": "Toryn Farr",
-    "fr": "Toryn Farr"
+    "fr": "Toryn Farr",
+    "en": "Toryn Farr"
   },
   "tractorbeam": {
-    "de": "Fangstrahl",
-    "en": "Tractor Beam",
-    "es": "Proyector de campo de tracción",
-    "fr": "Rayon Tracteur"
+    "fr": "Rayon Tracteur",
+    "en": "Tractor Beam"
   },
   "tradefederationdrone": {
-    "de": "Drohne der Handelsförderation",
-    "en": "Trade Federation Drone",
-    "es": "Dron de la Federación de Comercio",
-    "fr": "Drone de la Fédération du Commerce"
+    "fr": "Drone de la Fédération du Commerce",
+    "en": "Trade Federation Drone"
   },
   "trajectorysimulator": {
-    "de": "Flugbahnsimulator",
-    "en": "Trajectory Simulator",
-    "es": "Simulador de trayectorias",
-    "fr": "Simulateur de Trajectoire"
+    "fr": "Simulateur de Trajectoire",
+    "en": "Trajectory Simulator"
   },
   "trandoshanslaver": {
-    "de": "Trandoshanischer Sklavenjäger",
-    "en": "Trandoshan Slaver",
-    "es": "Esclavista trandoshano",
-    "fr": "Esclavagiste Trandosien"
+    "fr": "Esclavagiste Trandosien",
+    "en": "Trandoshan Slaver"
   },
   "treacherous": {
-    "de": "Verräterisch",
-    "en": "Treacherous",
-    "es": "Traicionero",
-    "fr": "Perfide"
+    "fr": "Perfide",
+    "en": "Treacherous"
   },
   "trickshot": {
-    "de": "Trickschuss",
-    "en": "Trick Shot",
-    "es": "Disparo inverosímil",
-    "fr": "Tir Habile"
+    "fr": "Tir Habile",
+    "en": "Trick Shot"
   },
   "tucker": {
-    "de": "\"Tucker\"",
-    "en": "\"Tucker\"",
-    "es": "\"Tucker\"",
-    "fr": "\"Tucker\""
+    "fr": "\"Tucker\" ",
+    "en": "\"Tucker\" "
   },
   "turbolaserbattery": {
-    "de": "Turbolaser-Batterie",
-    "en": "Turbolaser Battery",
-    "es": "Batería de turboláser",
-    "fr": "Batterie Turbolaser"
+    "fr": "Batterie Turbolaser",
+    "en": "Turbolaser Battery"
   },
   "turrphennir": {
-    "de": "Turr Phennir",
-    "en": "Turr Phennir",
-    "es": "Turr Phennir",
-    "fr": "Turr Phennir"
+    "fr": "Turr Phennir",
+    "en": "Turr Phennir"
   },
   "tv94": {
-    "de": "TV-94",
-    "en": "TV-94",
-    "es": "TV-94",
-    "fr": "TV-94"
-  },
-  "undefined": {
-    "de": "Syliure-31-Hyperantrieb",
-    "en": "Syliure-31 Hyperdrive",
-    "es": "Hiperimpulsor Silure-31",
-    "fr": "Hyperdrive Syliure-31"
-  },
-  "underslungblastercannon": {
-    "de": "Unterbaute Blasterkanone",
-    "en": "Underslung Blaster Cannon",
-    "es": "Cañón bláster inferior",
-    "fr": "Canon Blaster Suspendu"
+    "fr": "TV-94",
+    "en": "TV-94"
   },
   "unkarplutt": {
-    "de": "Unkar Plutt",
-    "en": "Unkar Plutt",
-    "es": "Unkar Plutt",
-    "fr": "Unkar Plutt"
+    "fr": "Unkar Plutt",
+    "en": "Unkar Plutt"
   },
   "upsilonclassshuttle": {
-    "en": "Upsilon-class command shuttle",
-    "fr": "Navette de Commandement de Classe Upsilon"
+    "fr": "Navette de Commandement de Classe Upsilon",
+    "en": "Upsilon-class command shuttle"
   },
   "ut60duwing": {
-    "en": "UT-60D U-wing",
-    "fr": "U-wing UT-60D"
+    "fr": "U-wing UT-60D",
+    "en": "UT-60D U-wing"
   },
   "v19torrentstarfighter": {
-    "en": "V-19 Torrent Starfighter",
-    "fr": "Chasseurs Torrents V-19"
+    "fr": "Chasseurs Torrents V-19",
+    "en": "V-19 Torrent Starfighter"
   },
   "vagabond": {
-    "de": "\"Vagabond\"",
-    "en": "\"Vagabond\"",
-    "es": "\"Vagabundo\"",
-    "fr": "\"Vagabond\""
+    "fr": "\"Vagabond\"",
+    "en": "\"Vagabond\""
   },
   "valenrudor": {
-    "de": "Valen Rudor",
-    "en": "Valen Rudor",
-    "es": "Valen Rudor",
-    "fr": "Valen Rudor"
+    "fr": "Valen Rudor",
+    "en": "Valen Rudor"
   },
   "vcx100lightfreighter": {
-    "en": "VCX-100 Light Freighter",
-    "fr": "Cargo léger VCX-100"
+    "fr": "Cargo léger VCX-100",
+    "en": "VCX-100 Light Freighter"
   },
   "vector": {
-    "de": "Vector",
-    "en": "Vector",
-    "es": "Vector",
-    "fr": "Vector"
+    "fr": "Vector",
+    "en": "Vector"
   },
   "vedfoslo": {
-    "de": "Ved Foslo",
-    "en": "Ved Foslo",
-    "es": "Ved Foslo",
-    "fr": "Ved Foslo"
+    "fr": "Ved Foslo",
+    "en": "Ved Foslo"
   },
   "vennie": {
-    "de": "Vennie",
-    "en": "Vennie",
-    "es": "Vennie",
-    "fr": "Vennie"
+    "fr": "Vennie",
+    "en": "Vennie"
   },
   "veterantailgunner": {
-    "de": "Kampferprobter Heckschütze",
-    "en": "Veteran Tail Gunner",
-    "es": "Artillero de cola veterano",
-    "fr": "Artilleur de Poupe Vétéran"
+    "fr": "Artilleur de Poupe Vétéran",
+    "en": "Veteran Tail Gunner"
   },
   "veteranturretgunner": {
-    "de": "Kampferprobter Geschützkanonier",
-    "en": "Veteran Turret Gunner",
-    "es": "Artillero de torreta veterano",
-    "fr": "Artilleur de Tourelle Vétéran"
-  },
-  "veteranwingleader": {
-    "de": "Erfahrener Schwarmführer",
-    "en": "Veteran Wing Leader",
-    "es": "Jefe de ala veterano",
-    "fr": "Leader Vétéran"
+    "fr": "Artilleur de Tourelle Vétéran",
+    "en": "Veteran Turret Gunner"
   },
   "viktorhel": {
-    "de": "Viktor Hel",
-    "en": "Viktor Hel",
-    "es": "Viktor Hel",
-    "fr": "Viktor Hel"
+    "fr": "Viktor Hel",
+    "en": "Viktor Hel"
   },
   "vimoradi": {
-    "de": "Vi Moradi",
-    "en": "Vi Moradi",
-    "es": "Vi Moradi",
-    "fr": "Vi Moradi"
+    "fr": "Vi Moradi",
+    "en": "Vi Moradi"
   },
   "virago": {
-    "de": "Virago",
-    "en": "Virago",
-    "es": "Virago",
-    "fr": "Virago"
+    "fr": "Virago",
+    "en": "Virago"
   },
   "vizier": {
-    "de": "\"Wesir\"",
-    "en": "\"Vizier\"",
-    "es": "\"Visir\"",
-    "fr": "\"Vizier\""
+    "fr": "\"Vizier\"",
+    "en": "\"Vizier\""
   },
   "vt49decimator": {
-    "en": "VT-49 Decimator",
-    "fr": "Décimateur VT-49"
+    "fr": "Décimateur VT-49",
+    "en": "VT-49 Decimator"
   },
   "vultureclassdroidfighter": {
-    "en": "Vulture-class Droid Fighter",
-    "fr": "Chasseur Droïde de Classe Vulture"
+    "fr": "Chasseur Droïde de Classe Vulture",
+    "en": "Vulture-class Droid Fighter"
   },
   "wampa": {
-    "de": "\"Wampa\"",
-    "en": "\"Wampa\"",
-    "es": "\"Wampa\"",
-    "fr": "\"Wampa\""
+    "fr": "\"Wampa\"",
+    "en": "\"Wampa\""
   },
   "wardensquadronpilot": {
-    "de": "Pilot der Beschützer-Staffel",
-    "en": "Warden Squadron Pilot",
-    "es": "Piloto del Escuadrón Custodio",
-    "fr": "Pilote de l'Escadron Warden"
-  },
-  "warthog": {
-    "de": "\"Warthog\"",
-    "en": "\"Warthog\"",
-    "es": "\"Warthog\"",
-    "fr": "\"Warthog\""
+    "fr": "Pilote de l'Escadron Warden",
+    "en": "Warden Squadron Pilot"
   },
   "wattambor": {
-    "de": "Wat Tambor",
-    "en": "Wat Tambor",
-    "es": "Wat Tambor",
-    "fr": "Wat Tambor"
-  },
-  "weaponssystemsofficer": {
-    "de": "Waffensystemoffizierin",
-    "en": "Weapons Systems Officer",
-    "es": "Oficial de sistemas de armamento",
-    "fr": "Officier des Systèmes d'Armement"
+    "fr": "Wat Tambor",
+    "en": "Wat Tambor"
   },
   "wedgeantilles": {
-    "de": "Wedge Antilles",
-    "en": "Wedge Antilles",
-    "es": "Wedge Antilles",
-    "fr": "Wedge Antilles"
+    "fr": "Wedge Antilles",
+    "en": "Wedge Antilles"
   },
   "whisper": {
-    "de": "\"Geflüster\"",
-    "en": "\"Whisper\"",
-    "es": "\"Susurro\"",
-    "fr": "\"Whisper\""
+    "fr": "\"Whisper\"",
+    "en": "\"Whisper\""
   },
   "wildspacefringer": {
-    "de": "Grenzgänger aus dem Wilden Raum",
-    "en": "Wild Space Fringer",
-    "es": "Fronterizo del Espacio Salvaje",
-    "fr": "Frontalier de l'Espace Sauvage"
-  },
-  "wilhufftarkin": {
-    "de": "Wilhuff Tarkin",
-    "en": "Wilhuff Tarkin",
-    "es": "Wilhuff Tarkin",
-    "fr": "Wilhuff Tarkin"
+    "fr": "Frontalier de l'Espace Sauvage",
+    "en": "Wild Space Fringer"
   },
   "wolffe": {
-    "de": "\"Wolffe\"",
-    "en": "\"Wolffe\"",
-    "es": "\"Wolffe\"",
-    "fr": "\"Wolffe\""
-  },
-  "wolfpack": {
-    "de": "Wolfsrudel",
-    "en": "Wolfpack",
-    "es": "Manada",
-    "fr": "Wolfpack"
-  },
-  "wrobietyce": {
-    "de": "Wrobie Tyce",
-    "en": "Wrobie Tyce",
-    "es": "Tyce Wrobie",
-    "fr": "Tyce Wrobie"
+    "fr": "\"Wolffe\"",
+    "en": "\"Wolffe\""
   },
   "wullffwarro": {
-    "de": "Wullffwarro",
-    "en": "Wullffwarro",
-    "es": "Wullffwarro",
-    "fr": "Wullffwarro"
+    "fr": "Wullffwarro",
+    "en": "Wullffwarro"
   },
   "xg1assaultconfiguration": {
-    "de": "Xg-1-Angriffskonfiguration",
-    "en": "Xg-1 Assault Configuration",
-    "es": "Configuración de asalto Xg-1",
-    "fr": "Configuration d'Assaut Xg-1"
-  },
-  "xx23sthreadtracers": {
-    "de": "XX-23-S-Serie-Peilsender",
-    "en": "XX-23 S-Thread Tracers",
-    "es": "Hiperrastreadores XX-23",
-    "fr": "Traceurs XX-23 S"
-  },
-  "yoda": {
-    "de": "Yoda",
-    "en": "Yoda",
-    "es": "Yoda",
-    "fr": "Yoda"
+    "fr": "Configuration d'Assaut Xg-1",
+    "en": "Xg-1 Assault Configuration"
   },
   "yt2400lightfreighter": {
-    "en": "YT-2400 Light Freighter",
-    "fr": "Cargo léger YT-2400"
+    "fr": "Cargo léger YT-2400",
+    "en": "YT-2400 Light Freighter"
   },
   "yv666lightfreighter": {
-    "en": "YV-666 Light Freighter",
-    "fr": "Cargo léger YV-666"
+    "fr": "Cargo léger YV-666",
+    "en": "YV-666 Light Freighter"
   },
   "z95af4headhunter": {
-    "en": "Z-95-AF4 Headhunter",
-    "fr": "Chasseur de Têtes Z-95-AF4"
-  },
-  "zamwesell": {
-    "de": "Zam Wesell",
-    "en": "Zam Wesell",
-    "es": "Zam Wesell",
-    "fr": "Zam Wesell"
+    "fr": "Chasseur de Têtes Z-95-AF4",
+    "en": "Z-95-AF4 Headhunter"
   },
   "zaribangel": {
-    "de": "Zari Bangel",
-    "en": "Zari Bangel",
-    "es": "Zari Bangel",
-    "fr": "Zari Bangel"
+    "fr": "Zari Bangel",
+    "en": "Zari Bangel"
   },
   "zealousrecruit": {
-    "de": "Fanatischer Rekrut",
-    "en": "Zealous Recruit",
-    "es": "Recluta entusiasta",
-    "fr": "Recrue Zélée"
+    "fr": "Recrue Zélée",
+    "en": "Zealous Recruit"
   },
   "zeborrelios": {
-    "de": "\"Zeb\" Orrelios",
-    "en": "\"Zeb\" Orrelios",
-    "es": "\"Zeb\" Orrelios",
-    "fr": "\"Zeb\" Orrelios"
+    "fr": "\"Zeb\" Orrelios",
+    "en": "\"Zeb\" Orrelios"
   },
   "zeborrelios-sheathipedeclassshuttle": {
-    "de": "\"Zeb\" Orrelios",
-    "en": "\"Zeb\" Orrelios",
-    "es": "\"Zeb\" Orrelios",
-    "fr": "\"Zeb\" Orrelios"
+    "fr": "\"Zeb\" Orrelios",
+    "en": "\"Zeb\" Orrelios"
   },
   "zeborrelios-tielnfighter": {
-    "de": "\"Zeb\" Orrelios",
-    "en": "\"Zeb\" Orrelios",
-    "es": "\"Zeb\" Orrelios",
-    "fr": "\"Zeb\" Orrelios"
+    "fr": "\"Zeb\" Orrelios",
+    "en": "\"Zeb\" Orrelios"
   },
   "zertikstrom": {
-    "de": "Zertik Strom",
-    "en": "Zertik Strom",
-    "es": "Zertik Strom",
-    "fr": "Zertik Strom"
+    "fr": "Zertik Strom",
+    "en": "Zertik Strom"
   },
   "zetasquadronpilot": {
-    "de": "Pilot der Zeta-Staffel",
-    "en": "Zeta Squadron Pilot",
-    "es": "Piloto del  Escuadrón Zeta",
-    "fr": "Pilote de l'Escadron Zeta"
+    "fr": "Pilote de l'Escadron Zeta",
+    "en": "Zeta Squadron Pilot"
   },
   "zetasquadronsurvivor": {
-    "de": "Überlebender der Zeta-Staffel",
-    "en": "Zeta Squadron Survivor",
-    "es": "Superviviente del Escuadrón Zeta",
-    "fr": "Survivant de l'Escadron Zeta"
+    "fr": "Survivant de l'Escadron Zeta",
+    "en": "Zeta Squadron Survivor"
   },
   "zizitlo": {
-    "de": "Zizi Tlo",
-    "en": "Zizi Tlo",
-    "es": "Zizi Tlo",
-    "fr": "Zizi Tlo"
+    "fr": "Zizi Tlo",
+    "en": "Zizi Tlo"
   },
   "zuckuss": {
-    "de": "Zuckuss",
-    "en": "Zuckuss",
-    "es": "Zuckuss",
-    "fr": "Zuckuss"
+    "fr": "Zuckuss",
+    "en": "Zuckuss"
   }
 }

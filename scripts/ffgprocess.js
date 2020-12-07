@@ -1,5 +1,5 @@
 /**
- * Processes ffgcards-en.json downloaded data and updates text (and some other) values in ../data/**
+ * Processes ffgcards.json downloaded data and updates text (and some other) values in ../data/**
  */
 
 const fs = require("fs");
@@ -12,24 +12,24 @@ const diffOpts = {
 };
 
 const readFile = pathFromRoot =>
-    fs.readFileSync(`${__dirname}/../${pathFromRoot}`, "utf8");
+  fs.readFileSync(`${__dirname}/../${pathFromRoot}`, "utf8");
 
-console.log("Reading ./ffgcards-en.json");
+console.log("Reading ./ffgcards.json");
 let dataString = "";
 try {
-  dataString = readFile("scripts/ffgcards-en.json");
+  dataString = readFile("scripts/ffgcards.json");
 } catch (err) {
-  console.log("Could not read ./ffgcards-en.json. Use ffgscrape.js first!");
+  console.log("Could not read ./ffgcards.json. Use ffgscrape.js first!");
   process.exit(1);
 }
 
-console.log("Reading ./ffgmetadata-en.json");
+console.log("Reading ./ffgmetadata.json");
 let metadata = {};
 try {
-  let metadataString = readFile("scripts/ffgmetadata-en.json");
+  let metadataString = readFile("scripts/ffgmetadata.json");
   metadata = JSON.parse(metadataString);
 } catch (err) {
-  console.log("Could not read ./ffgmetadata-en.json. Use ffgscrape.js first!");
+  console.log("Could not read ./ffgmetadata.json. Use ffgscrape.js first!");
   process.exit(1);
 }
 
