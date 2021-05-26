@@ -97,6 +97,16 @@
               ]
             }
           },
+          "shipAbility": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string"
+            }
+          },
+          "standardized": {
+            "type": "boolean"
+          },
           "sizes": {
             "type": "array",
             "minItems": 1,
@@ -232,6 +242,7 @@
                 "scavengedyt1300",
                 "belbullab22starfighter",
                 "delta7aethersprite",
+                "eta2actis",
                 "vultureclassdroidfighter",
                 "sithinfiltrator",
                 "hyenaclassdroidbomber",
